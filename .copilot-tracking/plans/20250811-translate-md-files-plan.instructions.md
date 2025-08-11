@@ -85,23 +85,23 @@ applyTo: ".copilot-tracking/changes/20250811-translate-md-files-changes.md"
 - [x] devbox-image-definition.instructions.md
 - [x] devops-core-principles.instructions.md
 - [x] dotnet-architecture-good-practices.instructions.md
-- [ ] dotnet-framework.instructions.md
-- [ ] dotnet-maui.instructions.md
-- [ ] dotnet-wpf.instructions.md
-- [ ] genaiscript.instructions.md
-- [ ] generate-modern-terraform-code-for-azure.instructions.md
-- [ ] gilfoyle-code-review.instructions.md
-- [ ] github-actions-ci-cd-best-practices.instructions.md
-- [ ] go.instructions.md
-- [ ] java.instructions.md
-- [ ] joyride-user-project.instructions.md
-- [ ] joyride-workspace-automation.instructions.md
-- [ ] kubernetes-deployment-best-practices.instructions.md
-- [ ] localization.instructions.md
-- [ ] markdown.instructions.md
-- [ ] memory-bank.instructions.md
-- [ ] ms-sql-dba.instructions.md
-- [ ] nestjs.instructions.md
+- [x] dotnet-framework.instructions.md
+- [x] dotnet-maui.instructions.md
+- [x] dotnet-wpf.instructions.md
+- [x] genaiscript.instructions.md
+- [x] generate-modern-terraform-code-for-azure.instructions.md
+- [x] gilfoyle-code-review.instructions.md
+- [x] github-actions-ci-cd-best-practices.instructions.md
+- [x] go.instructions.md
+- [x] java.instructions.md
+- [x] joyride-user-project.instructions.md
+- [x] joyride-workspace-automation.instructions.md
+- [x] kubernetes-deployment-best-practices.instructions.md
+- [x] localization.instructions.md
+- [x] markdown.instructions.md
+- [x] memory-bank.instructions.md
+- [x] ms-sql-dba.instructions.md
+- [x] nestjs.instructions.md
 - [ ] nextjs-tailwind.instructions.md
 - [ ] nextjs.instructions.md
 - [ ] nodejs-javascript-vitest.instructions.md
