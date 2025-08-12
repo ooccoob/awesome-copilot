@@ -1,16 +1,21 @@
 {
-  "version": "2.0.0",
-  "tasks": [
-    {
-      "label": "generate-readme",
-      "type": "shell",
-      "command": "node update-readme.js",
-      "problemMatcher": [],
-      "group": {
-        "kind": "build",
-        "isDefault": true
-      },
-      "detail": "Generates the README.md file using update-readme.js script."
-    }
-  ]
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "generate-readme",
+			"type": "shell",
+			"command": "node update-readme.js",
+			"problemMatcher": [],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"detail": "Generates the README.md file using update-readme.js script."
+		},
+		{
+			"label": "count-lines-playwright",
+			"type": "shell",
+			"command": "powershell -NoProfile -Command \"& { $src='d:\\mycode\\awesome-copilot\\chatmodes\\playwright-tester.chatmode.md'; $tgt='d:\\mycode\\awesome-copilot\\localization\\zh-cn\\chatmodes\\playwright-tester.chatmode.md'; (Get-Content $src | Measure-Object -Line).Lines; (Get-Content $tgt | Measure-Object -Line).Lines }\""
+		}
+	]
 }
