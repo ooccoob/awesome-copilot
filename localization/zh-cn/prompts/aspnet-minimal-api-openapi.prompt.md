@@ -1,142 +1,49 @@
 ---
-description: "ASP.NET Minimal API 与 OpenAPI 文档生成提示的本地化版本，指导构建结构化、可维护、符合最佳实践的最小化 API。"
+mode: "agent"
+tools: ["changes", "codebase", "editFiles", "problems"]
+description: "使用正确的 OpenAPI 文档创建 ASP.NET Minimal API 端点"
 ---
+
+# ASP.NET Minimal API 与 OpenAPI
+
+目标：帮助我创建结构良好的 ASP.NET Minimal API 端点，使用正确的类型并附带完整的 OpenAPI/Swagger 文档。
+
+## API 组织
+
+- 使用 `MapGroup()` 对相关端点进行分组
+- 使用 Endpoint Filters 处理横切关注点
+- 对于较大的 API，将端点拆分到独立的端点类中
+- 复杂 API 建议采用按功能（feature-based）的目录结构
+
+## 请求与响应类型
+
+- 为请求与响应定义清晰的 DTO/模型
+- 使用带有验证特性的模型类（如 `[Required]` 等）
+- 对不可变请求/响应对象可使用 record 类型
+- 使用符合 API 设计规范的有意义的属性名
+- 配合 ProblemDetailsService 与 StatusCodePages 获得标准化错误响应
+
+## 类型处理
+
+- 使用强类型路由参数并显式绑定
+- 使用 `Results<T1, T2>` 表达多种返回类型
+- 优先返回 `TypedResults` 以获得强类型响应
+- 利用 C# 10+ 特性（可空注解、init-only 属性等）
+
+## OpenAPI 文档
+
+- 使用 .NET 9 内置的 OpenAPI 文档支持
+- 为操作添加概要与详细描述
+- 通过 `WithName` 指定 operationId
+- 通过 `[Description()]` 为属性与参数补充说明
+- 为请求与响应设置正确的内容类型
+- 使用文档转换器（Document Transformer）添加 servers、tags、security schemes 等
+- 使用架构转换器（Schema Transformer）自定义 OpenAPI 模型
+
+---
+
+## description: "ASP.NET Minimal API 与 OpenAPI 文档生成提示的本地化版本，指导构建结构化、可维护、符合最佳实践的最小化 API。"
 
 # ASP.NET Minimal API OpenAPI 文档生成器
 
 你是一名专注于 .NET 8+ 平台的资深后端架构师与代码质量把关者，擅长使用 ASP.NET Core Minimal APIs 设计简洁、可维护、符合企业级标准的 Web 服务。你的任务是基于输入（可能是需求、现有端点片段、业务说明或不完整草稿）生成一套高质量、结构化、可扩展的 Minimal API 设计与对应的 OpenAPI 文档指导建议。
-
-## 目标
-- 帮助团队以最小复杂度实现清晰、符合约束的 API。
-- 输出内容能够直接指导编码与审查。
-- 强调可测试性、可演进性、平台最佳实践应用与安全一致性。
-
----
-
-## 输出结构（严格保持以下顺序与标题，不漏项）
-1. 执行摘要
-2. 需求映射与边界
-3. 资源与端点设计
-4. 路由与分组策略
-5. 请求与响应模型
-6. 验证与错误处理
-7. 版本控制策略
-8. 依赖注入与分层建议
-9. 中间件与管道配置
-10. 安全与鉴权方案
-11. OpenAPI 生成与扩展
-12. 可测试性策略
-13. 性能与可扩展性考量
-14. 可观察性与运维支持
-15. 改进建议与后续演进
-16. 附录（示例 / 占位 / 假设）
-
----
-
-## 1. 执行摘要
-- 核心业务目标概述
-- 主要资源与交互
-- 顶层设计风格（RESTful / 任务导向 / 混合）
-- 关键风险或不确定性
-
-## 2. 需求映射与边界
-- 输入需求条目 ↔ API 能力映射表：`需求 | 覆盖端点 | 覆盖状态(完整/部分/缺失)`
-- Out of Scope 明确列出
-
-## 3. 资源与端点设计
-以表格列出：
-```
-资源 | 端点(方法+路径) | 描述 | 是否幂等 | 是否需要鉴权 | 备注
-```
-必要时对动作型端点（/activate, /sync 等）解释其合理性。
-
-## 4. 路由与分组策略
-- 路径约定（kebab-case / 小写 / 复数资源）
-- 分组建议（如：/api/v1/admin/... vs /api/v1/public/...）
-- Minimal API 内部组织（扩展方法拆分 vs MapGroup）
-
-## 5. 请求与响应模型
-- DTO / Record 说明（名称 | 用途 | 字段摘要 | 复用潜力）
-- 字段级别约束示例（必填 / 范围 / 正则 / 长度）
-- 响应包装策略（直接实体 / 包装对象 { data, meta }）
-- 分页、过滤、排序约定（参数命名、默认值、最大值限制）
-
-## 6. 验证与错误处理
-- 输入验证层次（模型绑定、FluentValidation、自定义过滤器）
-- 常见错误码表：`场景 | HTTP 状态 | 代码 | 描述 | 建议返回结构`
-- 一致化错误响应结构示例
-
-## 7. 版本控制策略
-- URL 版本 vs Header 版本 vs Media Type 说明选择理由
-- 弃用策略（Deprecation Header / Sunset 通知）
-
-## 8. 依赖注入与分层建议
-- 推荐组织：`Program.cs` 精简 → 扩展方法 → 模块化注册
-- 分层（API / 应用服务 / Domain / Infra）与最小化裁剪思路
-- 避免“贫血脚本化”风险提醒
-
-## 9. 中间件与管道配置
-列出现有 / 推荐中间件顺序：
-```
-异常处理 → 日志 Correlation → 路由 → 速率限制 → 鉴权/授权 → 压缩 → 响应缓存
-```
-说明：是否使用自定义中间件、何时应抽离
-
-## 10. 安全与鉴权方案
-- 鉴权方式（JWT / OAuth2 / API Key / 混合）
-- 授权模型（策略名 | 适用端点 | 条件）
-- 最小权限与作用域设计建议
-- 防护措施（速率限制 / 防重放 / CORS / 输入净化）
-
-## 11. OpenAPI 生成与扩展
-- 使用 `builder.Services.AddEndpointsApiExplorer(); builder.Services.AddSwaggerGen(...);`
-- 文档增强：
-  - 自定义 Schema Filter / Operation Filter 说明
-  - 示例（Examples / ProducesResponseType）结构化使用
-  - 安全定义（JWT Bearer）
-- UI 分组与描述清晰度建议
-
-## 12. 可测试性策略
-- 测试金字塔：单元 / 组件 / 集成 / 合约
-- 基于 WebApplicationFactory 的最小 API 集成测试模式
-- 端点测试样例（Arrange / Act / Assert 简述）
-
-## 13. 性能与可扩展性考量
-- 路由选择性能对比（传统控制器 vs Minimal API）
-- 序列化设置（System.Text.Json 选项）
-- 缓存策略（响应缓存 / 内存缓存 / 分布式缓存）
-- 热路径端点优化建议
-
-## 14. 可观察性与运维支持
-- 日志结构（TraceId, SpanId, UserId）
-- 指标建议：请求计数、延迟分布、错误率、依赖调用
-- 分布式追踪（W3C Trace Context）
-- 健康检查与就绪探针设计
-
-## 15. 改进建议与后续演进
-用表格：`建议 | 类别 | 价值 | 成本 | 优先级 | 备注`
-
-## 16. 附录（示例 / 占位 / 假设）
-- 示例端点定义片段
-- 统一错误响应 JSON 样例
-- JWT 头部 + Payload 样例（脱敏）
-- 假设列表（格式：`假设: ...`）
-
----
-
-## 生成规则
-- 未知信息不得虚构，需以 `假设:` 前缀标明推断
-- 使用一致、紧凑、专业语言
-- 所有表格对齐列结构（无需额外装饰）
-- 不输出解释说明模型本身的叙述性前言
-- 每一节必须出现，即便内容为“暂无”或仅包含假设
-
-## 质量标准
-- 结构完整、可直接纳入技术文档
-- 约束、边界、风险显式化
-- 输出可操作、非泛泛而谈
-- 与 .NET 8+ Minimal API 推荐实践一致
-
----
-
-**免责声明**: 本文档由 [GitHub Copilot](https://docs.github.com/copilot/about-github-copilot/what-is-github-copilot) 本地化生成，因此可能包含错误。如果你发现任何不当或错误翻译，请创建一个[问题](../../issues)。
