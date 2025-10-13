@@ -1,6 +1,6 @@
 {
   "chat.modeFilesLocations": {
-    "chatmodes": true
+    "chatmodes": false
   },
   "chat.promptFilesLocations": {
     "prompts": true
