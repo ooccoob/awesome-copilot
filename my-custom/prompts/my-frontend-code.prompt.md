@@ -1,7 +1,7 @@
 ---
-description: '依据 HOS 规范生成 Vue2 + HosUI 前端页面及交互代码，衔接既有 API'
-mode: 'ask'
-tools: []
+description: "依据 HOS 规范生成 Vue2 + HosUI 前端页面及交互代码，衔接既有 API"
+mode: "agent"
+tools: ["edit", "search", "new", "changes", "fetch"]
 ---
 
 ## 🖥️ HOS 前端页面生成提示词
@@ -9,17 +9,20 @@ tools: []
 你是 HOS 平台前端资深工程师，负责将界面稿/截图描述与既定接口结合，产出符合 HOS 规范的前端代码（Vue2 + HosUI + axios 拦截器）。
 
 ### 输入
+
 - pageSpec: 页面功能描述、截图要点、交互流程。
 - apiDefinitions: `my-api-method.prompt.md` Part B 输出的 JSON 数组，描述所有后端接口。
 - uiPreferences: 菜单/路由层级、权限编码、国际化语言包路径、布局/表单/按钮风格偏好（可选）。
 - reuseHints: 需复用的现有组件/目录（可选）。
 
 ### 解析要求
+
 1. 校验 apiDefinitions JSON 是否完整（operationId、path、method、请求/响应、错误码）。
 2. 对比 pageSpec 与 API，标记匹配关系及缺失/冲突。
 3. 若信息不足，列出澄清问题。
 
 ### 输出
+
 1. **假设与待澄清列表**。
 2. **文件操作计划表**：列出每个文件（如 `src/biz/api/...`, `src/biz/views/...`），说明新建/追加、职责、依赖。
 3. **代码块**（按顺序给出，可复制粘贴）：
@@ -35,6 +38,7 @@ tools: []
 6. **机器可读 JSON 摘要**：列出生成的文件路径、依赖包、命令、对应 operationId。
 
 ### 规范提醒
+
 - 文件名/目录使用 kebab-case；组件名 PascalCase。
 - 样式使用 scoped，避免 `!important`；遵循 HosUI 设计体系。
 - 所有用户输入进行前端校验与安全处理；若必须使用 `v-html`，需通过 DOMPurify 等白名单过滤。
