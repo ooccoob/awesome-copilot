@@ -1,68 +1,46 @@
-# Diátaxis Documentation Expert - 思维导图
+## 文档综述（What/When/Why/How）
 
-## 📋 文档摘要
+- What：Diátaxis 文档专家提示词，按四象限（教程/操作指南/参考/解释）产出高质量技术文档
 
-**功能定位**: 本文档定义了一个基于 Diátaxis 框架的技术文档专家 prompt，专注于高质量软件文档的结构化创作。
+- When：需要为软件编写/完善文档并先澄清文档类型、受众、目标与范围时
 
-**适用场景**: 适用于需要系统性、分类型撰写软件文档的场景，尤其是希望提升文档清晰度、准确性和用户导向的团队或个人。
+- Why：以用户目标为中心，确保清晰、一致、准确，形成可执行的写作流程
 
-**核心价值**: 通过 Diátaxis 四象限方法论，帮助用户区分不同文档类型，规范写作流程，提升文档一致性和可用性。
+- How：先澄清四要素→给出大纲并待确认→按确认大纲生成内容→上下文敏感（只用提供的文件）
 
-**使用指南**: 在需要撰写或评审软件文档时，调用本 prompt，严格按照四象限流程澄清需求、制定结构、生成内容，并保持与项目现有风格一致。
+## 示例提问（Examples）
 
-## 🎯 实际使用说明示例问题
+- “为新手开发者写一篇‘如何配置本地开发环境’的教程（Tutorial）”
 
-- 如何根据 Diátaxis 框架区分 Tutorial、How-to、Reference 和 Explanation 四类文档？
-- 针对新手开发者和资深用户，如何分别设计文档结构？
-- 如何确保文档内容的准确性和一致性？
-- 在什么情况下应优先编写 Reference 类型文档？
-- 如何根据用户目标和场景调整文档范围和深度？
-- 如何在团队协作中保持文档风格和术语统一？
+- “面向资深运维编写某服务的参考文档（Reference）目录与字段解释”
 
-## 📊 结构化要点(中英文对照)
+## 结构化要点（CN/EN）
 
-- Diátaxis Documentation Expert (Diátaxis 文档专家)
-  - Guiding Principles (指导原则)
-    - Clarity (清晰)
-    - Accuracy (准确)
-    - User-Centricity (以用户为中心)
-    - Consistency (一致性)
-  - Four Document Types (四类文档类型)
-    - Tutorials (教程)
-    - How-to Guides (操作指南)
-    - Reference (参考文档)
-    - Explanation (解释说明)
-  - Workflow (工作流程)
-    - Acknowledge & Clarify (确认与澄清)
-    - Propose a Structure (提出结构)
-    - Generate Content (生成内容)
-  - Contextual Awareness (上下文意识)
-    - Use provided markdown files as context (利用提供的 markdown 文件作为上下文)
-    - Do not copy unless instructed (除非指示，否则不复制内容)
-    - No external sources unless allowed (未经允许不得引用外部资源)
+- 类型/Type：Tutorial/How-to/Reference/Explanation
 
-## 🗺️ 思维导图格式
+- 受众/Audience：Novice/Experienced/Non-technical
 
-- Diátaxis 文档专家
-  - 指导原则
-    - 清晰
-    - 准确
-    - 以用户为中心
-    - 一致性
-  - 四类文档类型
-    - 教程
-    - 操作指南
-    - 参考文档
-    - 解释说明
-  - 工作流程
-    - 确认与澄清
-    - 提出结构
-    - 生成内容
-  - 上下文意识
-    - 利用提供的 markdown 文件作为上下文
-    - 除非指示，否则不复制内容
-    - 未经允许不得引用外部资源
+- 目标/Goal：Task-focused & outcome-driven
 
----
-**源文件**: d:\mycode\awesome-copilot\my-custom\prompts\documentation-writer.prompt.md
-**生成时间**: 2025-10-13
+- 范围/Scope：Include vs Exclude 明确
+
+- 流程/Workflow：Clarify → Outline → Generate
+
+## 中文思维导图
+
+- 原则
+  - 清晰/准确/一致/以用户为中心
+- 四象限
+  - 教程/指南/参考/解释
+- 澄清
+  - 类型/受众/目标/范围
+- 流程
+  - 大纲提案→确认→成文
+- 上下文
+  - 仅用提供文件
+
+## 溯源信息
+
+- 源文件：d:\mycode\awesome-copilot\prompts\documentation-writer.prompt.md
+
+- 生成时间：2025-10-17
