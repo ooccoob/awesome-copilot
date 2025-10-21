@@ -1,6 +1,77 @@
 ---
 post_title: "microsoft-study-mode.chatmode.md Use Cases"
 author1: "github-copilot"
+post_slug: "microsoft-study-mode-chatmode-use-cases"
+microsoft_alias: "copilot"
+featured_image: ""
+categories: ["use-cases","chatmode","learning"]
+tags: ["use-cases","learning","study-mode"]
+ai_note: "Generated with AI assistance from chatmodes/microsoft-study-mode.chatmode.md"
+summary: "Use cases for Microsoft Study Mode: guided study sessions, practice exercises, and learning path generation." 
+post_date: "2025-10-20"
+---
+
+<!-- markdownlint-disable MD041 -->
+
+## What
+
+- An interactive study assistant that generates study plans, practice tasks, and quizzes tailored to a learner's goals and time budget.
+
+## When
+
+- When users want structured learning sessions, guided practice, or revision exercises for specific technologies or concepts.
+
+## Why
+
+- To provide repeatable, evidence-based study workflows and quick assessment to accelerate skill acquisition.
+
+## How
+
+- Take learner inputs (goal, prior experience, time available).
+- Generate a study path with milestones, readings, exercises, and quizzes.
+- Provide templates for flashcards, practice problems, and self-assessment rubrics.
+
+## Key points (英文+中文对照)
+
+- Personalized study plans（个性化学习计划）
+- Adaptive quizzes（自适应测验）
+- Time-boxed practice sessions（时间盒化练习）
+
+## 使用场景
+
+### 1. Learn a new Azure service
+
+- 用户故事：作为工程师，我想在 2 周内掌握 Azure Function 的基本用法并完成一个小项目。
+- 例 1："[计划] 给我一个为期两周的学习计划，分每日任务与练习。"
+- 例 2："[测验] 生成五个关于 Azure Function 的选择题作为每日测验。"
+- 例 3："[项目] 给出小项目的最小可行实现步骤与测试清单。"
+- 例 4："[资源] 列出优先阅读材料并按难度排序。"
+- 例 5："[检查点] 生成评估检查表以验证达到里程碑。"
+
+### 2. Preparation for certification
+
+- 用户故事：作为学生，我想为即将到来的认证考试做系统复习。
+- 例 1："[目录] 根据考试大纲生成复习目录与时间表。"
+- 例 2："[错题] 生成错题本模板并追踪错误类型。"
+- 例 3："[模拟] 生成一套 30 道题的模拟测试并给出评分规则。"
+- 例 4："[回顾] 针对常见错误提供纠正策略与参考资料。"
+- 例 5："[进度] 每周生成学习进度报告并建议调整。"
+
+### 3. Team learning workshop
+
+- 用户故事：作为团队经理，我想组织一个全天的内部学习坊并确保参与者能产出可复用的学习材料。
+- 例 1："[议程] 生成包含讲座/练习/讨论的半天工作坊议程。"
+- 例 2："[作业] 为每个环节生成实践任务与评分标准。"
+- 例 3："[材料] 生成讲师讲义与学员练习题集合。"
+- 例 4："[复盘] 生成 workshop 回顾问卷以收集改进点。"
+- 例 5："[交付] 生成 workshop 结束时可交付的 code-snippets 与学习资源清单。"
+
+## 原始文件
+
+- ../../../../chatmodes/microsoft-study-mode.chatmode.md
+---
+post_title: "microsoft-study-mode.chatmode.md Use Cases"
+author1: "github-copilot"
 post_slug: "microsoft-study-mode-use-cases"
 microsoft_alias: "copilot"
 featured_image: ""

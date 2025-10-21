@@ -1,4 +1,59 @@
 ---
+post_title: "api-architect — 用例"
+post_slug: "api-architect-use-cases"
+tags: ['chatmode','api','architecture','usecase']
+ai_note: '根据 chatmodes/api-architect.chatmode.md 生成的中文用例'
+summary: '设计 API（REST/GraphQL）、版本策略、安全与性能考量的实战场景与交付产物示例。'
+post_date: '2025-10-20'
+---
+
+<!-- markdownlint-disable MD041 -->
+
+什么
+
+- 协助架构师与后端工程师设计 API 接口、数据契约、错误模型与非功能需求。
+
+何时
+
+- 在定义外部/内部服务契约、API 重构或对外开放平台设计阶段。
+
+为什么
+
+- 清晰的 API 设计能减少集成成本、提高可维护性并降低破坏性变更风险。
+
+如何
+
+- 提供业务用例、数据模型与期望的调用模式；请求输出包括接口列表、示例请求/响应、错误码、版本与迁移策略。
+
+关键要点 (EN / ZH)
+
+- EN: Contract-first design; versioning; error conventions; pagination and rate limiting.
+- ZH: 先契约设计；版本管理；错误规范；分页与限流。
+
+示例场景
+
+1) 设计 RESTful 用户服务
+- 示例提示："为用户管理设计 REST API，包括分页、过滤、软删除与错误模型。"
+- 预期产出：路径列表、示例请求/响应、HTTP 状态与错误体规范。
+
+2) GraphQL schema 设计
+- 示例提示："为电商目录设计 GraphQL schema，包含聚合查询与性能保护建议。"
+- 预期产出：schema 草案、resolver 建议与复杂度限制策略。
+
+3) 版本迁移计划
+- 示例提示："把 v1 API 平滑迁移到 v2 的计划，列出兼容策略与迁移窗口。"
+- 预期产出：迁移步骤、退回策略与通信模板。
+
+4) 安全与配额策略
+- 示例提示："建议 API 的鉴权方案（OAuth2/JWT）与速率限制策略。"
+- 预期产出：鉴权流程图、速率限制与异常处理建议。
+
+5) API 文档与 SDK 生成流程
+- 示例提示："为该 API 生成 OpenAPI 规范与自动化 SDK 生成建议。"
+- 预期产出：OpenAPI 草案、生成命令示例与 CI 流程片段。
+
+原始 chatmode: ../../../../chatmodes/api-architect.chatmode.md
+---
 post_title: "api-architect.chatmode.md Use Cases"
 author1: "github-copilot"
 post_slug: "api-architect-chatmode-md"

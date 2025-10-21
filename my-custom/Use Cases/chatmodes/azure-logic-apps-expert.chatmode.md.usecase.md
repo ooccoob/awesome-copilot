@@ -1,4 +1,59 @@
 ---
+post_title: "azure-logic-apps-expert — 用例"
+post_slug: "azure-logic-apps-expert-use-cases"
+tags: ['chatmode','azure','logic-apps','usecase']
+ai_note: '根据 chatmodes/azure-logic-apps-expert.chatmode.md 生成的中文用例'
+summary: '为 Azure Logic Apps 设计、调试、迁移与监控提供具体场景与工作产出示例。'
+post_date: '2025-10-20'
+---
+
+<!-- markdownlint-disable MD041 -->
+
+什么
+
+- 协助架构与运维工程师在 Logic Apps 上设计事件驱动工作流、映射连接器与构建错误恢复策略。
+
+何时
+
+- 在集成项目、自动化任务或需要快速搭建云端事件流时使用。 
+
+为什么
+
+- Logic Apps 提供可视化与大规模连接器，让团队快速实现集成与工作流自动化，但需要良好错误处理和监控策略。
+
+如何
+
+- 提供目标业务流程、触发条件与所需连接器；请求生成工作流草图、配置示例、重试/补偿策略与部署模板。 
+
+关键要点 (EN / ZH)
+
+- EN: Connector mapping; durable error handling; monitoring and alerts.
+- ZH: 连接器映射；持久化错误处理；监控与告警。
+
+示例场景
+
+1) 设计文件处理工作流
+- 示例提示："为文件上传触发的图像处理/缩略图生成设计 Logic App，包括失败回退与重试策略。"
+- 预期产出：工作流图、连接器配置、重试策略与示例 JSON 模板。
+
+2) 迁移现有工作流到 ARM/Terraform
+- 示例提示："把现有 Logic App 导出为可在 CI 中部署的 ARM/Terraform 模板。"
+- 预期产出：ARM 或 Terraform 片段与部署步骤。
+
+3) 集成第三方 API
+- 示例提示："为支付回调集成第三方 webhook 并确保幂等性与签名验证。"
+- 预期产出：连接器配置、验证流程与安全建议。
+
+4) 监控与告警策略
+- 示例提示："定义 Logic App 的关键指标、日志收集与告警阈值。"
+- 预期产出：监控清单、示例 Kusto 查询及告警规则。
+
+5) 性能与成本优化建议
+- 示例提示："优化一个高并发触发的 Logic App 以减少成本并提升吞吐。"
+- 预期产出：并发控制、批处理与资源选择建议。
+
+原始 chatmode: ../../../../chatmodes/azure-logic-apps-expert.chatmode.md
+---
 post_title: "azure-logic-apps-expert.chatmode.md Use Cases"
 author1: "github-copilot"
 post_slug: "azure-logic-apps-expert-use-cases"

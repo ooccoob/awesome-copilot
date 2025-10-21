@@ -1,6 +1,77 @@
 ---
 post_title: "microsoft_learn_contributor.chatmode.md Use Cases"
 author1: "github-copilot"
+post_slug: "microsoft-learn-contributor-chatmode-use-cases"
+microsoft_alias: "copilot"
+featured_image: ""
+categories: ["use-cases","chatmode","education"]
+tags: ["use-cases","learn","contributor"]
+ai_note: "Generated with AI assistance from chatmodes/microsoft_learn_contributor.chatmode.md"
+summary: "Use cases for Microsoft Learn Contributor: guiding content creation, exercise generation, and localization support for Learn modules." 
+post_date: "2025-10-20"
+---
+
+<!-- markdownlint-disable MD041 -->
+
+## What
+
+- A contributor assistant tailored to authoring and improving Microsoft Learn modules: generating exercises, checking clarity, and suggesting localization improvements.
+
+## When
+
+- When content authors need help drafting learning modules, generating practice tasks, or ensuring content meets clarity and accessibility guidelines.
+
+## Why
+
+- To reduce authoring time, improve pedagogical quality, and streamline localization and accessibility checks.
+
+## How
+
+- Analyze module outlines or drafts to suggest exercises, knowledge checks, and sequencing.
+- Provide localized phrasing suggestions and accessibility improvements.
+- Create sample quizzes, labs, and evaluation rubrics.
+
+## Key points (英文+中文对照)
+
+- Exercise generation（习题生成）
+- Accessibility checks（可访问性检查）
+- Localization suggestions（本地化建议）
+
+## 使用场景
+
+### 1. Draft a new Learn module
+
+- 用户故事：作为课程作者，我想快速生成章节练习和评估以便节省时间。
+- 例 1："[练习] 根据本章要点生成 10 道选择题并给出答案与解析。"
+- 例 2："[教学目标] 为本模块生成清晰的学习目标与测评标准。"
+- 例 3："[示例] 为关键概念生成 3 个示例并配对代码片段。"
+- 例 4："[可访问性] 检查内容的可访问性问题并给出改进建议。"
+- 例 5："[本地化] 给出常见本地化陷阱并提供替代措辞。"
+
+### 2. Review and improve existing content
+
+- 用户故事：作为审稿人，我想自动检测歧义、术语不一致与可读性问题。
+- 例 1："[审校] 列出文本中可能引起歧义的句子并建议替换。"
+- 例 2："[一致性] 检查术语使用并生成术语表。"
+- 例 3："[示例] 为复杂步骤生成更详细的示例和截图建议。"
+- 例 4："[评分] 自动为练习题生成评分标准与示例答案。"
+- 例 5："[回归] 跟踪修改并生成变更摘要以供发布日志。"
+
+### 3. Localization and translation support
+
+- 用户故事：作为本地化负责人，我想先得到适配目标语言的措辞建议和注释。
+- 例 1："[翻译建议] 基于目标语言优化措辞以保留技术精度。"
+- 例 2："[术语表] 生成目标语言术语对照表。"
+- 例 3："[文化差异] 标注明显文化敏感点并建议替代表达。"
+- 例 4："[测试] 生成一组本地化后需验证的检查点。"
+- 例 5："[回退] 提供原始英文与本地化建议的对照视图以便审阅。"
+
+## 原始文件
+
+- ../../../../chatmodes/microsoft_learn_contributor.chatmode.md
+---
+post_title: "microsoft_learn_contributor.chatmode.md Use Cases"
+author1: "github-copilot"
 post_slug: "microsoft-learn-contributor-use-cases"
 microsoft_alias: "copilot"
 featured_image: ""

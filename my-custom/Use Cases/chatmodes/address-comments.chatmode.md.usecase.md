@@ -1,4 +1,59 @@
 ---
+post_title: "address-comments — 用例"
+post_slug: "address-comments-use-cases"
+tags: ['chatmode','reviews','usecase']
+ai_note: '根据 chatmodes/address-comments.chatmode.md 生成的中文用例'
+summary: '将评论、审查和反馈转化为可执行任务、代码片段或礼貌回复的场景示例。'
+post_date: '2025-10-20'
+---
+
+<!-- markdownlint-disable MD041 -->
+
+什么
+
+- 帮助工程师与产品人员处理代码评审或文档评论，将评论归类、生成回复草稿或转成任务卡。 
+
+何时
+
+- 在代码审查、PR 评论、设计评审或用户反馈汇总后需要快速解决意见时。
+
+为什么
+
+- 提高审查效率，减少来回沟通成本，保证评论被转化为明确的下一步行动。
+
+如何
+
+- 提供评论列表或 PR 链接，指定目标（回复/修复/转任务），请求按优先级分类并给出可复制的回复或修复建议。
+
+关键要点 (EN / ZH)
+
+- EN: Classify comments; suggest fixes; generate polite replies and task cards.
+- ZH: 评论归类；给出修复建议；生成礼貌回应与任务卡。
+
+示例场景
+
+1) 生成 PR 回复草稿
+- 示例提示："为以下评论生成简洁礼貌的回应：'<comment>'。"
+- 预期产出：三种语气的回复模板（直截/解释性/缓和）。
+
+2) 将评论转为任务卡
+- 示例提示："把下面的 6 条代码审查评论拆成 Jira 任务，包含标题、验收标准与指派建议。"
+- 预期产出：6 条任务卡 CSV 或 JSON，适合导入。
+
+3) 提供具体代码修复建议
+- 示例提示："评论指出潜在的 race condition，给出 2 个可行的修复代码片段并解释权衡。"
+- 预期产出：示例代码片段与权衡说明。
+
+4) 统一风格与术语建议
+- 示例提示："对评论中提到的术语不一致提出规范化建议并给出文档段落示例。"
+- 预期产出：术语一致性建议与替换示例。
+
+5) 高优先级问题快速处置清单
+- 示例提示："列出需要立刻处理的评论（安全/性能/崩溃），并给出每项 1 步修复建议。"
+- 预期产出：优先级清单与快速修复步骤。
+
+原始 chatmode: ../../../../chatmodes/address-comments.chatmode.md
+---
 post_title: "address-comments.chatmode.md Use Cases"
 author1: "github-copilot"
 post_slug: "address-comments-chatmode-md"

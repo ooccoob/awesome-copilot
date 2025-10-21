@@ -1,4 +1,59 @@
 ---
+post_title: "accesibility — 用例"
+post_slug: "accesibility-use-cases"
+tags: ['chatmode','accessibility','usecase']
+ai_note: '根据 chatmodes/accesibility.chatmode.md 生成的中文用例'
+summary: '用于可访问性审计、修复建议与可用性测试脚本生成的场景示例。'
+post_date: '2025-10-20'
+---
+
+<!-- markdownlint-disable MD041 -->
+
+什么
+
+- 针对网页/应用的可访问性检查、建议与可复用测试脚本或文案修正。
+
+何时
+
+- 在发布迭代前做无障碍合规检查、或在设计阶段嵌入可访问性考量以降低后期返工。
+
+为什么
+
+- 保障不同能力用户的可用体验，符合 WCAG 要求并降低法律与用户风险。
+
+如何
+
+- 提供页面 URL / 代码片段 / 设计稿并指定目标 WCAG 等级；请求生成问题清单、修复步骤和可执行的测试用例。
+
+关键要点 (EN / ZH)
+
+- EN: WCAG-focused checks; assistive technology considerations; remediation steps.
+- ZH: 面向 WCAG 的检查；辅助技术兼容性；修复步骤与验证方法。
+
+示例场景
+
+1) 快速页面无障碍检查
+- 示例提示："检查 https://example.com/login 页面并列出违反 WCAG 2.1 AA 的点与优先级修复建议。"
+- 预期产出：问题清单、修复代码片段与优先级。
+
+2) 生成可执行测试脚本
+- 示例提示："为主要表单生成 Playwright/selenium 的可访问性检查脚本，包括键盘导航与 ARIA 验证。"
+- 预期产出：可直接运行的测试脚本示例与说明。
+
+3) 无障碍文案重写
+- 示例提示："把按钮文案‘点击这里’替换成更语义化的文本并给出 3 个备选。"
+- 预期产出：三条语义化文案与适用场景说明。
+
+4) 辅助设备兼容建议
+- 示例提示："评估该页面与屏幕阅读器 NVDA/VoiceOver 的兼容性并提出改进点。"
+- 预期产出：兼容性问题列表与针对性修复建议。
+
+5) 可访问性验收准则清单
+- 示例提示："为团队提供一页可执行的可访问性验收检查清单（移动与桌面）。"
+- 预期产出：一页清单，可用于 PR 审查流程。
+
+原始 chatmode: ../../../../chatmodes/accesibility.chatmode.md
+---
 post_title: "accesibility.chatmode.md Use Cases"
 author1: "github-copilot"
 post_slug: "accessibility-use-cases"

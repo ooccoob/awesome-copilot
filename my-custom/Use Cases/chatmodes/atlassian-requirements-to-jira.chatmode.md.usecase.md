@@ -1,4 +1,59 @@
 ---
+post_title: "atlassian-requirements-to-jira — 用例"
+post_slug: "atlassian-requirements-to-jira-use-cases"
+tags: ['chatmode','atlassian','jira','usecase']
+ai_note: '根据 chatmodes/atlassian-requirements-to-jira.chatmode.md 生成的中文用例'
+summary: '将产品需求或文档快速转换为 Jira 史诗/故事/任务和验收标准的场景示例。'
+post_date: '2025-10-20'
+---
+
+<!-- markdownlint-disable MD041 -->
+
+什么
+
+- 把自由文本的需求说明或 Word/Confluence 文档结构化为 Jira 可导入的工作项（epic/story/task）并生成验收标准。
+
+何时
+
+- 在需求评审后需要快速生成 backlog 条目或在产品迭代前准备 Sprint 规划内容时。
+
+为什么
+
+- 节省人工拆分与填写工作，提高 backlog 一致性并确保验收标准可测试。
+
+如何
+
+- 提供需求描述或 Confluence 页面链接并指定拆分粒度，系统输出 CSV/JSON 可导入的 Jira 条目及验收标准模板。
+
+关键要点 (EN / ZH)
+
+- EN: Break down requirements to epics/stories/tasks; create acceptance criteria; produce importable CSV/JSON.
+- ZH: 将需求拆解为史诗/故事/任务；生成验收标准；输出可导入的 CSV/JSON。
+
+示例场景
+
+1) 从 PRD 生成 Story 列表
+- 示例提示："把下面的 PRD 段落拆成最多 12 个故事，每个故事包括标题、描述与验收标准。"
+- 预期产出：12 条 story 的 CSV，可直接导入 Jira。
+
+2) 为每个故事生成估算与依赖
+- 示例提示："为下列故事建议 Story Points（1/2/3/5/8）并标出横向依赖。"
+- 预期产出：每个 story 的估算与依赖关系表。
+
+3) 生成 Sprint 划分建议
+- 示例提示："把这些 stories 按 2 周 Sprint 分组并生成每 Sprint 的目标。"
+- 预期产出：Sprint 列表与目标说明。
+
+4) 批量导入模板
+- 示例提示："输出用于 Jira CSV 导入的字段映射及样例行。"
+- 预期产出：CSV 模板示例与字段说明。
+
+5) 转换验收标准为测试用例骨架
+- 示例提示："为每个验收标准生成基本的测试步骤骨架（手动/自动）。"
+- 预期产出：每个 story 对应的测试用例骨架。
+
+原始 chatmode: ../../../../chatmodes/atlassian-requirements-to-jira.chatmode.md
+---
 post_title: "atlassian-requirements-to-jira.chatmode.md Use Cases"
 author1: "github-copilot"
 post_slug: "atlassian-requirements-to-jira-use-cases"
