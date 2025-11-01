@@ -1,0 +1,2600 @@
+[2025-10-13 19:32:54] ================================================================================
+[2025-10-13 19:32:54] 开始执行 Instructions和Prompts Mindmap生成任务
+[2025-10-13 19:32:54] ================================================================================
+[2025-10-13 19:32:54] 找到 84 个Instructions文件
+[2025-10-13 19:32:54] 找到 92 个Prompts文件
+[2025-10-13 19:32:54] 总计 176 个待处理文件
+
+[2025-10-13 19:32:54] 
+================================================================================
+[2025-10-13 19:32:54] 阶段1: 处理Instructions文件
+[2025-10-13 19:32:54] ================================================================================
+
+[2025-10-13 19:32:54] ================================================================================
+[2025-10-13 19:32:54] [Instructions] 正在处理: a11y.instructions.md (1/84)
+[2025-10-13 19:32:54] ✓ 读取成功 (22909 字符)
+[2025-10-13 19:32:54] ✓ 分析完成: Guidance for creating more accessible code
+[2025-10-13 19:32:54] ✓ 生成mindmap内容 (1257 字符)
+[2025-10-13 19:32:54] ✓ 保存成功: a11y.instructions.mindmap.md
+[2025-10-13 19:32:54] ✓ 验证通过
+[2025-10-13 19:32:54] ================================================================================
+[2025-10-13 19:32:54] [Instructions] 正在处理: ai-prompt-engineering-safety-best-practices.instructions.md (2/84)
+[2025-10-13 19:32:54] ✓ 读取成功 (28137 字符)
+[2025-10-13 19:32:54] ✓ 分析完成: Comprehensive best practices for AI prompt engineering, safety frameworks, bias mitigation, and responsible AI usage for Copilot and LLMs.
+[2025-10-13 19:32:54] ✓ 生成mindmap内容 (2100 字符)
+[2025-10-13 19:32:54] ✓ 保存成功: ai-prompt-engineering-safety-best-practices.instructions.mindmap.md
+[2025-10-13 19:32:54] ✓ 验证通过
+[2025-10-13 19:32:54] ================================================================================
+[2025-10-13 19:32:54] [Instructions] 正在处理: angular.instructions.md (3/84)
+[2025-10-13 19:32:54] ✓ 读取成功 (5409 字符)
+[2025-10-13 19:32:54] ✓ 分析完成: Angular-specific coding standards and best practices
+[2025-10-13 19:32:54] ✓ 生成mindmap内容 (1569 字符)
+[2025-10-13 19:32:54] ✓ 保存成功: angular.instructions.mindmap.md
+[2025-10-13 19:32:54] ✓ 验证通过
+[2025-10-13 19:32:54] ================================================================================
+[2025-10-13 19:32:54] [Instructions] 正在处理: ansible.instructions.md (4/84)
+[2025-10-13 19:32:54] ✓ 读取成功 (5569 字符)
+[2025-10-13 19:32:54] ✓ 分析完成: Ansible conventions and best practices
+[2025-10-13 19:32:54] ✓ 生成mindmap内容 (1456 字符)
+[2025-10-13 19:32:54] ✓ 保存成功: ansible.instructions.mindmap.md
+[2025-10-13 19:32:54] ✓ 验证通过
+[2025-10-13 19:32:54] ================================================================================
+[2025-10-13 19:32:54] [Instructions] 正在处理: aspnet-rest-apis.instructions.md (5/84)
+[2025-10-13 19:32:54] ✓ 读取成功 (5922 字符)
+[2025-10-13 19:32:54] ✓ 分析完成: Guidelines for building REST APIs with ASP.NET
+[2025-10-13 19:32:54] ✓ 生成mindmap内容 (1759 字符)
+[2025-10-13 19:32:54] ✓ 保存成功: aspnet-rest-apis.instructions.mindmap.md
+[2025-10-13 19:32:54] ✓ 验证通过
+[2025-10-13 19:32:54] ================================================================================
+[2025-10-13 19:32:54] [Instructions] 正在处理: astro.instructions.md (6/84)
+[2025-10-13 19:32:54] ✓ 读取成功 (8063 字符)
+[2025-10-13 19:32:54] ✓ 分析完成: Astro development standards and best practices for content-driven websites
+[2025-10-13 19:32:54] ✓ 生成mindmap内容 (1808 字符)
+[2025-10-13 19:32:54] ✓ 保存成功: astro.instructions.mindmap.md
+[2025-10-13 19:32:54] ✓ 验证通过
+[2025-10-13 19:32:54] ================================================================================
+[2025-10-13 19:32:54] [Instructions] 正在处理: azure-devops-pipelines.instructions.md (7/84)
+[2025-10-13 19:32:54] ✓ 读取成功 (6916 字符)
+[2025-10-13 19:32:54] ✓ 分析完成: Best practices for Azure DevOps Pipeline YAML files
+[2025-10-13 19:32:54] ✓ 生成mindmap内容 (1752 字符)
+[2025-10-13 19:32:54] ✓ 保存成功: azure-devops-pipelines.instructions.mindmap.md
+[2025-10-13 19:32:54] ✓ 验证通过
+[2025-10-13 19:32:55] ================================================================================
+[2025-10-13 19:32:55] [Instructions] 正在处理: azure-functions-typescript.instructions.md (8/84)
+[2025-10-13 19:32:55] ✓ 读取成功 (813 字符)
+[2025-10-13 19:32:55] ✓ 分析完成: TypeScript patterns for Azure Functions
+[2025-10-13 19:32:55] ✓ 生成mindmap内容 (1595 字符)
+[2025-10-13 19:32:55] ✓ 保存成功: azure-functions-typescript.instructions.mindmap.md
+[2025-10-13 19:32:55] ✓ 验证通过
+[2025-10-13 19:32:55] ================================================================================
+[2025-10-13 19:32:55] [Instructions] 正在处理: azure-logic-apps-power-automate.instructions.md (9/84)
+[2025-10-13 19:32:55] ✓ 读取成功 (64287 字符)
+[2025-10-13 19:32:55] ✓ 分析完成: Guidelines for developing Azure Logic Apps and Power Automate workflows with best practices for Workflow Definition Language (WDL), integration patterns, and enterprise automation
+[2025-10-13 19:32:55] ✓ 生成mindmap内容 (2301 字符)
+[2025-10-13 19:32:55] ✓ 保存成功: azure-logic-apps-power-automate.instructions.mindmap.md
+[2025-10-13 19:32:55] ✓ 验证通过
+[2025-10-13 19:32:55] ================================================================================
+[2025-10-13 19:32:55] [Instructions] 正在处理: azure-verified-modules-terraform.instructions.md (10/84)
+[2025-10-13 19:32:55] ✓ 读取成功 (7358 字符)
+[2025-10-13 19:32:55] ✓ 分析完成:  Azure Verified Modules (AVM) and Terraform
+[2025-10-13 19:32:55] ✓ 生成mindmap内容 (1827 字符)
+[2025-10-13 19:32:55] ✓ 保存成功: azure-verified-modules-terraform.instructions.mindmap.md
+[2025-10-13 19:32:55] ✓ 验证通过
+[2025-10-13 19:32:55] ================================================================================
+[2025-10-13 19:32:55] [Instructions] 正在处理: bicep-code-best-practices.instructions.md (11/84)
+[2025-10-13 19:32:55] ✓ 读取成功 (2165 字符)
+[2025-10-13 19:32:55] ✓ 分析完成: Infrastructure as Code with Bicep
+[2025-10-13 19:32:55] ✓ 生成mindmap内容 (1508 字符)
+[2025-10-13 19:32:55] ✓ 保存成功: bicep-code-best-practices.instructions.mindmap.md
+[2025-10-13 19:32:55] ✓ 验证通过
+[2025-10-13 19:32:55] ================================================================================
+[2025-10-13 19:32:55] [Instructions] 正在处理: blazor.instructions.md (12/84)
+[2025-10-13 19:32:55] ✓ 读取成功 (4369 字符)
+[2025-10-13 19:32:55] ✓ 分析完成: Blazor component and application patterns
+[2025-10-13 19:32:55] ✓ 生成mindmap内容 (1616 字符)
+[2025-10-13 19:32:55] ✓ 保存成功: blazor.instructions.mindmap.md
+[2025-10-13 19:32:55] ✓ 验证通过
+[2025-10-13 19:32:55] ================================================================================
+[2025-10-13 19:32:55] [Instructions] 正在处理: clojure.instructions.md (13/84)
+[2025-10-13 19:32:55] ✓ 读取成功 (10770 字符)
+[2025-10-13 19:32:55] ✓ 分析完成: Clojure-specific coding patterns, inline def usage, code block templates, and namespace handling for Clojure development.
+[2025-10-13 19:32:55] ✓ 生成mindmap内容 (2095 字符)
+[2025-10-13 19:32:55] ✓ 保存成功: clojure.instructions.mindmap.md
+[2025-10-13 19:32:55] ✓ 验证通过
+[2025-10-13 19:32:55] ================================================================================
+[2025-10-13 19:32:55] [Instructions] 正在处理: cmake-vcpkg.instructions.md (14/84)
+[2025-10-13 19:32:55] ✓ 读取成功 (860 字符)
+[2025-10-13 19:32:55] ✓ 分析完成: C++ project configuration and package management
+[2025-10-13 19:32:55] ✓ 生成mindmap内容 (923 字符)
+[2025-10-13 19:32:55] ✓ 保存成功: cmake-vcpkg.instructions.mindmap.md
+[2025-10-13 19:32:55] ✓ 验证通过
+[2025-10-13 19:32:55] ================================================================================
+[2025-10-13 19:32:55] [Instructions] 正在处理: coldfusion-cfc.instructions.md (15/84)
+[2025-10-13 19:32:55] ✓ 读取成功 (1384 字符)
+[2025-10-13 19:32:55] ✓ 分析完成: ColdFusion Coding Standards for CFC component and application patterns
+[2025-10-13 19:32:55] ✓ 生成mindmap内容 (1493 字符)
+[2025-10-13 19:32:55] ✓ 保存成功: coldfusion-cfc.instructions.mindmap.md
+[2025-10-13 19:32:55] ✓ 验证通过
+[2025-10-13 19:32:55] ================================================================================
+[2025-10-13 19:32:55] [Instructions] 正在处理: coldfusion-cfm.instructions.md (16/84)
+[2025-10-13 19:32:55] ✓ 读取成功 (1260 字符)
+[2025-10-13 19:32:55] ✓ 分析完成: ColdFusion cfm files and application patterns
+[2025-10-13 19:32:55] ✓ 生成mindmap内容 (1401 字符)
+[2025-10-13 19:32:55] ✓ 保存成功: coldfusion-cfm.instructions.mindmap.md
+[2025-10-13 19:32:55] ✓ 验证通过
+[2025-10-13 19:32:56] ================================================================================
+[2025-10-13 19:32:56] [Instructions] 正在处理: collections.instructions.md (17/84)
+[2025-10-13 19:32:56] ✓ 读取成功 (1956 字符)
+[2025-10-13 19:32:56] ✓ 分析完成: Guidelines for creating and managing awesome-copilot collections
+[2025-10-13 19:32:56] ✓ 生成mindmap内容 (1549 字符)
+[2025-10-13 19:32:56] ✓ 保存成功: collections.instructions.mindmap.md
+[2025-10-13 19:32:56] ✓ 验证通过
+[2025-10-13 19:32:56] ================================================================================
+[2025-10-13 19:32:56] [Instructions] 正在处理: containerization-docker-best-practices.instructions.md (18/84)
+[2025-10-13 19:32:56] ✓ 读取成功 (35915 字符)
+[2025-10-13 19:32:56] ✓ 分析完成: Comprehensive best practices for creating optimized, secure, and efficient Docker images and managing containers. Covers multi-stage builds, image layer optimization, security scanning, and runtime best practices.
+[2025-10-13 19:32:56] ✓ 生成mindmap内容 (2713 字符)
+[2025-10-13 19:32:56] ✓ 保存成功: containerization-docker-best-practices.instructions.mindmap.md
+[2025-10-13 19:32:56] ✓ 验证通过
+[2025-10-13 19:32:56] ================================================================================
+[2025-10-13 19:32:56] [Instructions] 正在处理: convert-jpa-to-spring-data-cosmos.instructions.md (19/84)
+[2025-10-13 19:32:56] ✓ 读取成功 (41606 字符)
+[2025-10-13 19:32:56] ✓ 分析完成: Step-by-step guide for converting Spring Boot JPA applications to use Azure Cosmos DB with Spring Data Cosmos
+[2025-10-13 19:32:56] ✓ 生成mindmap内容 (1961 字符)
+[2025-10-13 19:32:56] ✓ 保存成功: convert-jpa-to-spring-data-cosmos.instructions.mindmap.md
+[2025-10-13 19:32:56] ✓ 验证通过
+[2025-10-13 19:32:56] ================================================================================
+[2025-10-13 19:32:56] [Instructions] 正在处理: copilot-thought-logging.instructions.md (20/84)
+[2025-10-13 19:32:56] ✓ 读取成功 (3245 字符)
+[2025-10-13 19:32:56] ✓ 分析完成: See process Copilot is following where you can edit this to reshape the interaction or save when follow up may be needed
+[2025-10-13 19:32:56] ✓ 生成mindmap内容 (1772 字符)
+[2025-10-13 19:32:56] ✓ 保存成功: copilot-thought-logging.instructions.mindmap.md
+[2025-10-13 19:32:56] ✓ 验证通过
+[2025-10-13 19:32:56] ================================================================================
+[2025-10-13 19:32:56] [Instructions] 正在处理: csharp-ja.instructions.md (21/84)
+[2025-10-13 19:32:56] ✓ 读取成功 (3179 字符)
+[2025-10-13 19:32:56] ✓ 分析完成: C# アプリケーション構築指針 by @tsubakimoto
+[2025-10-13 19:32:56] ✓ 生成mindmap内容 (1166 字符)
+[2025-10-13 19:32:56] ✓ 保存成功: csharp-ja.instructions.mindmap.md
+[2025-10-13 19:32:56] ✓ 验证通过
+[2025-10-13 19:32:56] ================================================================================
+[2025-10-13 19:32:56] [Instructions] 正在处理: csharp-ko.instructions.md (22/84)
+[2025-10-13 19:32:56] ✓ 读取成功 (2792 字符)
+[2025-10-13 19:32:56] ✓ 分析完成: C# 애플리케이션 개발을 위한 코드 작성 규칙 by @jgkim999
+[2025-10-13 19:32:56] ✓ 生成mindmap内容 (990 字符)
+[2025-10-13 19:32:56] ✓ 保存成功: csharp-ko.instructions.mindmap.md
+[2025-10-13 19:32:56] ✓ 验证通过
+[2025-10-13 19:32:56] ================================================================================
+[2025-10-13 19:32:56] [Instructions] 正在处理: csharp.instructions.md (23/84)
+[2025-10-13 19:32:56] ✓ 读取成功 (5762 字符)
+[2025-10-13 19:32:56] ✓ 分析完成: Guidelines for building C# applications
+[2025-10-13 19:32:56] ✓ 生成mindmap内容 (1530 字符)
+[2025-10-13 19:32:56] ✓ 保存成功: csharp.instructions.mindmap.md
+[2025-10-13 19:32:56] ✓ 验证通过
+[2025-10-13 19:32:56] ================================================================================
+[2025-10-13 19:32:56] [Instructions] 正在处理: dart-n-flutter.instructions.md (24/84)
+[2025-10-13 19:32:56] ✓ 读取成功 (20768 字符)
+[2025-10-13 19:32:56] ✓ 分析完成: Instructions for writing Dart and Flutter code following the official recommendations.
+[2025-10-13 19:32:56] ✓ 生成mindmap内容 (2081 字符)
+[2025-10-13 19:32:56] ✓ 保存成功: dart-n-flutter.instructions.mindmap.md
+[2025-10-13 19:32:56] ✓ 验证通过
+[2025-10-13 19:32:56] ================================================================================
+[2025-10-13 19:32:56] [Instructions] 正在处理: declarative-agents-microsoft365.instructions.md (25/84)
+[2025-10-13 19:32:56] ✓ 读取成功 (9058 字符)
+[2025-10-13 19:32:56] ✓ 分析完成: Comprehensive development guidelines for Microsoft 365 Copilot declarative agents with schema v1.5, TypeSpec integration, and Microsoft 365 Agents Toolkit workflows
+[2025-10-13 19:32:56] ✓ 生成mindmap内容 (2193 字符)
+[2025-10-13 19:32:56] ✓ 保存成功: declarative-agents-microsoft365.instructions.mindmap.md
+[2025-10-13 19:32:56] ✓ 验证通过
+[2025-10-13 19:32:57] ================================================================================
+[2025-10-13 19:32:57] [Instructions] 正在处理: devbox-image-definition.instructions.md (26/84)
+[2025-10-13 19:32:57] ✓ 读取成功 (24469 字符)
+[2025-10-13 19:32:57] ✓ 分析完成: Authoring recommendations for creating YAML based image definition files for use with Microsoft Dev Box Team Customizations
+[2025-10-13 19:32:57] ✓ 生成mindmap内容 (1959 字符)
+[2025-10-13 19:32:57] ✓ 保存成功: devbox-image-definition.instructions.mindmap.md
+[2025-10-13 19:32:57] ✓ 验证通过
+[2025-10-13 19:32:57] ================================================================================
+[2025-10-13 19:32:57] [Instructions] 正在处理: devops-core-principles.instructions.md (27/84)
+[2025-10-13 19:32:57] ✓ 读取成功 (16592 字符)
+[2025-10-13 19:32:57] ✓ 分析完成: Foundational instructions covering core DevOps principles, culture (CALMS), and key metrics (DORA) to guide GitHub Copilot in understanding and promoting effective software delivery.
+[2025-10-13 19:32:57] ✓ 生成mindmap内容 (2319 字符)
+[2025-10-13 19:32:57] ✓ 保存成功: devops-core-principles.instructions.mindmap.md
+[2025-10-13 19:32:57] ✓ 验证通过
+[2025-10-13 19:32:57] ================================================================================
+[2025-10-13 19:32:57] [Instructions] 正在处理: dotnet-architecture-good-practices.instructions.md (28/84)
+[2025-10-13 19:32:57] ✓ 读取成功 (11884 字符)
+[2025-10-13 19:32:57] ✓ 分析完成: DDD and .NET architecture guidelines
+[2025-10-13 19:32:57] ✓ 生成mindmap内容 (1745 字符)
+[2025-10-13 19:32:57] ✓ 保存成功: dotnet-architecture-good-practices.instructions.mindmap.md
+[2025-10-13 19:32:57] ✓ 验证通过
+[2025-10-13 19:32:57] ================================================================================
+[2025-10-13 19:32:57] [Instructions] 正在处理: dotnet-framework.instructions.md (29/84)
+[2025-10-13 19:32:57] ✓ 读取成功 (5738 字符)
+[2025-10-13 19:32:57] ✓ 分析完成: Guidance for working with .NET Framework projects. Includes project structure, C# language version, NuGet management, and best practices.
+[2025-10-13 19:32:57] ✓ 生成mindmap内容 (2452 字符)
+[2025-10-13 19:32:57] ✓ 保存成功: dotnet-framework.instructions.mindmap.md
+[2025-10-13 19:32:57] ✓ 验证通过
+[2025-10-13 19:32:57] ================================================================================
+[2025-10-13 19:32:57] [Instructions] 正在处理: dotnet-maui.instructions.md (30/84)
+[2025-10-13 19:32:57] ✓ 读取成功 (3256 字符)
+[2025-10-13 19:32:57] ✓ 分析完成: .NET MAUI component and application patterns
+[2025-10-13 19:32:57] ✓ 生成mindmap内容 (1627 字符)
+[2025-10-13 19:32:57] ✓ 保存成功: dotnet-maui.instructions.mindmap.md
+[2025-10-13 19:32:57] ✓ 验证通过
+[2025-10-13 19:32:57] ================================================================================
+[2025-10-13 19:32:57] [Instructions] 正在处理: dotnet-wpf.instructions.md (31/84)
+[2025-10-13 19:32:57] ✓ 读取成功 (2613 字符)
+[2025-10-13 19:32:57] ✓ 分析完成: .NET WPF component and application patterns
+[2025-10-13 19:32:57] ✓ 生成mindmap内容 (1397 字符)
+[2025-10-13 19:32:57] ✓ 保存成功: dotnet-wpf.instructions.mindmap.md
+[2025-10-13 19:32:57] ✓ 验证通过
+[2025-10-13 19:32:57] ================================================================================
+[2025-10-13 19:32:57] [Instructions] 正在处理: genaiscript.instructions.md (32/84)
+[2025-10-13 19:32:57] ✓ 读取成功 (827 字符)
+[2025-10-13 19:32:57] ✓ 分析完成: AI-powered script generation guidelines
+[2025-10-13 19:32:57] ✓ 生成mindmap内容 (1382 字符)
+[2025-10-13 19:32:57] ✓ 保存成功: genaiscript.instructions.mindmap.md
+[2025-10-13 19:32:57] ✓ 验证通过
+[2025-10-13 19:32:57] ================================================================================
+[2025-10-13 19:32:57] [Instructions] 正在处理: generate-modern-terraform-code-for-azure.instructions.md (33/84)
+[2025-10-13 19:32:57] ✓ 读取成功 (3517 字符)
+[2025-10-13 19:32:57] ✓ 分析完成: Guidelines for generating modern Terraform code for Azure
+[2025-10-13 19:32:57] ✓ 生成mindmap内容 (1497 字符)
+[2025-10-13 19:32:57] ✓ 保存成功: generate-modern-terraform-code-for-azure.instructions.mindmap.md
+[2025-10-13 19:32:57] ✓ 验证通过
+[2025-10-13 19:32:57] ================================================================================
+[2025-10-13 19:32:57] [Instructions] 正在处理: gilfoyle-code-review.instructions.md (34/84)
+[2025-10-13 19:32:57] ✓ 读取成功 (5561 字符)
+[2025-10-13 19:32:57] ✓ 分析完成: Gilfoyle-style code review instructions that channel the sardonic technical supremacy of Silicon Valley''s most arrogant systems architect.
+[2025-10-13 19:32:57] ✓ 生成mindmap内容 (2254 字符)
+[2025-10-13 19:32:57] ✓ 保存成功: gilfoyle-code-review.instructions.mindmap.md
+[2025-10-13 19:32:57] ✓ 验证通过
+[2025-10-13 19:32:58] ================================================================================
+[2025-10-13 19:32:58] [Instructions] 正在处理: github-actions-ci-cd-best-practices.instructions.md (35/84)
+[2025-10-13 19:32:58] ✓ 读取成功 (52598 字符)
+[2025-10-13 19:32:58] ✓ 分析完成: Comprehensive guide for building robust, secure, and efficient CI/CD pipelines using GitHub Actions. Covers workflow structure, jobs, steps, environment variables, secret management, caching, matrix strategies, testing, and deployment strategies.
+[2025-10-13 19:32:58] ✓ 生成mindmap内容 (2689 字符)
+[2025-10-13 19:32:58] ✓ 保存成功: github-actions-ci-cd-best-practices.instructions.mindmap.md
+[2025-10-13 19:32:58] ✓ 验证通过
+[2025-10-13 19:32:58] ================================================================================
+[2025-10-13 19:32:58] [Instructions] 正在处理: go.instructions.md (36/84)
+[2025-10-13 19:32:58] ✓ 读取成功 (16235 字符)
+[2025-10-13 19:32:58] ✓ 分析完成: Instructions for writing Go code following idiomatic Go practices and community standards
+[2025-10-13 19:32:58] ✓ 生成mindmap内容 (1658 字符)
+[2025-10-13 19:32:58] ✓ 保存成功: go.instructions.mindmap.md
+[2025-10-13 19:32:58] ✓ 验证通过
+[2025-10-13 19:32:58] ================================================================================
+[2025-10-13 19:32:58] [Instructions] 正在处理: java-11-to-java-17-upgrade.instructions.md (37/84)
+[2025-10-13 19:32:58] ✓ 读取成功 (21837 字符)
+[2025-10-13 19:32:58] ✓ 分析完成: Comprehensive best practices for adopting new Java 17 features since the release of Java 11.
+[2025-10-13 19:32:58] ✓ 生成mindmap内容 (1570 字符)
+[2025-10-13 19:32:58] ✓ 保存成功: java-11-to-java-17-upgrade.instructions.mindmap.md
+[2025-10-13 19:32:58] ✓ 验证通过
+[2025-10-13 19:32:58] ================================================================================
+[2025-10-13 19:32:58] [Instructions] 正在处理: java-17-to-java-21-upgrade.instructions.md (38/84)
+[2025-10-13 19:32:58] ✓ 读取成功 (13627 字符)
+[2025-10-13 19:32:58] ✓ 分析完成: Comprehensive best practices for adopting new Java 21 features since the release of Java 17.
+[2025-10-13 19:32:58] ✓ 生成mindmap内容 (1630 字符)
+[2025-10-13 19:32:58] ✓ 保存成功: java-17-to-java-21-upgrade.instructions.mindmap.md
+[2025-10-13 19:32:58] ✓ 验证通过
+[2025-10-13 19:32:58] ================================================================================
+[2025-10-13 19:32:58] [Instructions] 正在处理: java-21-to-java-25-upgrade.instructions.md (39/84)
+[2025-10-13 19:32:58] ✓ 读取成功 (9551 字符)
+[2025-10-13 19:32:58] ✓ 分析完成: Comprehensive best practices for adopting new Java 25 features since the release of Java 21.
+[2025-10-13 19:32:58] ✓ 生成mindmap内容 (1758 字符)
+[2025-10-13 19:32:58] ✓ 保存成功: java-21-to-java-25-upgrade.instructions.mindmap.md
+[2025-10-13 19:32:58] ✓ 验证通过
+[2025-10-13 19:32:58] ================================================================================
+[2025-10-13 19:32:58] [Instructions] 正在处理: java.instructions.md (40/84)
+[2025-10-13 19:32:58] ✓ 读取成功 (5245 字符)
+[2025-10-13 19:32:58] ✓ 分析完成: Guidelines for building Java base applications
+[2025-10-13 19:32:58] ✓ 生成mindmap内容 (1917 字符)
+[2025-10-13 19:32:58] ✓ 保存成功: java.instructions.mindmap.md
+[2025-10-13 19:32:58] ✓ 验证通过
+[2025-10-13 19:32:58] ================================================================================
+[2025-10-13 19:32:58] [Instructions] 正在处理: joyride-user-project.instructions.md (41/84)
+[2025-10-13 19:32:58] ✓ 读取成功 (9246 字符)
+[2025-10-13 19:32:58] ✓ 分析完成: Expert assistance for Joyride User Script projects - REPL-driven ClojureScript and user space automation of VS Code
+[2025-10-13 19:32:58] ✓ 生成mindmap内容 (2192 字符)
+[2025-10-13 19:32:58] ✓ 保存成功: joyride-user-project.instructions.mindmap.md
+[2025-10-13 19:32:58] ✓ 验证通过
+[2025-10-13 19:32:58] ================================================================================
+[2025-10-13 19:32:58] [Instructions] 正在处理: joyride-workspace-automation.instructions.md (42/84)
+[2025-10-13 19:32:58] ✓ 读取成功 (3421 字符)
+[2025-10-13 19:32:58] ✓ 分析完成: Expert assistance for Joyride Workspace automation - REPL-driven and user space ClojureScript automation within specific VS Code workspaces
+[2025-10-13 19:32:58] ✓ 生成mindmap内容 (2075 字符)
+[2025-10-13 19:32:58] ✓ 保存成功: joyride-workspace-automation.instructions.mindmap.md
+[2025-10-13 19:32:58] ✓ 验证通过
+[2025-10-13 19:32:58] ================================================================================
+[2025-10-13 19:32:58] [Instructions] 正在处理: kubernetes-deployment-best-practices.instructions.md (43/84)
+[2025-10-13 19:32:58] ✓ 读取成功 (14332 字符)
+[2025-10-13 19:32:58] ✓ 分析完成: Comprehensive best practices for deploying and managing applications on Kubernetes. Covers Pods, Deployments, Services, Ingress, ConfigMaps, Secrets, health checks, resource limits, scaling, and security contexts.
+[2025-10-13 19:32:58] ✓ 生成mindmap内容 (2430 字符)
+[2025-10-13 19:32:58] ✓ 保存成功: kubernetes-deployment-best-practices.instructions.mindmap.md
+[2025-10-13 19:32:58] ✓ 验证通过
+[2025-10-13 19:32:59] ================================================================================
+[2025-10-13 19:32:59] [Instructions] 正在处理: langchain-python.instructions.md (44/84)
+[2025-10-13 19:32:59] ✓ 读取成功 (12427 字符)
+[2025-10-13 19:32:59] ✓ 分析完成: Instructions for using LangChain with Python
+[2025-10-13 19:32:59] ✓ 生成mindmap内容 (1968 字符)
+[2025-10-13 19:32:59] ✓ 保存成功: langchain-python.instructions.mindmap.md
+[2025-10-13 19:32:59] ✓ 验证通过
+[2025-10-13 19:32:59] ================================================================================
+[2025-10-13 19:32:59] [Instructions] 正在处理: localization.instructions.md (45/84)
+[2025-10-13 19:32:59] ✓ 读取成功 (1793 字符)
+[2025-10-13 19:32:59] ✓ 分析完成: Guidelines for localizing markdown documents
+[2025-10-13 19:32:59] ✓ 生成mindmap内容 (1520 字符)
+[2025-10-13 19:32:59] ✓ 保存成功: localization.instructions.mindmap.md
+[2025-10-13 19:32:59] ✓ 验证通过
+[2025-10-13 19:32:59] ================================================================================
+[2025-10-13 19:32:59] [Instructions] 正在处理: markdown.instructions.md (46/84)
+[2025-10-13 19:32:59] ✓ 读取成功 (3301 字符)
+[2025-10-13 19:32:59] ✓ 分析完成: Documentation and content creation standards
+[2025-10-13 19:32:59] ✓ 生成mindmap内容 (1849 字符)
+[2025-10-13 19:32:59] ✓ 保存成功: markdown.instructions.mindmap.md
+[2025-10-13 19:32:59] ✓ 验证通过
+[2025-10-13 19:32:59] ================================================================================
+[2025-10-13 19:32:59] [Instructions] 正在处理: memory-bank.instructions.md (47/84)
+[2025-10-13 19:32:59] ✓ 读取成功 (10126 字符)
+[2025-10-13 19:32:59] ✓ 分析完成: Memory Bank
+[2025-10-13 19:32:59] ✓ 生成mindmap内容 (1006 字符)
+[2025-10-13 19:32:59] ✓ 保存成功: memory-bank.instructions.mindmap.md
+[2025-10-13 19:32:59] ✓ 验证通过
+[2025-10-13 19:32:59] ================================================================================
+[2025-10-13 19:32:59] [Instructions] 正在处理: ms-sql-dba.instructions.md (48/84)
+[2025-10-13 19:32:59] ✓ 读取成功 (1416 字符)
+[2025-10-13 19:32:59] ✓ 分析完成: Instructions for customizing GitHub Copilot behavior for MS-SQL DBA chat mode.
+[2025-10-13 19:32:59] ✓ 生成mindmap内容 (1824 字符)
+[2025-10-13 19:32:59] ✓ 保存成功: ms-sql-dba.instructions.mindmap.md
+[2025-10-13 19:32:59] ✓ 验证通过
+[2025-10-13 19:32:59] ================================================================================
+[2025-10-13 19:32:59] [Instructions] 正在处理: nestjs.instructions.md (49/84)
+[2025-10-13 19:32:59] ✓ 读取成功 (12078 字符)
+[2025-10-13 19:32:59] ✓ 分析完成: NestJS development standards and best practices for building scalable Node.js server-side applications
+[2025-10-13 19:32:59] ✓ 生成mindmap内容 (1867 字符)
+[2025-10-13 19:32:59] ✓ 保存成功: nestjs.instructions.mindmap.md
+[2025-10-13 19:32:59] ✓ 验证通过
+[2025-10-13 19:32:59] ================================================================================
+[2025-10-13 19:32:59] [Instructions] 正在处理: nextjs-tailwind.instructions.md (50/84)
+[2025-10-13 19:32:59] ✓ 读取成功 (1860 字符)
+[2025-10-13 19:32:59] ✓ 分析完成: Next.js + Tailwind development standards and instructions
+[2025-10-13 19:32:59] ✓ 生成mindmap内容 (1367 字符)
+[2025-10-13 19:32:59] ✓ 保存成功: nextjs-tailwind.instructions.mindmap.md
+[2025-10-13 19:32:59] ✓ 验证通过
+[2025-10-13 19:32:59] ================================================================================
+[2025-10-13 19:32:59] [Instructions] 正在处理: nextjs.instructions.md (51/84)
+[2025-10-13 19:32:59] ✓ 读取成功 (6799 字符)
+[2025-10-13 19:32:59] ✓ 分析完成: Nextjs
+[2025-10-13 19:32:59] ✓ 生成mindmap内容 (1671 字符)
+[2025-10-13 19:32:59] ✓ 保存成功: nextjs.instructions.mindmap.md
+[2025-10-13 19:32:59] ✓ 验证通过
+[2025-10-13 19:32:59] ================================================================================
+[2025-10-13 19:32:59] [Instructions] 正在处理: nodejs-javascript-vitest.instructions.md (52/84)
+[2025-10-13 19:32:59] ✓ 读取成功 (1427 字符)
+[2025-10-13 19:32:59] ✓ 分析完成: Guidelines for writing Node.js and JavaScript code with Vitest testing
+[2025-10-13 19:32:59] ✓ 生成mindmap内容 (1679 字符)
+[2025-10-13 19:32:59] ✓ 保存成功: nodejs-javascript-vitest.instructions.mindmap.md
+[2025-10-13 19:32:59] ✓ 验证通过
+[2025-10-13 19:33:00] ================================================================================
+[2025-10-13 19:33:00] [Instructions] 正在处理: object-calisthenics.instructions.md (53/84)
+[2025-10-13 19:33:00] ✓ 读取成功 (10458 字符)
+[2025-10-13 19:33:00] ✓ 分析完成: Enforces Object Calisthenics principles for business domain code to ensure clean, maintainable, and robust code
+[2025-10-13 19:33:00] ✓ 生成mindmap内容 (1705 字符)
+[2025-10-13 19:33:00] ✓ 保存成功: object-calisthenics.instructions.mindmap.md
+[2025-10-13 19:33:00] ✓ 验证通过
+[2025-10-13 19:33:00] ================================================================================
+[2025-10-13 19:33:00] [Instructions] 正在处理: oqtane.instructions.md (54/84)
+[2025-10-13 19:33:00] ✓ 读取成功 (5229 字符)
+[2025-10-13 19:33:00] ✓ 分析完成: Oqtane Module patterns
+[2025-10-13 19:33:00] ✓ 生成mindmap内容 (1526 字符)
+[2025-10-13 19:33:00] ✓ 保存成功: oqtane.instructions.mindmap.md
+[2025-10-13 19:33:00] ✓ 验证通过
+[2025-10-13 19:33:00] ================================================================================
+[2025-10-13 19:33:00] [Instructions] 正在处理: performance-optimization.instructions.md (55/84)
+[2025-10-13 19:33:00] ✓ 读取成功 (21109 字符)
+[2025-10-13 19:33:00] ✓ 分析完成: The most comprehensive, practical, and engineer-authored performance optimization instructions for all languages, frameworks, and stacks. Covers frontend, backend, and database best practices with actionable guidance, scenario-based checklists, troubleshooting, and pro tips.
+[2025-10-13 19:33:00] ✓ 生成mindmap内容 (3317 字符)
+[2025-10-13 19:33:00] ✓ 保存成功: performance-optimization.instructions.mindmap.md
+[2025-10-13 19:33:00] ✓ 验证通过
+[2025-10-13 19:33:00] ================================================================================
+[2025-10-13 19:33:00] [Instructions] 正在处理: playwright-python.instructions.md (56/84)
+[2025-10-13 19:33:00] ✓ 读取成功 (3061 字符)
+[2025-10-13 19:33:00] ✓ 分析完成: Playwright Python AI test generation instructions based on official documentation.
+[2025-10-13 19:33:00] ✓ 生成mindmap内容 (2025 字符)
+[2025-10-13 19:33:00] ✓ 保存成功: playwright-python.instructions.mindmap.md
+[2025-10-13 19:33:00] ✓ 验证通过
+[2025-10-13 19:33:00] ================================================================================
+[2025-10-13 19:33:00] [Instructions] 正在处理: playwright-typescript.instructions.md (57/84)
+[2025-10-13 19:33:00] ✓ 读取成功 (4068 字符)
+[2025-10-13 19:33:00] ✓ 分析完成: Playwright test generation instructions
+[2025-10-13 19:33:00] ✓ 生成mindmap内容 (1740 字符)
+[2025-10-13 19:33:00] ✓ 保存成功: playwright-typescript.instructions.mindmap.md
+[2025-10-13 19:33:00] ✓ 验证通过
+[2025-10-13 19:33:00] ================================================================================
+[2025-10-13 19:33:00] [Instructions] 正在处理: power-apps-canvas-yaml.instructions.md (58/84)
+[2025-10-13 19:33:00] ✓ 读取成功 (22012 字符)
+[2025-10-13 19:33:00] ✓ 分析完成: Comprehensive guide for working with Power Apps Canvas Apps YAML structure based on Microsoft Power Apps YAML schema v3.0. Covers Power Fx formulas, control structures, data types, and source control best practices.
+[2025-10-13 19:33:00] ✓ 生成mindmap内容 (2321 字符)
+[2025-10-13 19:33:00] ✓ 保存成功: power-apps-canvas-yaml.instructions.mindmap.md
+[2025-10-13 19:33:00] ✓ 验证通过
+[2025-10-13 19:33:00] ================================================================================
+[2025-10-13 19:33:00] [Instructions] 正在处理: power-apps-code-apps.instructions.md (59/84)
+[2025-10-13 19:33:00] ✓ 读取成功 (22098 字符)
+[2025-10-13 19:33:00] ✓ 分析完成: Power Apps Code Apps development standards and best practices for TypeScript, React, and Power Platform integration
+[2025-10-13 19:33:00] ✓ 生成mindmap内容 (2184 字符)
+[2025-10-13 19:33:00] ✓ 保存成功: power-apps-code-apps.instructions.mindmap.md
+[2025-10-13 19:33:00] ✓ 验证通过
+[2025-10-13 19:33:00] ================================================================================
+[2025-10-13 19:33:00] [Instructions] 正在处理: power-platform-connector.instructions.md (60/84)
+[2025-10-13 19:33:00] ✓ 读取成功 (19394 字符)
+[2025-10-13 19:33:00] ✓ 分析完成: Comprehensive development guidelines for Power Platform Custom Connectors using JSON Schema definitions. Covers API definitions (Swagger 2.0), API properties, and settings configuration with Microsoft extensions.
+[2025-10-13 19:33:00] ✓ 生成mindmap内容 (2327 字符)
+[2025-10-13 19:33:00] ✓ 保存成功: power-platform-connector.instructions.mindmap.md
+[2025-10-13 19:33:00] ✓ 验证通过
+[2025-10-13 19:33:00] ================================================================================
+[2025-10-13 19:33:00] [Instructions] 正在处理: power-platform-mcp-development.instructions.md (61/84)
+[2025-10-13 19:33:00] ✓ 读取成功 (4515 字符)
+[2025-10-13 19:33:00] ✓ 分析完成: Instructions for developing Power Platform custom connectors with Model Context Protocol (MCP) integration for Microsoft Copilot Studio
+[2025-10-13 19:33:00] ✓ 生成mindmap内容 (2030 字符)
+[2025-10-13 19:33:00] ✓ 保存成功: power-platform-mcp-development.instructions.mindmap.md
+[2025-10-13 19:33:00] ✓ 验证通过
+[2025-10-13 19:33:01] ================================================================================
+[2025-10-13 19:33:01] [Instructions] 正在处理: powershell-pester-5.instructions.md (62/84)
+[2025-10-13 19:33:01] ✓ 读取成功 (7082 字符)
+[2025-10-13 19:33:01] ✓ 分析完成: PowerShell Pester testing best practices based on Pester v5 conventions
+[2025-10-13 19:33:01] ✓ 生成mindmap内容 (1698 字符)
+[2025-10-13 19:33:01] ✓ 保存成功: powershell-pester-5.instructions.mindmap.md
+[2025-10-13 19:33:01] ✓ 验证通过
+[2025-10-13 19:33:01] ================================================================================
+[2025-10-13 19:33:01] [Instructions] 正在处理: powershell.instructions.md (63/84)
+[2025-10-13 19:33:01] ✓ 读取成功 (10494 字符)
+[2025-10-13 19:33:01] ✓ 分析完成: PowerShell cmdlet and scripting best practices based on Microsoft guidelines
+[2025-10-13 19:33:01] ✓ 生成mindmap内容 (1300 字符)
+[2025-10-13 19:33:01] ✓ 保存成功: powershell.instructions.mindmap.md
+[2025-10-13 19:33:01] ✓ 验证通过
+[2025-10-13 19:33:01] ================================================================================
+[2025-10-13 19:33:01] [Instructions] 正在处理: python.instructions.md (64/84)
+[2025-10-13 19:33:01] ✓ 读取成功 (2116 字符)
+[2025-10-13 19:33:01] ✓ 分析完成: Python coding conventions and guidelines
+[2025-10-13 19:33:01] ✓ 生成mindmap内容 (1517 字符)
+[2025-10-13 19:33:01] ✓ 保存成功: python.instructions.mindmap.md
+[2025-10-13 19:33:01] ✓ 验证通过
+[2025-10-13 19:33:01] ================================================================================
+[2025-10-13 19:33:01] [Instructions] 正在处理: quarkus-mcp-server-sse.instructions.md (65/84)
+[2025-10-13 19:33:01] ✓ 读取成功 (1491 字符)
+[2025-10-13 19:33:01] ✓ 分析完成: Quarkus and MCP Server with HTTP SSE transport development standards and instructions
+[2025-10-13 19:33:01] ✓ 生成mindmap内容 (1544 字符)
+[2025-10-13 19:33:01] ✓ 保存成功: quarkus-mcp-server-sse.instructions.mindmap.md
+[2025-10-13 19:33:01] ✓ 验证通过
+[2025-10-13 19:33:01] ================================================================================
+[2025-10-13 19:33:01] [Instructions] 正在处理: quarkus.instructions.md (66/84)
+[2025-10-13 19:33:01] ✓ 读取成功 (3987 字符)
+[2025-10-13 19:33:01] ✓ 分析完成: Quarkus development standards and instructions
+[2025-10-13 19:33:01] ✓ 生成mindmap内容 (1373 字符)
+[2025-10-13 19:33:01] ✓ 保存成功: quarkus.instructions.mindmap.md
+[2025-10-13 19:33:01] ✓ 验证通过
+[2025-10-13 19:33:01] ================================================================================
+[2025-10-13 19:33:01] [Instructions] 正在处理: reactjs.instructions.md (67/84)
+[2025-10-13 19:33:01] ✓ 读取成功 (7230 字符)
+[2025-10-13 19:33:01] ✓ 分析完成: ReactJS development standards and best practices
+[2025-10-13 19:33:01] ✓ 生成mindmap内容 (1536 字符)
+[2025-10-13 19:33:01] ✓ 保存成功: reactjs.instructions.mindmap.md
+[2025-10-13 19:33:01] ✓ 验证通过
+[2025-10-13 19:33:01] ================================================================================
+[2025-10-13 19:33:01] [Instructions] 正在处理: ruby-on-rails.instructions.md (68/84)
+[2025-10-13 19:33:01] ✓ 读取成功 (8843 字符)
+[2025-10-13 19:33:01] ✓ 分析完成: Ruby on Rails coding conventions and guidelines
+[2025-10-13 19:33:01] ✓ 生成mindmap内容 (1690 字符)
+[2025-10-13 19:33:01] ✓ 保存成功: ruby-on-rails.instructions.mindmap.md
+[2025-10-13 19:33:01] ✓ 验证通过
+[2025-10-13 19:33:01] ================================================================================
+[2025-10-13 19:33:01] [Instructions] 正在处理: rust.instructions.md (69/84)
+[2025-10-13 19:33:01] ✓ 读取成功 (7350 字符)
+[2025-10-13 19:33:01] ✓ 分析完成: Rust programming language coding conventions and best practices
+[2025-10-13 19:33:01] ✓ 生成mindmap内容 (1736 字符)
+[2025-10-13 19:33:01] ✓ 保存成功: rust.instructions.mindmap.md
+[2025-10-13 19:33:01] ✓ 验证通过
+[2025-10-13 19:33:01] ================================================================================
+[2025-10-13 19:33:01] [Instructions] 正在处理: security-and-owasp.instructions.md (70/84)
+[2025-10-13 19:33:01] ✓ 读取成功 (5246 字符)
+[2025-10-13 19:33:01] ✓ 分析完成: Comprehensive secure coding instructions for all languages and frameworks, based on OWASP Top 10 and industry best practices.
+[2025-10-13 19:33:01] ✓ 生成mindmap内容 (2306 字符)
+[2025-10-13 19:33:01] ✓ 保存成功: security-and-owasp.instructions.mindmap.md
+[2025-10-13 19:33:01] ✓ 验证通过
+[2025-10-13 19:33:02] ================================================================================
+[2025-10-13 19:33:02] [Instructions] 正在处理: self-explanatory-code-commenting.instructions.md (71/84)
+[2025-10-13 19:33:02] ✓ 读取成功 (4886 字符)
+[2025-10-13 19:33:02] ✓ 分析完成: Guidelines for GitHub Copilot to write comments to achieve self-explanatory code with less comments. Examples are in JavaScript but it should work on any language that has comments.
+[2025-10-13 19:33:02] ✓ 生成mindmap内容 (1955 字符)
+[2025-10-13 19:33:02] ✓ 保存成功: self-explanatory-code-commenting.instructions.mindmap.md
+[2025-10-13 19:33:02] ✓ 验证通过
+[2025-10-13 19:33:02] ================================================================================
+[2025-10-13 19:33:02] [Instructions] 正在处理: spec-driven-workflow-v1.instructions.md (72/84)
+[2025-10-13 19:33:02] ✓ 读取成功 (12171 字符)
+[2025-10-13 19:33:02] ✓ 分析完成: Specification-Driven Workflow v1 provides a structured approach to software development, ensuring that requirements are clearly defined, designs are meticulously planned, and implementations are thoroughly documented and validated.
+[2025-10-13 19:33:02] ✓ 生成mindmap内容 (2413 字符)
+[2025-10-13 19:33:02] ✓ 保存成功: spec-driven-workflow-v1.instructions.mindmap.md
+[2025-10-13 19:33:02] ✓ 验证通过
+[2025-10-13 19:33:02] ================================================================================
+[2025-10-13 19:33:02] [Instructions] 正在处理: springboot.instructions.md (73/84)
+[2025-10-13 19:33:02] ✓ 读取成功 (2409 字符)
+[2025-10-13 19:33:02] ✓ 分析完成: Guidelines for building Spring Boot base applications
+[2025-10-13 19:33:02] ✓ 生成mindmap内容 (1584 字符)
+[2025-10-13 19:33:02] ✓ 保存成功: springboot.instructions.mindmap.md
+[2025-10-13 19:33:02] ✓ 验证通过
+[2025-10-13 19:33:02] ================================================================================
+[2025-10-13 19:33:02] [Instructions] 正在处理: sql-sp-generation.instructions.md (74/84)
+[2025-10-13 19:33:02] ✓ 读取成功 (3133 字符)
+[2025-10-13 19:33:02] ✓ 分析完成: Guidelines for generating SQL statements and stored procedures
+[2025-10-13 19:33:02] ✓ 生成mindmap内容 (1537 字符)
+[2025-10-13 19:33:02] ✓ 保存成功: sql-sp-generation.instructions.mindmap.md
+[2025-10-13 19:33:02] ✓ 验证通过
+[2025-10-13 19:33:02] ================================================================================
+[2025-10-13 19:33:02] [Instructions] 正在处理: svelte.instructions.md (75/84)
+[2025-10-13 19:33:02] ✓ 读取成功 (7520 字符)
+[2025-10-13 19:33:02] ✓ 分析完成: Svelte 5 and SvelteKit development standards and best practices for component-based user interfaces and full-stack applications
+[2025-10-13 19:33:02] ✓ 生成mindmap内容 (1993 字符)
+[2025-10-13 19:33:02] ✓ 保存成功: svelte.instructions.mindmap.md
+[2025-10-13 19:33:02] ✓ 验证通过
+[2025-10-13 19:33:02] ================================================================================
+[2025-10-13 19:33:02] [Instructions] 正在处理: taming-copilot.instructions.md (76/84)
+[2025-10-13 19:33:02] ✓ 读取成功 (4988 字符)
+[2025-10-13 19:33:02] ✓ 分析完成: Prevent Copilot from wreaking havoc across your codebase, keeping it under control.
+[2025-10-13 19:33:02] ✓ 生成mindmap内容 (2096 字符)
+[2025-10-13 19:33:02] ✓ 保存成功: taming-copilot.instructions.mindmap.md
+[2025-10-13 19:33:02] ✓ 验证通过
+[2025-10-13 19:33:02] ================================================================================
+[2025-10-13 19:33:02] [Instructions] 正在处理: tanstack-start-shadcn-tailwind.instructions.md (77/84)
+[2025-10-13 19:33:02] ✓ 读取成功 (5026 字符)
+[2025-10-13 19:33:02] ✓ 分析完成: Guidelines for building TanStack Start applications
+[2025-10-13 19:33:02] ✓ 生成mindmap内容 (1409 字符)
+[2025-10-13 19:33:02] ✓ 保存成功: tanstack-start-shadcn-tailwind.instructions.mindmap.md
+[2025-10-13 19:33:02] ✓ 验证通过
+[2025-10-13 19:33:02] ================================================================================
+[2025-10-13 19:33:02] [Instructions] 正在处理: task-implementation.instructions.md (78/84)
+[2025-10-13 19:33:02] ✓ 读取成功 (8314 字符)
+[2025-10-13 19:33:02] ✓ 分析完成: Instructions for implementing task plans with progressive tracking and change record - Brought to you by microsoft/edge-ai
+[2025-10-13 19:33:02] ✓ 生成mindmap内容 (2133 字符)
+[2025-10-13 19:33:02] ✓ 保存成功: task-implementation.instructions.mindmap.md
+[2025-10-13 19:33:02] ✓ 验证通过
+[2025-10-13 19:33:02] ================================================================================
+[2025-10-13 19:33:02] [Instructions] 正在处理: tasksync.instructions.md (79/84)
+[2025-10-13 19:33:02] ✓ 读取成功 (20024 字符)
+[2025-10-13 19:33:02] ✓ 分析完成: TaskSync V4 - Allows you to give the agent new instructions or feedback after completing a task using terminal while agent is running.
+[2025-10-13 19:33:02] ✓ 生成mindmap内容 (2097 字符)
+[2025-10-13 19:33:02] ✓ 保存成功: tasksync.instructions.mindmap.md
+[2025-10-13 19:33:02] ✓ 验证通过
+[2025-10-13 19:33:03] ================================================================================
+[2025-10-13 19:33:03] [Instructions] 正在处理: terraform-azure.instructions.md (80/84)
+[2025-10-13 19:33:03] ✓ 读取成功 (13278 字符)
+[2025-10-13 19:33:03] ✓ 分析完成: Create or modify solutions built using Terraform on Azure.
+[2025-10-13 19:33:03] ✓ 生成mindmap内容 (2144 字符)
+[2025-10-13 19:33:03] ✓ 保存成功: terraform-azure.instructions.mindmap.md
+[2025-10-13 19:33:03] ✓ 验证通过
+[2025-10-13 19:33:03] ================================================================================
+[2025-10-13 19:33:03] [Instructions] 正在处理: terraform.instructions.md (81/84)
+[2025-10-13 19:33:03] ✓ 读取成功 (7030 字符)
+[2025-10-13 19:33:03] ✓ 分析完成: Terraform Conventions and Guidelines
+[2025-10-13 19:33:03] ✓ 生成mindmap内容 (1562 字符)
+[2025-10-13 19:33:03] ✓ 保存成功: terraform.instructions.mindmap.md
+[2025-10-13 19:33:03] ✓ 验证通过
+[2025-10-13 19:33:03] ================================================================================
+[2025-10-13 19:33:03] [Instructions] 正在处理: typescript-5-es2022.instructions.md (82/84)
+[2025-10-13 19:33:03] ✓ 读取成功 (5114 字符)
+[2025-10-13 19:33:03] ✓ 分析完成: Guidelines for TypeScript Development targeting TypeScript 5.x and ES2022 output
+[2025-10-13 19:33:03] ✓ 生成mindmap内容 (1726 字符)
+[2025-10-13 19:33:03] ✓ 保存成功: typescript-5-es2022.instructions.mindmap.md
+[2025-10-13 19:33:03] ✓ 验证通过
+[2025-10-13 19:33:03] ================================================================================
+[2025-10-13 19:33:03] [Instructions] 正在处理: vuejs3.instructions.md (83/84)
+[2025-10-13 19:33:03] ✓ 读取成功 (6868 字符)
+[2025-10-13 19:33:03] ✓ 分析完成: VueJS 3 development standards and best practices with Composition API and TypeScript
+[2025-10-13 19:33:03] ✓ 生成mindmap内容 (1669 字符)
+[2025-10-13 19:33:03] ✓ 保存成功: vuejs3.instructions.mindmap.md
+[2025-10-13 19:33:03] ✓ 验证通过
+[2025-10-13 19:33:03] ================================================================================
+[2025-10-13 19:33:03] [Instructions] 正在处理: wordpress.instructions.md (84/84)
+[2025-10-13 19:33:03] ✓ 读取成功 (7103 字符)
+[2025-10-13 19:33:03] ✓ 分析完成: Coding, security, and testing rules for WordPress plugins and themes
+[2025-10-13 19:33:03] ✓ 生成mindmap内容 (1992 字符)
+[2025-10-13 19:33:03] ✓ 保存成功: wordpress.instructions.mindmap.md
+[2025-10-13 19:33:03] ✓ 验证通过
+[2025-10-13 19:33:03] 
+================================================================================
+[2025-10-13 19:33:03] 阶段2: 处理Prompts文件
+[2025-10-13 19:33:03] ================================================================================
+
+[2025-10-13 19:33:03] ================================================================================
+[2025-10-13 19:33:03] [Prompts] 正在处理: add-educational-comments.prompt.md (1/92)
+[2025-10-13 19:33:03] ✓ 读取成功 (6250 字符)
+[2025-10-13 19:33:03] ✓ 分析完成: Add educational comments to the file specified, or prompt asking for file to comment if one is not provided.
+[2025-10-13 19:33:03] ✓ 生成mindmap内容 (2226 字符)
+[2025-10-13 19:33:03] ✓ 保存成功: add-educational-comments.prompt.mindmap.md
+[2025-10-13 19:33:03] ✓ 验证通过
+[2025-10-13 19:33:03] ================================================================================
+[2025-10-13 19:33:03] [Prompts] 正在处理: ai-prompt-engineering-safety-review.prompt.md (2/92)
+[2025-10-13 19:33:03] ✓ 读取成功 (10126 字符)
+[2025-10-13 19:33:03] ✓ 分析完成: Comprehensive AI prompt engineering safety review and improvement prompt. Analyzes prompts for safety, bias, security vulnerabilities, and effectiveness while providing detailed improvement recommendations with extensive frameworks, testing methodologies, and educational content.
+[2025-10-13 19:33:03] ✓ 生成mindmap内容 (2915 字符)
+[2025-10-13 19:33:03] ✓ 保存成功: ai-prompt-engineering-safety-review.prompt.mindmap.md
+[2025-10-13 19:33:03] ✓ 验证通过
+[2025-10-13 19:33:03] ================================================================================
+[2025-10-13 19:33:03] [Prompts] 正在处理: architecture-blueprint-generator.prompt.md (3/92)
+[2025-10-13 19:33:03] ✓ 读取成功 (13333 字符)
+[2025-10-13 19:33:03] ✓ 分析完成: Comprehensive project architecture blueprint generator that analyzes codebases to create detailed architectural documentation. Automatically detects technology stacks and architectural patterns, generates visual diagrams, documents implementation patterns, and provides extensible blueprints for maintaining architectural consistency and guiding new development.
+[2025-10-13 19:33:03] ✓ 生成mindmap内容 (3555 字符)
+[2025-10-13 19:33:03] ✓ 保存成功: architecture-blueprint-generator.prompt.mindmap.md
+[2025-10-13 19:33:03] ✓ 验证通过
+[2025-10-13 19:33:03] ================================================================================
+[2025-10-13 19:33:03] [Prompts] 正在处理: aspnet-minimal-api-openapi.prompt.md (4/92)
+[2025-10-13 19:33:03] ✓ 读取成功 (1791 字符)
+[2025-10-13 19:33:03] ✓ 分析完成: Create ASP.NET Minimal API endpoints with proper OpenAPI documentation
+[2025-10-13 19:33:03] ✓ 生成mindmap内容 (1221 字符)
+[2025-10-13 19:33:03] ✓ 保存成功: aspnet-minimal-api-openapi.prompt.mindmap.md
+[2025-10-13 19:33:03] ✓ 验证通过
+[2025-10-13 19:33:04] ================================================================================
+[2025-10-13 19:33:04] [Prompts] 正在处理: az-cost-optimize.prompt.md (5/92)
+[2025-10-13 19:33:04] ✓ 读取成功 (12844 字符)
+[2025-10-13 19:33:04] ✓ 分析完成: Analyze Azure resources used in the app (IaC files and/or resources in a target rg) and optimize costs - creating GitHub issues for identified optimizations.
+[2025-10-13 19:33:04] ✓ 生成mindmap内容 (2060 字符)
+[2025-10-13 19:33:04] ✓ 保存成功: az-cost-optimize.prompt.mindmap.md
+[2025-10-13 19:33:04] ✓ 验证通过
+[2025-10-13 19:33:04] ================================================================================
+[2025-10-13 19:33:04] [Prompts] 正在处理: azure-resource-health-diagnose.prompt.md (6/92)
+[2025-10-13 19:33:04] ✓ 读取成功 (11399 字符)
+[2025-10-13 19:33:04] ✓ 分析完成: Analyze Azure resource health, diagnose issues from logs and telemetry, and create a remediation plan for identified problems.
+[2025-10-13 19:33:04] ✓ 生成mindmap内容 (1868 字符)
+[2025-10-13 19:33:04] ✓ 保存成功: azure-resource-health-diagnose.prompt.mindmap.md
+[2025-10-13 19:33:04] ✓ 验证通过
+[2025-10-13 19:33:04] ================================================================================
+[2025-10-13 19:33:04] [Prompts] 正在处理: boost-prompt.prompt.md (7/92)
+[2025-10-13 19:33:04] ✓ 读取成功 (1404 字符)
+[2025-10-13 19:33:04] ✓ 分析完成: Interactive prompt refinement workflow: interrogates scope, deliverables, constraints; copies final markdown to clipboard; never writes code. Requires the Joyride extension.
+[2025-10-13 19:33:04] ✓ 生成mindmap内容 (1746 字符)
+[2025-10-13 19:33:04] ✓ 保存成功: boost-prompt.prompt.mindmap.md
+[2025-10-13 19:33:04] ✓ 验证通过
+[2025-10-13 19:33:04] ================================================================================
+[2025-10-13 19:33:04] [Prompts] 正在处理: breakdown-epic-arch.prompt.md (8/92)
+[2025-10-13 19:33:04] ✓ 读取成功 (2834 字符)
+[2025-10-13 19:33:04] ✓ 分析完成: Prompt for creating the high-level technical architecture for an Epic, based on a Product Requirements Document.
+[2025-10-13 19:33:04] ✓ 生成mindmap内容 (1361 字符)
+[2025-10-13 19:33:04] ✓ 保存成功: breakdown-epic-arch.prompt.mindmap.md
+[2025-10-13 19:33:04] ✓ 验证通过
+[2025-10-13 19:33:04] ================================================================================
+[2025-10-13 19:33:04] [Prompts] 正在处理: breakdown-epic-pm.prompt.md (9/92)
+[2025-10-13 19:33:04] ✓ 读取成功 (2287 字符)
+[2025-10-13 19:33:04] ✓ 分析完成: Prompt for creating an Epic Product Requirements Document (PRD) for a new epic. This PRD will be used as input for generating a technical architecture specification.
+[2025-10-13 19:33:04] ✓ 生成mindmap内容 (1710 字符)
+[2025-10-13 19:33:04] ✓ 保存成功: breakdown-epic-pm.prompt.mindmap.md
+[2025-10-13 19:33:04] ✓ 验证通过
+[2025-10-13 19:33:04] ================================================================================
+[2025-10-13 19:33:04] [Prompts] 正在处理: breakdown-feature-implementation.prompt.md (10/92)
+[2025-10-13 19:33:04] ✓ 读取成功 (4730 字符)
+[2025-10-13 19:33:04] ✓ 分析完成: Prompt for creating detailed feature implementation plans, following Epoch monorepo structure.
+[2025-10-13 19:33:04] ✓ 生成mindmap内容 (1273 字符)
+[2025-10-13 19:33:04] ✓ 保存成功: breakdown-feature-implementation.prompt.mindmap.md
+[2025-10-13 19:33:04] ✓ 验证通过
+[2025-10-13 19:33:04] ================================================================================
+[2025-10-13 19:33:04] [Prompts] 正在处理: breakdown-feature-prd.prompt.md (11/92)
+[2025-10-13 19:33:04] ✓ 读取成功 (2465 字符)
+[2025-10-13 19:33:04] ✓ 分析完成: Prompt for creating Product Requirements Documents (PRDs) for new features, based on an Epic.
+[2025-10-13 19:33:04] ✓ 生成mindmap内容 (1210 字符)
+[2025-10-13 19:33:04] ✓ 保存成功: breakdown-feature-prd.prompt.mindmap.md
+[2025-10-13 19:33:04] ✓ 验证通过
+[2025-10-13 19:33:04] ================================================================================
+[2025-10-13 19:33:04] [Prompts] 正在处理: breakdown-plan.prompt.md (12/92)
+[2025-10-13 19:33:04] ✓ 读取成功 (15043 字符)
+[2025-10-13 19:33:04] ✓ 分析完成: Issue Planning and Automation prompt that generates comprehensive project plans with Epic > Feature > Story/Enabler > Test hierarchy, dependencies, priorities, and automated tracking.
+[2025-10-13 19:33:04] ✓ 生成mindmap内容 (2497 字符)
+[2025-10-13 19:33:04] ✓ 保存成功: breakdown-plan.prompt.mindmap.md
+[2025-10-13 19:33:04] ✓ 验证通过
+[2025-10-13 19:33:04] ================================================================================
+[2025-10-13 19:33:04] [Prompts] 正在处理: breakdown-test.prompt.md (13/92)
+[2025-10-13 19:33:04] ✓ 读取成功 (14955 字符)
+[2025-10-13 19:33:04] ✓ 分析完成: Test Planning and Quality Assurance prompt that generates comprehensive test strategies, task breakdowns, and quality validation plans for GitHub projects.
+[2025-10-13 19:33:04] ✓ 生成mindmap内容 (2364 字符)
+[2025-10-13 19:33:04] ✓ 保存成功: breakdown-test.prompt.mindmap.md
+[2025-10-13 19:33:04] ✓ 验证通过
+[2025-10-13 19:33:05] ================================================================================
+[2025-10-13 19:33:05] [Prompts] 正在处理: code-exemplars-blueprint-generator.prompt.md (14/92)
+[2025-10-13 19:33:05] ✓ 读取成功 (6683 字符)
+[2025-10-13 19:33:05] ✓ 分析完成: Technology-agnostic prompt generator that creates customizable AI prompts for scanning codebases and identifying high-quality code exemplars. Supports multiple programming languages (.NET, Java, JavaScript, TypeScript, React, Angular, Python) with configurable analysis depth, categorization methods, and documentation formats to establish coding standards and maintain consistency across development teams.
+[2025-10-13 19:33:05] ✓ 生成mindmap内容 (3903 字符)
+[2025-10-13 19:33:05] ✓ 保存成功: code-exemplars-blueprint-generator.prompt.mindmap.md
+[2025-10-13 19:33:05] ✓ 验证通过
+[2025-10-13 19:33:05] ================================================================================
+[2025-10-13 19:33:05] [Prompts] 正在处理: comment-code-generate-a-tutorial.prompt.md (15/92)
+[2025-10-13 19:33:05] ✓ 读取成功 (1364 字符)
+[2025-10-13 19:33:05] ✓ 分析完成: Transform this Python script into a polished, beginner-friendly project by refactoring the code, adding clear instructional comments, and generating a complete markdown tutorial.
+[2025-10-13 19:33:05] ✓ 生成mindmap内容 (2016 字符)
+[2025-10-13 19:33:05] ✓ 保存成功: comment-code-generate-a-tutorial.prompt.mindmap.md
+[2025-10-13 19:33:05] ✓ 验证通过
+[2025-10-13 19:33:05] ================================================================================
+[2025-10-13 19:33:05] [Prompts] 正在处理: containerize-aspnet-framework.prompt.md (16/92)
+[2025-10-13 19:33:05] ✓ 读取成功 (20837 字符)
+[2025-10-13 19:33:05] ✓ 分析完成: Containerize an ASP.NET .NET Framework project by creating Dockerfile and .dockerfile files customized for the project.
+[2025-10-13 19:33:05] ✓ 生成mindmap内容 (2143 字符)
+[2025-10-13 19:33:05] ✓ 保存成功: containerize-aspnet-framework.prompt.mindmap.md
+[2025-10-13 19:33:05] ✓ 验证通过
+[2025-10-13 19:33:05] ================================================================================
+[2025-10-13 19:33:05] [Prompts] 正在处理: containerize-aspnetcore.prompt.md (17/92)
+[2025-10-13 19:33:05] ✓ 读取成功 (15988 字符)
+[2025-10-13 19:33:05] ✓ 分析完成: Containerize an ASP.NET Core project by creating Dockerfile and .dockerfile files customized for the project.
+[2025-10-13 19:33:05] ✓ 生成mindmap内容 (2047 字符)
+[2025-10-13 19:33:05] ✓ 保存成功: containerize-aspnetcore.prompt.mindmap.md
+[2025-10-13 19:33:05] ✓ 验证通过
+[2025-10-13 19:33:05] ================================================================================
+[2025-10-13 19:33:05] [Prompts] 正在处理: copilot-instructions-blueprint-generator.prompt.md (18/92)
+[2025-10-13 19:33:05] ✓ 读取成功 (14749 字符)
+[2025-10-13 19:33:05] ✓ 分析完成: Technology-agnostic blueprint generator for creating comprehensive copilot-instructions.md files that guide GitHub Copilot to produce code consistent with project standards, architecture patterns, and exact technology versions by analyzing existing codebase patterns and avoiding assumptions.
+[2025-10-13 19:33:05] ✓ 生成mindmap内容 (3663 字符)
+[2025-10-13 19:33:05] ✓ 保存成功: copilot-instructions-blueprint-generator.prompt.mindmap.md
+[2025-10-13 19:33:05] ✓ 验证通过
+[2025-10-13 19:33:05] ================================================================================
+[2025-10-13 19:33:05] [Prompts] 正在处理: cosmosdb-datamodeling.prompt.md (19/92)
+[2025-10-13 19:33:05] ✓ 读取成功 (47462 字符)
+[2025-10-13 19:33:05] ✓ 分析完成: Step-by-step guide for capturing key application requirements for NoSQL use-case and produce Azure Cosmos DB Data NoSQL Model design using best practices and common patterns, artifacts_produced: "cosmosdb_requirements.md" file and "cosmosdb_data_model.md" file
+[2025-10-13 19:33:05] ✓ 生成mindmap内容 (3169 字符)
+[2025-10-13 19:33:05] ✓ 保存成功: cosmosdb-datamodeling.prompt.mindmap.md
+[2025-10-13 19:33:05] ✓ 验证通过
+[2025-10-13 19:33:05] ================================================================================
+[2025-10-13 19:33:05] [Prompts] 正在处理: create-agentsmd.prompt.md (20/92)
+[2025-10-13 19:33:05] ✓ 读取成功 (7847 字符)
+[2025-10-13 19:33:05] ✓ 分析完成: Prompt for generating an AGENTS.md file for a repository
+[2025-10-13 19:33:05] ✓ 生成mindmap内容 (1507 字符)
+[2025-10-13 19:33:05] ✓ 保存成功: create-agentsmd.prompt.mindmap.md
+[2025-10-13 19:33:05] ✓ 验证通过
+[2025-10-13 19:33:05] ================================================================================
+[2025-10-13 19:33:05] [Prompts] 正在处理: create-architectural-decision-record.prompt.md (21/92)
+[2025-10-13 19:33:05] ✓ 读取成功 (3266 字符)
+[2025-10-13 19:33:05] ✓ 分析完成: Create an Architectural Decision Record (ADR) document for AI-optimized decision documentation.
+[2025-10-13 19:33:05] ✓ 生成mindmap内容 (2073 字符)
+[2025-10-13 19:33:05] ✓ 保存成功: create-architectural-decision-record.prompt.mindmap.md
+[2025-10-13 19:33:05] ✓ 验证通过
+[2025-10-13 19:33:05] ================================================================================
+[2025-10-13 19:33:05] [Prompts] 正在处理: create-github-action-workflow-specification.prompt.md (22/92)
+[2025-10-13 19:33:05] ✓ 读取成功 (7993 字符)
+[2025-10-13 19:33:05] ✓ 分析完成: Create a formal specification for an existing GitHub Actions CI/CD workflow, optimized for AI consumption and workflow maintenance.
+[2025-10-13 19:33:05] ✓ 生成mindmap内容 (2370 字符)
+[2025-10-13 19:33:05] ✓ 保存成功: create-github-action-workflow-specification.prompt.mindmap.md
+[2025-10-13 19:33:05] ✓ 验证通过
+[2025-10-13 19:33:06] ================================================================================
+[2025-10-13 19:33:06] [Prompts] 正在处理: create-github-issue-feature-from-specification.prompt.md (23/92)
+[2025-10-13 19:33:06] ✓ 读取成功 (961 字符)
+[2025-10-13 19:33:06] ✓ 分析完成: Create GitHub Issue for feature request from specification file using feature_request.yml template.
+[2025-10-13 19:33:06] ✓ 生成mindmap内容 (1945 字符)
+[2025-10-13 19:33:06] ✓ 保存成功: create-github-issue-feature-from-specification.prompt.mindmap.md
+[2025-10-13 19:33:06] ✓ 验证通过
+[2025-10-13 19:33:06] ================================================================================
+[2025-10-13 19:33:06] [Prompts] 正在处理: create-github-issues-feature-from-implementation-plan.prompt.md (24/92)
+[2025-10-13 19:33:06] ✓ 读取成功 (987 字符)
+[2025-10-13 19:33:06] ✓ 分析完成: Create GitHub Issues from implementation plan phases using feature_request.yml or chore_request.yml templates.
+[2025-10-13 19:33:06] ✓ 生成mindmap内容 (2035 字符)
+[2025-10-13 19:33:06] ✓ 保存成功: create-github-issues-feature-from-implementation-plan.prompt.mindmap.md
+[2025-10-13 19:33:06] ✓ 验证通过
+[2025-10-13 19:33:06] ================================================================================
+[2025-10-13 19:33:06] [Prompts] 正在处理: create-github-issues-for-unmet-specification-requirements.prompt.md (25/92)
+[2025-10-13 19:33:06] ✓ 读取成功 (1313 字符)
+[2025-10-13 19:33:06] ✓ 分析完成: Create GitHub Issues for unimplemented requirements from specification files using feature_request.yml template.
+[2025-10-13 19:33:06] ✓ 生成mindmap内容 (2188 字符)
+[2025-10-13 19:33:06] ✓ 保存成功: create-github-issues-for-unmet-specification-requirements.prompt.mindmap.md
+[2025-10-13 19:33:06] ✓ 验证通过
+[2025-10-13 19:33:06] ================================================================================
+[2025-10-13 19:33:06] [Prompts] 正在处理: create-github-pull-request-from-specification.prompt.md (26/92)
+[2025-10-13 19:33:06] ✓ 读取成功 (1695 字符)
+[2025-10-13 19:33:06] ✓ 分析完成: Create GitHub Pull Request for feature request from specification file using pull_request_template.md template.
+[2025-10-13 19:33:06] ✓ 生成mindmap内容 (2571 字符)
+[2025-10-13 19:33:06] ✓ 保存成功: create-github-pull-request-from-specification.prompt.mindmap.md
+[2025-10-13 19:33:06] ✓ 验证通过
+[2025-10-13 19:33:06] ================================================================================
+[2025-10-13 19:33:06] [Prompts] 正在处理: create-implementation-plan.prompt.md (27/92)
+[2025-10-13 19:33:06] ✓ 读取成功 (6514 字符)
+[2025-10-13 19:33:06] ✓ 分析完成: Create a new implementation plan file for new features, refactoring existing code or upgrading packages, design, architecture or infrastructure.
+[2025-10-13 19:33:06] ✓ 生成mindmap内容 (2613 字符)
+[2025-10-13 19:33:06] ✓ 保存成功: create-implementation-plan.prompt.mindmap.md
+[2025-10-13 19:33:06] ✓ 验证通过
+[2025-10-13 19:33:06] ================================================================================
+[2025-10-13 19:33:06] [Prompts] 正在处理: create-llms.prompt.md (28/92)
+[2025-10-13 19:33:06] ✓ 读取成功 (7523 字符)
+[2025-10-13 19:33:06] ✓ 分析完成: Create an llms.txt file from scratch based on repository structure following the llms.txt specification at https://llmstxt.org/
+[2025-10-13 19:33:06] ✓ 生成mindmap内容 (2443 字符)
+[2025-10-13 19:33:06] ✓ 保存成功: create-llms.prompt.mindmap.md
+[2025-10-13 19:33:06] ✓ 验证通过
+[2025-10-13 19:33:06] ================================================================================
+[2025-10-13 19:33:06] [Prompts] 正在处理: create-oo-component-documentation.prompt.md (29/92)
+[2025-10-13 19:33:06] ✓ 读取成功 (7368 字符)
+[2025-10-13 19:33:06] ✓ 分析完成: Create comprehensive, standardized documentation for object-oriented components following industry best practices and architectural documentation standards.
+[2025-10-13 19:33:06] ✓ 生成mindmap内容 (2289 字符)
+[2025-10-13 19:33:06] ✓ 保存成功: create-oo-component-documentation.prompt.mindmap.md
+[2025-10-13 19:33:06] ✓ 验证通过
+[2025-10-13 19:33:06] ================================================================================
+[2025-10-13 19:33:06] [Prompts] 正在处理: create-readme.prompt.md (30/92)
+[2025-10-13 19:33:06] ✓ 读取成功 (1325 字符)
+[2025-10-13 19:33:06] ✓ 分析完成: Create a README.md file for the project
+[2025-10-13 19:33:06] ✓ 生成mindmap内容 (1650 字符)
+[2025-10-13 19:33:06] ✓ 保存成功: create-readme.prompt.mindmap.md
+[2025-10-13 19:33:06] ✓ 验证通过
+[2025-10-13 19:33:06] ================================================================================
+[2025-10-13 19:33:06] [Prompts] 正在处理: create-specification.prompt.md (31/92)
+[2025-10-13 19:33:06] ✓ 读取成功 (5739 字符)
+[2025-10-13 19:33:06] ✓ 分析完成: Create a new specification file for the solution, optimized for Generative AI consumption.
+[2025-10-13 19:33:06] ✓ 生成mindmap内容 (1894 字符)
+[2025-10-13 19:33:06] ✓ 保存成功: create-specification.prompt.mindmap.md
+[2025-10-13 19:33:06] ✓ 验证通过
+[2025-10-13 19:33:07] ================================================================================
+[2025-10-13 19:33:07] [Prompts] 正在处理: create-spring-boot-java-project.prompt.md (32/92)
+[2025-10-13 19:33:07] ✓ 读取成功 (4612 字符)
+[2025-10-13 19:33:07] ✓ 分析完成: Create Spring Boot Java Project Skeleton
+[2025-10-13 19:33:07] ✓ 生成mindmap内容 (834 字符)
+[2025-10-13 19:33:07] ✓ 保存成功: create-spring-boot-java-project.prompt.mindmap.md
+[2025-10-13 19:33:07] ✓ 验证通过
+[2025-10-13 19:33:07] ================================================================================
+[2025-10-13 19:33:07] [Prompts] 正在处理: create-spring-boot-kotlin-project.prompt.md (33/92)
+[2025-10-13 19:33:07] ✓ 读取成功 (4244 字符)
+[2025-10-13 19:33:07] ✓ 分析完成: Create Spring Boot Kotlin Project Skeleton
+[2025-10-13 19:33:07] ✓ 生成mindmap内容 (850 字符)
+[2025-10-13 19:33:07] ✓ 保存成功: create-spring-boot-kotlin-project.prompt.mindmap.md
+[2025-10-13 19:33:07] ✓ 验证通过
+[2025-10-13 19:33:07] ================================================================================
+[2025-10-13 19:33:07] [Prompts] 正在处理: create-technical-spike.prompt.md (34/92)
+[2025-10-13 19:33:07] ✓ 读取成功 (6769 字符)
+[2025-10-13 19:33:07] ✓ 分析完成: Create time-boxed technical spike documents for researching and resolving critical development decisions before implementation.
+[2025-10-13 19:33:07] ✓ 生成mindmap内容 (2130 字符)
+[2025-10-13 19:33:07] ✓ 保存成功: create-technical-spike.prompt.mindmap.md
+[2025-10-13 19:33:07] ✓ 验证通过
+[2025-10-13 19:33:07] ================================================================================
+[2025-10-13 19:33:07] [Prompts] 正在处理: csharp-async.prompt.md (35/92)
+[2025-10-13 19:33:07] ✓ 读取成功 (1913 字符)
+[2025-10-13 19:33:07] ✓ 分析完成: Get best practices for C# async programming
+[2025-10-13 19:33:07] ✓ 生成mindmap内容 (1018 字符)
+[2025-10-13 19:33:07] ✓ 保存成功: csharp-async.prompt.mindmap.md
+[2025-10-13 19:33:07] ✓ 验证通过
+[2025-10-13 19:33:07] ================================================================================
+[2025-10-13 19:33:07] [Prompts] 正在处理: csharp-docs.prompt.md (36/92)
+[2025-10-13 19:33:07] ✓ 读取成功 (4134 字符)
+[2025-10-13 19:33:07] ✓ 分析完成: Ensure that C# types are documented with XML comments and follow best practices for documentation.
+[2025-10-13 19:33:07] ✓ 生成mindmap内容 (1402 字符)
+[2025-10-13 19:33:07] ✓ 保存成功: csharp-docs.prompt.mindmap.md
+[2025-10-13 19:33:07] ✓ 验证通过
+[2025-10-13 19:33:07] ================================================================================
+[2025-10-13 19:33:07] [Prompts] 正在处理: csharp-mstest.prompt.md (37/92)
+[2025-10-13 19:33:07] ✓ 读取成功 (2550 字符)
+[2025-10-13 19:33:07] ✓ 分析完成: Get best practices for MSTest unit testing, including data-driven tests
+[2025-10-13 19:33:07] ✓ 生成mindmap内容 (1245 字符)
+[2025-10-13 19:33:07] ✓ 保存成功: csharp-mstest.prompt.mindmap.md
+[2025-10-13 19:33:07] ✓ 验证通过
+[2025-10-13 19:33:07] ================================================================================
+[2025-10-13 19:33:07] [Prompts] 正在处理: csharp-nunit.prompt.md (38/92)
+[2025-10-13 19:33:07] ✓ 读取成功 (2904 字符)
+[2025-10-13 19:33:07] ✓ 分析完成: Get best practices for NUnit unit testing, including data-driven tests
+[2025-10-13 19:33:07] ✓ 生成mindmap内容 (1237 字符)
+[2025-10-13 19:33:07] ✓ 保存成功: csharp-nunit.prompt.mindmap.md
+[2025-10-13 19:33:07] ✓ 验证通过
+[2025-10-13 19:33:07] ================================================================================
+[2025-10-13 19:33:07] [Prompts] 正在处理: csharp-tunit.prompt.md (39/92)
+[2025-10-13 19:33:07] ✓ 读取成功 (5205 字符)
+[2025-10-13 19:33:07] ✓ 分析完成: Get best practices for TUnit unit testing, including data-driven tests
+[2025-10-13 19:33:07] ✓ 生成mindmap内容 (1237 字符)
+[2025-10-13 19:33:07] ✓ 保存成功: csharp-tunit.prompt.mindmap.md
+[2025-10-13 19:33:07] ✓ 验证通过
+[2025-10-13 19:33:07] ================================================================================
+[2025-10-13 19:33:07] [Prompts] 正在处理: csharp-xunit.prompt.md (40/92)
+[2025-10-13 19:33:07] ✓ 读取成功 (2768 字符)
+[2025-10-13 19:33:07] ✓ 分析完成: Get best practices for XUnit unit testing, including data-driven tests
+[2025-10-13 19:33:07] ✓ 生成mindmap内容 (1237 字符)
+[2025-10-13 19:33:07] ✓ 保存成功: csharp-xunit.prompt.mindmap.md
+[2025-10-13 19:33:07] ✓ 验证通过
+[2025-10-13 19:33:08] ================================================================================
+[2025-10-13 19:33:08] [Prompts] 正在处理: declarative-agents.prompt.md (41/92)
+[2025-10-13 19:33:08] ✓ 读取成功 (4682 字符)
+[2025-10-13 19:33:08] ✓ 分析完成: Complete development kit for Microsoft 365 Copilot declarative agents with three comprehensive workflows (basic, advanced, validation), TypeSpec support, and Microsoft 365 Agents Toolkit integration
+[2025-10-13 19:33:08] ✓ 生成mindmap内容 (2905 字符)
+[2025-10-13 19:33:08] ✓ 保存成功: declarative-agents.prompt.mindmap.md
+[2025-10-13 19:33:08] ✓ 验证通过
+[2025-10-13 19:33:08] ================================================================================
+[2025-10-13 19:33:08] [Prompts] 正在处理: documentation-writer.prompt.md (42/92)
+[2025-10-13 19:33:08] ✓ 读取成功 (2770 字符)
+[2025-10-13 19:33:08] ✓ 分析完成: Diátaxis Documentation Expert. An expert technical writer specializing in creating high-quality software documentation, guided by the principles and structure of the Diátaxis technical documentation authoring framework.
+[2025-10-13 19:33:08] ✓ 生成mindmap内容 (3333 字符)
+[2025-10-13 19:33:08] ✓ 保存成功: documentation-writer.prompt.mindmap.md
+[2025-10-13 19:33:08] ✓ 验证通过
+[2025-10-13 19:33:08] ================================================================================
+[2025-10-13 19:33:08] [Prompts] 正在处理: dotnet-best-practices.prompt.md (43/92)
+[2025-10-13 19:33:08] ✓ 读取成功 (3215 字符)
+[2025-10-13 19:33:08] ✓ 分析完成: Ensure .NET/C# code meets best practices for the solution/project.
+[2025-10-13 19:33:08] ✓ 生成mindmap内容 (1006 字符)
+[2025-10-13 19:33:08] ✓ 保存成功: dotnet-best-practices.prompt.mindmap.md
+[2025-10-13 19:33:08] ✓ 验证通过
+[2025-10-13 19:33:08] ================================================================================
+[2025-10-13 19:33:08] [Prompts] 正在处理: dotnet-design-pattern-review.prompt.md (44/92)
+[2025-10-13 19:33:08] ✓ 读取成功 (3262 字符)
+[2025-10-13 19:33:08] ✓ 分析完成: Review the C#/.NET code for design pattern implementation and suggest improvements.
+[2025-10-13 19:33:08] ✓ 生成mindmap内容 (1132 字符)
+[2025-10-13 19:33:08] ✓ 保存成功: dotnet-design-pattern-review.prompt.mindmap.md
+[2025-10-13 19:33:08] ✓ 验证通过
+[2025-10-13 19:33:08] ================================================================================
+[2025-10-13 19:33:08] [Prompts] 正在处理: editorconfig.prompt.md (45/92)
+[2025-10-13 19:33:08] ✓ 读取成功 (4176 字符)
+[2025-10-13 19:33:08] ✓ 分析完成: Generates a comprehensive and best-practice-oriented .editorconfig file based on project analysis and user preferences.
+[2025-10-13 19:33:08] ✓ 生成mindmap内容 (2458 字符)
+[2025-10-13 19:33:08] ✓ 保存成功: editorconfig.prompt.mindmap.md
+[2025-10-13 19:33:08] ✓ 验证通过
+[2025-10-13 19:33:08] ================================================================================
+[2025-10-13 19:33:08] [Prompts] 正在处理: ef-core.prompt.md (46/92)
+[2025-10-13 19:33:08] ✓ 读取成功 (2748 字符)
+[2025-10-13 19:33:08] ✓ 分析完成: Get best practices for Entity Framework Core
+[2025-10-13 19:33:08] ✓ 生成mindmap内容 (1060 字符)
+[2025-10-13 19:33:08] ✓ 保存成功: ef-core.prompt.mindmap.md
+[2025-10-13 19:33:08] ✓ 验证通过
+[2025-10-13 19:33:08] ================================================================================
+[2025-10-13 19:33:08] [Prompts] 正在处理: first-ask.prompt.md (47/92)
+[2025-10-13 19:33:08] ✓ 读取成功 (1560 字符)
+[2025-10-13 19:33:08] ✓ 分析完成: Interactive, input-tool powered, task refinement workflow: interrogates scope, deliverables, constraints before carrying out the task; Requires the Joyride extension.
+[2025-10-13 19:33:08] ✓ 生成mindmap内容 (1875 字符)
+[2025-10-13 19:33:08] ✓ 保存成功: first-ask.prompt.mindmap.md
+[2025-10-13 19:33:08] ✓ 验证通过
+[2025-10-13 19:33:08] ================================================================================
+[2025-10-13 19:33:08] [Prompts] 正在处理: folder-structure-blueprint-generator.prompt.md (48/92)
+[2025-10-13 19:33:08] ✓ 读取成功 (13851 字符)
+[2025-10-13 19:33:08] ✓ 分析完成: Comprehensive technology-agnostic prompt for analyzing and documenting project folder structures. Auto-detects project types (.NET, Java, React, Angular, Python, Node.js, Flutter), generates detailed blueprints with visualization options, naming conventions, file placement patterns, and extension templates for maintaining consistent code organization across diverse technology stacks.
+[2025-10-13 19:33:08] ✓ 生成mindmap内容 (3854 字符)
+[2025-10-13 19:33:08] ✓ 保存成功: folder-structure-blueprint-generator.prompt.mindmap.md
+[2025-10-13 19:33:08] ✓ 验证通过
+[2025-10-13 19:33:08] ================================================================================
+[2025-10-13 19:33:08] [Prompts] 正在处理: gen-specs-as-issues.prompt.md (49/92)
+[2025-10-13 19:33:08] ✓ 读取成功 (5856 字符)
+[2025-10-13 19:33:08] ✓ 分析完成: This workflow guides you through a systematic approach to identify missing features, prioritize them, and create detailed specifications for implementation.
+[2025-10-13 19:33:08] ✓ 生成mindmap内容 (1840 字符)
+[2025-10-13 19:33:08] ✓ 保存成功: gen-specs-as-issues.prompt.mindmap.md
+[2025-10-13 19:33:08] ✓ 验证通过
+[2025-10-13 19:33:08] ================================================================================
+[2025-10-13 19:33:08] [Prompts] 正在处理: generate-custom-instructions-from-codebase.prompt.md (50/92)
+[2025-10-13 19:33:08] ✓ 读取成功 (8624 字符)
+[2025-10-13 19:33:08] ✓ 分析完成: Migration and code evolution instructions generator for GitHub Copilot. Analyzes differences between two project versions (branches, commits, or releases) to create precise instructions allowing Copilot to maintain consistency during technology migrations, major refactoring, or framework version upgrades.
+[2025-10-13 19:33:08] ✓ 生成mindmap内容 (3151 字符)
+[2025-10-13 19:33:08] ✓ 保存成功: generate-custom-instructions-from-codebase.prompt.mindmap.md
+[2025-10-13 19:33:08] ✓ 验证通过
+[2025-10-13 19:33:09] ================================================================================
+[2025-10-13 19:33:09] [Prompts] 正在处理: git-flow-branch-creator.prompt.md (51/92)
+[2025-10-13 19:33:09] ✓ 读取成功 (10451 字符)
+[2025-10-13 19:33:09] ✓ 分析完成: Intelligent Git Flow branch creator that analyzes git status/diff and creates appropriate branches following the nvie Git Flow branching model.
+[2025-10-13 19:33:09] ✓ 生成mindmap内容 (2356 字符)
+[2025-10-13 19:33:09] ✓ 保存成功: git-flow-branch-creator.prompt.mindmap.md
+[2025-10-13 19:33:09] ✓ 验证通过
+[2025-10-13 19:33:09] ================================================================================
+[2025-10-13 19:33:09] [Prompts] 正在处理: github-copilot-starter.prompt.md (52/92)
+[2025-10-13 19:33:09] ✓ 读取成功 (13643 字符)
+[2025-10-13 19:33:09] ✓ 分析完成: Set up complete GitHub Copilot configuration for a new project based on technology stack
+[2025-10-13 19:33:09] ✓ 生成mindmap内容 (2166 字符)
+[2025-10-13 19:33:09] ✓ 保存成功: github-copilot-starter.prompt.mindmap.md
+[2025-10-13 19:33:09] ✓ 验证通过
+[2025-10-13 19:33:09] ================================================================================
+[2025-10-13 19:33:09] [Prompts] 正在处理: java-docs.prompt.md (53/92)
+[2025-10-13 19:33:09] ✓ 读取成功 (1493 字符)
+[2025-10-13 19:33:09] ✓ 分析完成: Ensure that Java types are documented with Javadoc comments and follow best practices for documentation.
+[2025-10-13 19:33:09] ✓ 生成mindmap内容 (1442 字符)
+[2025-10-13 19:33:09] ✓ 保存成功: java-docs.prompt.mindmap.md
+[2025-10-13 19:33:09] ✓ 验证通过
+[2025-10-13 19:33:09] ================================================================================
+[2025-10-13 19:33:09] [Prompts] 正在处理: java-junit.prompt.md (54/92)
+[2025-10-13 19:33:09] ✓ 读取成功 (3044 字符)
+[2025-10-13 19:33:09] ✓ 分析完成: Get best practices for JUnit 5 unit testing, including data-driven tests
+[2025-10-13 19:33:09] ✓ 生成mindmap内容 (1249 字符)
+[2025-10-13 19:33:09] ✓ 保存成功: java-junit.prompt.mindmap.md
+[2025-10-13 19:33:09] ✓ 验证通过
+[2025-10-13 19:33:09] ================================================================================
+[2025-10-13 19:33:09] [Prompts] 正在处理: java-refactoring-extract-method.prompt.md (55/92)
+[2025-10-13 19:33:09] ✓ 读取成功 (3519 字符)
+[2025-10-13 19:33:09] ✓ 分析完成: Refactoring using Extract Methods in Java Language
+[2025-10-13 19:33:09] ✓ 生成mindmap内容 (904 字符)
+[2025-10-13 19:33:09] ✓ 保存成功: java-refactoring-extract-method.prompt.mindmap.md
+[2025-10-13 19:33:09] ✓ 验证通过
+[2025-10-13 19:33:09] ================================================================================
+[2025-10-13 19:33:09] [Prompts] 正在处理: java-springboot.prompt.md (56/92)
+[2025-10-13 19:33:09] ✓ 读取成功 (4191 字符)
+[2025-10-13 19:33:09] ✓ 分析完成: Get best practices for developing applications with Spring Boot.
+[2025-10-13 19:33:09] ✓ 生成mindmap内容 (1198 字符)
+[2025-10-13 19:33:09] ✓ 保存成功: java-springboot.prompt.mindmap.md
+[2025-10-13 19:33:09] ✓ 验证通过
+[2025-10-13 19:33:09] ================================================================================
+[2025-10-13 19:33:09] [Prompts] 正在处理: javascript-typescript-jest.prompt.md (57/92)
+[2025-10-13 19:33:09] ✓ 读取成功 (2216 字符)
+[2025-10-13 19:33:09] ✓ 分析完成: Best practices for writing JavaScript/TypeScript tests using Jest, including mocking strategies, test structure, and common patterns.
+[2025-10-13 19:33:09] ✓ 生成mindmap内容 (1691 字符)
+[2025-10-13 19:33:09] ✓ 保存成功: javascript-typescript-jest.prompt.mindmap.md
+[2025-10-13 19:33:09] ✓ 验证通过
+[2025-10-13 19:33:09] ================================================================================
+[2025-10-13 19:33:09] [Prompts] 正在处理: kotlin-springboot.prompt.md (58/92)
+[2025-10-13 19:33:09] ✓ 读取成功 (4462 字符)
+[2025-10-13 19:33:09] ✓ 分析完成: Get best practices for developing applications with Spring Boot and Kotlin.
+[2025-10-13 19:33:09] ✓ 生成mindmap内容 (1277 字符)
+[2025-10-13 19:33:09] ✓ 保存成功: kotlin-springboot.prompt.mindmap.md
+[2025-10-13 19:33:09] ✓ 验证通过
+[2025-10-13 19:33:09] ================================================================================
+[2025-10-13 19:33:09] [Prompts] 正在处理: mcp-copilot-studio-server-generator.prompt.md (59/92)
+[2025-10-13 19:33:09] ✓ 读取成功 (4219 字符)
+[2025-10-13 19:33:09] ✓ 分析完成: Generate a complete MCP server implementation optimized for Copilot Studio integration with proper schema constraints and streamable HTTP support
+[2025-10-13 19:33:09] ✓ 生成mindmap内容 (2023 字符)
+[2025-10-13 19:33:09] ✓ 保存成功: mcp-copilot-studio-server-generator.prompt.mindmap.md
+[2025-10-13 19:33:09] ✓ 验证通过
+[2025-10-13 19:33:10] ================================================================================
+[2025-10-13 19:33:10] [Prompts] 正在处理: memory-merger.prompt.md (60/92)
+[2025-10-13 19:33:10] ✓ 读取成功 (3865 字符)
+[2025-10-13 19:33:10] ✓ 分析完成: Merges mature lessons from a domain memory file into its instruction file. Syntax: `/memory-merger >domain [scope]` where scope is `global` (default), `user`, `workspace`, or `ws`.
+[2025-10-13 19:33:10] ✓ 生成mindmap内容 (2753 字符)
+[2025-10-13 19:33:10] ✓ 保存成功: memory-merger.prompt.mindmap.md
+[2025-10-13 19:33:10] ✓ 验证通过
+[2025-10-13 19:33:10] ================================================================================
+[2025-10-13 19:33:10] [Prompts] 正在处理: mkdocs-translations.prompt.md (61/92)
+[2025-10-13 19:33:10] ✓ 读取成功 (4478 字符)
+[2025-10-13 19:33:10] ✓ 分析完成: Generate a language translation for a mkdocs documentation stack.
+[2025-10-13 19:33:10] ✓ 生成mindmap内容 (1893 字符)
+[2025-10-13 19:33:10] ✓ 保存成功: mkdocs-translations.prompt.mindmap.md
+[2025-10-13 19:33:10] ✓ 验证通过
+[2025-10-13 19:33:10] ================================================================================
+[2025-10-13 19:33:10] [Prompts] 正在处理: multi-stage-dockerfile.prompt.md (62/92)
+[2025-10-13 19:33:10] ✓ 读取成功 (2313 字符)
+[2025-10-13 19:33:10] ✓ 分析完成: Create optimized multi-stage Dockerfiles for any language or framework
+[2025-10-13 19:33:10] ✓ 生成mindmap内容 (1090 字符)
+[2025-10-13 19:33:10] ✓ 保存成功: multi-stage-dockerfile.prompt.mindmap.md
+[2025-10-13 19:33:10] ✓ 验证通过
+[2025-10-13 19:33:10] ================================================================================
+[2025-10-13 19:33:10] [Prompts] 正在处理: my-issues.prompt.md (63/92)
+[2025-10-13 19:33:10] ✓ 读取成功 (430 字符)
+[2025-10-13 19:33:10] ✓ 分析完成: List my issues in the current repository
+[2025-10-13 19:33:10] ✓ 生成mindmap内容 (1066 字符)
+[2025-10-13 19:33:10] ✓ 保存成功: my-issues.prompt.mindmap.md
+[2025-10-13 19:33:10] ✓ 验证通过
+[2025-10-13 19:33:10] ================================================================================
+[2025-10-13 19:33:10] [Prompts] 正在处理: my-pull-requests.prompt.md (64/92)
+[2025-10-13 19:33:10] ✓ 读取成功 (793 字符)
+[2025-10-13 19:33:10] ✓ 分析完成: List my pull requests in the current repository
+[2025-10-13 19:33:10] ✓ 生成mindmap内容 (1311 字符)
+[2025-10-13 19:33:10] ✓ 保存成功: my-pull-requests.prompt.mindmap.md
+[2025-10-13 19:33:10] ✓ 验证通过
+[2025-10-13 19:33:10] ================================================================================
+[2025-10-13 19:33:10] [Prompts] 正在处理: next-intl-add-language.prompt.md (65/92)
+[2025-10-13 19:33:10] ✓ 读取成功 (818 字符)
+[2025-10-13 19:33:10] ✓ 分析完成: Add new language to a Next.js + next-intl application
+[2025-10-13 19:33:10] ✓ 生成mindmap内容 (1154 字符)
+[2025-10-13 19:33:10] ✓ 保存成功: next-intl-add-language.prompt.mindmap.md
+[2025-10-13 19:33:10] ✓ 验证通过
+[2025-10-13 19:33:10] ================================================================================
+[2025-10-13 19:33:10] [Prompts] 正在处理: playwright-automation-fill-in-form.prompt.md (66/92)
+[2025-10-13 19:33:10] ✓ 读取成功 (668 字符)
+[2025-10-13 19:33:10] ✓ 分析完成: Automate filling in a form using Playwright MCP
+[2025-10-13 19:33:10] ✓ 生成mindmap内容 (1340 字符)
+[2025-10-13 19:33:10] ✓ 保存成功: playwright-automation-fill-in-form.prompt.mindmap.md
+[2025-10-13 19:33:10] ✓ 验证通过
+[2025-10-13 19:33:10] ================================================================================
+[2025-10-13 19:33:10] [Prompts] 正在处理: playwright-explore-website.prompt.md (67/92)
+[2025-10-13 19:33:10] ✓ 读取成功 (906 字符)
+[2025-10-13 19:33:10] ✓ 分析完成: Website exploration for testing using Playwright MCP
+[2025-10-13 19:33:10] ✓ 生成mindmap内容 (1960 字符)
+[2025-10-13 19:33:10] ✓ 保存成功: playwright-explore-website.prompt.mindmap.md
+[2025-10-13 19:33:10] ✓ 验证通过
+[2025-10-13 19:33:10] ================================================================================
+[2025-10-13 19:33:10] [Prompts] 正在处理: playwright-generate-test.prompt.md (68/92)
+[2025-10-13 19:33:10] ✓ 读取成功 (1104 字符)
+[2025-10-13 19:33:10] ✓ 分析完成: Generate a Playwright test based on a scenario using Playwright MCP
+[2025-10-13 19:33:10] ✓ 生成mindmap内容 (1436 字符)
+[2025-10-13 19:33:10] ✓ 保存成功: playwright-generate-test.prompt.mindmap.md
+[2025-10-13 19:33:10] ✓ 验证通过
+[2025-10-13 19:33:11] ================================================================================
+[2025-10-13 19:33:11] [Prompts] 正在处理: postgresql-code-review.prompt.md (69/92)
+[2025-10-13 19:33:11] ✓ 读取成功 (7492 字符)
+[2025-10-13 19:33:11] ✓ 分析完成: PostgreSQL-specific code review assistant focusing on PostgreSQL best practices, anti-patterns, and unique quality standards. Covers JSONB operations, array usage, custom types, schema design, function optimization, and PostgreSQL-exclusive security features like Row Level Security (RLS).
+[2025-10-13 19:33:11] ✓ 生成mindmap内容 (3113 字符)
+[2025-10-13 19:33:11] ✓ 保存成功: postgresql-code-review.prompt.mindmap.md
+[2025-10-13 19:33:11] ✓ 验证通过
+[2025-10-13 19:33:11] ================================================================================
+[2025-10-13 19:33:11] [Prompts] 正在处理: postgresql-optimization.prompt.md (70/92)
+[2025-10-13 19:33:11] ✓ 读取成功 (11438 字符)
+[2025-10-13 19:33:11] ✓ 分析完成: PostgreSQL-specific development assistant focusing on unique PostgreSQL features, advanced data types, and PostgreSQL-exclusive capabilities. Covers JSONB operations, array types, custom types, range/geometric types, full-text search, window functions, and PostgreSQL extensions ecosystem.
+[2025-10-13 19:33:11] ✓ 生成mindmap内容 (3053 字符)
+[2025-10-13 19:33:11] ✓ 保存成功: postgresql-optimization.prompt.mindmap.md
+[2025-10-13 19:33:11] ✓ 验证通过
+[2025-10-13 19:33:11] ================================================================================
+[2025-10-13 19:33:11] [Prompts] 正在处理: power-apps-code-app-scaffold.prompt.md (71/92)
+[2025-10-13 19:33:11] ✓ 读取成功 (7204 字符)
+[2025-10-13 19:33:11] ✓ 分析完成: Scaffold a complete Power Apps Code App project with PAC CLI setup, SDK integration, and connector configuration
+[2025-10-13 19:33:11] ✓ 生成mindmap内容 (1918 字符)
+[2025-10-13 19:33:11] ✓ 保存成功: power-apps-code-app-scaffold.prompt.mindmap.md
+[2025-10-13 19:33:11] ✓ 验证通过
+[2025-10-13 19:33:11] ================================================================================
+[2025-10-13 19:33:11] [Prompts] 正在处理: power-platform-mcp-connector-suite.prompt.md (72/92)
+[2025-10-13 19:33:11] ✓ 读取成功 (6327 字符)
+[2025-10-13 19:33:11] ✓ 分析完成: Generate complete Power Platform custom connector with MCP integration for Copilot Studio - includes schema generation, troubleshooting, and validation
+[2025-10-13 19:33:11] ✓ 生成mindmap内容 (2460 字符)
+[2025-10-13 19:33:11] ✓ 保存成功: power-platform-mcp-connector-suite.prompt.mindmap.md
+[2025-10-13 19:33:11] ✓ 验证通过
+[2025-10-13 19:33:11] ================================================================================
+[2025-10-13 19:33:11] [Prompts] 正在处理: project-workflow-analysis-blueprint-generator.prompt.md (73/92)
+[2025-10-13 19:33:11] ✓ 读取成功 (10836 字符)
+[2025-10-13 19:33:11] ✓ 分析完成: Comprehensive technology-agnostic prompt generator for documenting end-to-end application workflows. Automatically detects project architecture patterns, technology stacks, and data flow patterns to generate detailed implementation blueprints covering entry points, service layers, data access, error handling, and testing approaches across multiple technologies including .NET, Java/Spring, React, and microservices architectures.
+[2025-10-13 19:33:11] ✓ 生成mindmap内容 (3859 字符)
+[2025-10-13 19:33:11] ✓ 保存成功: project-workflow-analysis-blueprint-generator.prompt.mindmap.md
+[2025-10-13 19:33:11] ✓ 验证通过
+[2025-10-13 19:33:11] ================================================================================
+[2025-10-13 19:33:11] [Prompts] 正在处理: prompt-builder.prompt.md (74/92)
+[2025-10-13 19:33:11] ✓ 读取成功 (6376 字符)
+[2025-10-13 19:33:11] ✓ 分析完成: Guide users through creating high-quality GitHub Copilot prompts with proper structure, tools, and best practices.
+[2025-10-13 19:33:11] ✓ 生成mindmap内容 (2438 字符)
+[2025-10-13 19:33:11] ✓ 保存成功: prompt-builder.prompt.mindmap.md
+[2025-10-13 19:33:11] ✓ 验证通过
+[2025-10-13 19:33:11] ================================================================================
+[2025-10-13 19:33:11] [Prompts] 正在处理: readme-blueprint-generator.prompt.md (75/92)
+[2025-10-13 19:33:11] ✓ 读取成功 (2896 字符)
+[2025-10-13 19:33:11] ✓ 分析完成: Intelligent README.md generation prompt that analyzes project documentation structure and creates comprehensive repository documentation. Scans .github/copilot directory files and copilot-instructions.md to extract project information, technology stack, architecture, development workflow, coding standards, and testing approaches while generating well-structured markdown documentation with proper formatting, cross-references, and developer-focused content.
+[2025-10-13 19:33:11] ✓ 生成mindmap内容 (4088 字符)
+[2025-10-13 19:33:11] ✓ 保存成功: readme-blueprint-generator.prompt.mindmap.md
+[2025-10-13 19:33:11] ✓ 验证通过
+[2025-10-13 19:33:11] ================================================================================
+[2025-10-13 19:33:11] [Prompts] 正在处理: remember-interactive-programming.prompt.md (76/92)
+[2025-10-13 19:33:11] ✓ 读取成功 (882 字符)
+[2025-10-13 19:33:11] ✓ 分析完成: A micro-prompt that reminds the agent that it is an interactive programmer. Works great in Clojure when Copilot has access to the REPL (probably via Backseat Driver). Will work with any system that has a live REPL that the agent can use. Adapt the prompt with any specific reminders in your workflow and/or workspace.
+[2025-10-13 19:33:11] ✓ 生成mindmap内容 (2774 字符)
+[2025-10-13 19:33:11] ✓ 保存成功: remember-interactive-programming.prompt.mindmap.md
+[2025-10-13 19:33:11] ✓ 验证通过
+[2025-10-13 19:33:11] ================================================================================
+[2025-10-13 19:33:11] [Prompts] 正在处理: remember.prompt.md (77/92)
+[2025-10-13 19:33:11] ✓ 读取成功 (6511 字符)
+[2025-10-13 19:33:11] ✓ 分析完成: Transforms lessons learned into domain-organized memory instructions (global or workspace). Syntax: `/remember [>domain [scope]] lesson clue` where scope is `global` (default), `user`, `workspace`, or `ws`.
+[2025-10-13 19:33:11] ✓ 生成mindmap内容 (2474 字符)
+[2025-10-13 19:33:11] ✓ 保存成功: remember.prompt.mindmap.md
+[2025-10-13 19:33:11] ✓ 验证通过
+[2025-10-13 19:33:12] ================================================================================
+[2025-10-13 19:33:12] [Prompts] 正在处理: repo-story-time.prompt.md (78/92)
+[2025-10-13 19:33:12] ✓ 读取成功 (6825 字符)
+[2025-10-13 19:33:12] ✓ 分析完成: Generate a comprehensive repository summary and narrative story from commit history
+[2025-10-13 19:33:12] ✓ 生成mindmap内容 (2045 字符)
+[2025-10-13 19:33:12] ✓ 保存成功: repo-story-time.prompt.mindmap.md
+[2025-10-13 19:33:12] ✓ 验证通过
+[2025-10-13 19:33:12] ================================================================================
+[2025-10-13 19:33:12] [Prompts] 正在处理: review-and-refactor.prompt.md (79/92)
+[2025-10-13 19:33:12] ✓ 读取成功 (758 字符)
+[2025-10-13 19:33:12] ✓ 分析完成: Review and refactor code in your project according to defined instructions
+[2025-10-13 19:33:12] ✓ 生成mindmap内容 (1681 字符)
+[2025-10-13 19:33:12] ✓ 保存成功: review-and-refactor.prompt.mindmap.md
+[2025-10-13 19:33:12] ✓ 验证通过
+[2025-10-13 19:33:12] ================================================================================
+[2025-10-13 19:33:12] [Prompts] 正在处理: sql-code-review.prompt.md (80/92)
+[2025-10-13 19:33:12] ✓ 读取成功 (8988 字符)
+[2025-10-13 19:33:12] ✓ 分析完成: Universal SQL code review assistant that performs comprehensive security, maintainability, and code quality analysis across all SQL databases (MySQL, PostgreSQL, SQL Server, Oracle). Focuses on SQL injection prevention, access control, code standards, and anti-pattern detection. Complements SQL optimization prompt for complete development coverage.
+[2025-10-13 19:33:12] ✓ 生成mindmap内容 (3509 字符)
+[2025-10-13 19:33:12] ✓ 保存成功: sql-code-review.prompt.mindmap.md
+[2025-10-13 19:33:12] ✓ 验证通过
+[2025-10-13 19:33:12] ================================================================================
+[2025-10-13 19:33:12] [Prompts] 正在处理: sql-optimization.prompt.md (81/92)
+[2025-10-13 19:33:12] ✓ 读取成功 (9300 字符)
+[2025-10-13 19:33:12] ✓ 分析完成: Universal SQL performance optimization assistant for comprehensive query tuning, indexing strategies, and database performance analysis across all SQL databases (MySQL, PostgreSQL, SQL Server, Oracle). Provides execution plan analysis, pagination optimization, batch operations, and performance monitoring guidance.
+[2025-10-13 19:33:12] ✓ 生成mindmap内容 (3274 字符)
+[2025-10-13 19:33:12] ✓ 保存成功: sql-optimization.prompt.mindmap.md
+[2025-10-13 19:33:12] ✓ 验证通过
+[2025-10-13 19:33:12] ================================================================================
+[2025-10-13 19:33:12] [Prompts] 正在处理: suggest-awesome-github-copilot-chatmodes.prompt.md (82/92)
+[2025-10-13 19:33:12] ✓ 读取成功 (5076 字符)
+[2025-10-13 19:33:12] ✓ 分析完成: Suggest relevant GitHub Copilot Custom Chat Modes files from the awesome-copilot repository based on current repository context and chat history, avoiding duplicates with existing custom chat modes in this repository.
+[2025-10-13 19:33:12] ✓ 生成mindmap内容 (3412 字符)
+[2025-10-13 19:33:12] ✓ 保存成功: suggest-awesome-github-copilot-chatmodes.prompt.mindmap.md
+[2025-10-13 19:33:12] ✓ 验证通过
+[2025-10-13 19:33:12] ================================================================================
+[2025-10-13 19:33:12] [Prompts] 正在处理: suggest-awesome-github-copilot-collections.prompt.md (83/92)
+[2025-10-13 19:33:12] ✓ 读取成功 (9587 字符)
+[2025-10-13 19:33:12] ✓ 分析完成: Suggest relevant GitHub Copilot collections from the awesome-copilot repository based on current repository context and chat history, providing automatic download and installation of collection assets.
+[2025-10-13 19:33:12] ✓ 生成mindmap内容 (3327 字符)
+[2025-10-13 19:33:12] ✓ 保存成功: suggest-awesome-github-copilot-collections.prompt.mindmap.md
+[2025-10-13 19:33:12] ✓ 验证通过
+[2025-10-13 19:33:12] ================================================================================
+[2025-10-13 19:33:12] [Prompts] 正在处理: suggest-awesome-github-copilot-instructions.prompt.md (84/92)
+[2025-10-13 19:33:12] ✓ 读取成功 (5690 字符)
+[2025-10-13 19:33:12] ✓ 分析完成: Suggest relevant GitHub Copilot instruction files from the awesome-copilot repository based on current repository context and chat history, avoiding duplicates with existing instructions in this repository.
+[2025-10-13 19:33:12] ✓ 生成mindmap内容 (3409 字符)
+[2025-10-13 19:33:12] ✓ 保存成功: suggest-awesome-github-copilot-instructions.prompt.mindmap.md
+[2025-10-13 19:33:12] ✓ 验证通过
+[2025-10-13 19:33:12] ================================================================================
+[2025-10-13 19:33:12] [Prompts] 正在处理: suggest-awesome-github-copilot-prompts.prompt.md (85/92)
+[2025-10-13 19:33:12] ✓ 读取成功 (4579 字符)
+[2025-10-13 19:33:12] ✓ 分析完成: Suggest relevant GitHub Copilot prompt files from the awesome-copilot repository based on current repository context and chat history, avoiding duplicates with existing prompts in this repository.
+[2025-10-13 19:33:12] ✓ 生成mindmap内容 (3213 字符)
+[2025-10-13 19:33:12] ✓ 保存成功: suggest-awesome-github-copilot-prompts.prompt.mindmap.md
+[2025-10-13 19:33:12] ✓ 验证通过
+[2025-10-13 19:33:12] ================================================================================
+[2025-10-13 19:33:12] [Prompts] 正在处理: technology-stack-blueprint-generator.prompt.md (86/92)
+[2025-10-13 19:33:12] ✓ 读取成功 (9814 字符)
+[2025-10-13 19:33:12] ✓ 分析完成: Comprehensive technology stack blueprint generator that analyzes codebases to create detailed architectural documentation. Automatically detects technology stacks, programming languages, and implementation patterns across multiple platforms (.NET, Java, JavaScript, React, Python). Generates configurable blueprints with version information, licensing details, usage patterns, coding conventions, and visual diagrams. Provides implementation-ready templates and maintains architectural consistency for guided development.
+[2025-10-13 19:33:12] ✓ 生成mindmap内容 (4682 字符)
+[2025-10-13 19:33:12] ✓ 保存成功: technology-stack-blueprint-generator.prompt.mindmap.md
+[2025-10-13 19:33:12] ✓ 验证通过
+[2025-10-13 19:33:12] ================================================================================
+[2025-10-13 19:33:12] [Prompts] 正在处理: update-avm-modules-in-bicep.prompt.md (87/92)
+[2025-10-13 19:33:12] ✓ 读取成功 (2387 字符)
+[2025-10-13 19:33:12] ✓ 分析完成: Update Azure Verified Modules (AVM) to latest versions in Bicep files.
+[2025-10-13 19:33:12] ✓ 生成mindmap内容 (2468 字符)
+[2025-10-13 19:33:12] ✓ 保存成功: update-avm-modules-in-bicep.prompt.mindmap.md
+[2025-10-13 19:33:12] ✓ 验证通过
+[2025-10-13 19:33:13] ================================================================================
+[2025-10-13 19:33:13] [Prompts] 正在处理: update-implementation-plan.prompt.md (88/92)
+[2025-10-13 19:33:13] ✓ 读取成功 (6595 字符)
+[2025-10-13 19:33:13] ✓ 分析完成: Update an existing implementation plan file with new or update requirements to provide new features, refactoring existing code or upgrading packages, design, architecture or infrastructure.
+[2025-10-13 19:33:13] ✓ 生成mindmap内容 (2928 字符)
+[2025-10-13 19:33:13] ✓ 保存成功: update-implementation-plan.prompt.mindmap.md
+[2025-10-13 19:33:13] ✓ 验证通过
+[2025-10-13 19:33:13] ================================================================================
+[2025-10-13 19:33:13] [Prompts] 正在处理: update-llms.prompt.md (89/92)
+[2025-10-13 19:33:13] ✓ 读取成功 (8620 字符)
+[2025-10-13 19:33:13] ✓ 分析完成: Update the llms.txt file in the root folder to reflect changes in documentation or specifications following the llms.txt specification at https://llmstxt.org/
+[2025-10-13 19:33:13] ✓ 生成mindmap内容 (2702 字符)
+[2025-10-13 19:33:13] ✓ 保存成功: update-llms.prompt.mindmap.md
+[2025-10-13 19:33:13] ✓ 验证通过
+[2025-10-13 19:33:13] ================================================================================
+[2025-10-13 19:33:13] [Prompts] 正在处理: update-markdown-file-index.prompt.md (90/92)
+[2025-10-13 19:33:13] ✓ 读取成功 (2911 字符)
+[2025-10-13 19:33:13] ✓ 分析完成: Update a markdown file section with an index/table of files from a specified folder.
+[2025-10-13 19:33:13] ✓ 生成mindmap内容 (2454 字符)
+[2025-10-13 19:33:13] ✓ 保存成功: update-markdown-file-index.prompt.mindmap.md
+[2025-10-13 19:33:13] ✓ 验证通过
+[2025-10-13 19:33:13] ================================================================================
+[2025-10-13 19:33:13] [Prompts] 正在处理: update-oo-component-documentation.prompt.md (91/92)
+[2025-10-13 19:33:13] ✓ 读取成功 (7031 字符)
+[2025-10-13 19:33:13] ✓ 分析完成: Update existing object-oriented component documentation following industry best practices and architectural documentation standards.
+[2025-10-13 19:33:13] ✓ 生成mindmap内容 (2121 字符)
+[2025-10-13 19:33:13] ✓ 保存成功: update-oo-component-documentation.prompt.mindmap.md
+[2025-10-13 19:33:13] ✓ 验证通过
+[2025-10-13 19:33:13] ================================================================================
+[2025-10-13 19:33:13] [Prompts] 正在处理: update-specification.prompt.md (92/92)
+[2025-10-13 19:33:13] ✓ 读取成功 (5834 字符)
+[2025-10-13 19:33:13] ✓ 分析完成: Update an existing specification file for the solution, optimized for Generative AI consumption based on new requirements or updates to any existing code.
+[2025-10-13 19:33:13] ✓ 生成mindmap内容 (2342 字符)
+[2025-10-13 19:33:13] ✓ 保存成功: update-specification.prompt.mindmap.md
+[2025-10-13 19:33:13] ✓ 验证通过
+[2025-10-13 19:33:13] 
+================================================================================
+[2025-10-13 19:33:13] 总耗时: 19.36 秒 (0.32 分钟)
+[2025-10-13 19:33:13] ================================================================================
+
+[2025-10-13 19:33:13] 
+
+# Instructions和Prompts Mindmap生成任务完成报告
+
+**执行时间**: 2025-10-13 19:33:13
+
+## 统计数据
+
+### Instructions处理结果
+- 总文件数: 84
+- 成功生成: 84
+- 失败: 0
+- 成功率: 100.0%
+
+### Prompts处理结果
+- 总文件数: 92
+- 成功生成: 92
+- 失败: 0
+- 成功率: 100.0%
+
+### 总计
+- 总文件数: 176
+- 总成功数: 176
+- 总失败数: 0
+- 总成功率: 100.0%
+
+## 失败文件清单
+无失败文件
+
+## 输出位置
+- Instructions Mindmaps: `D:\mycode\awesome-copilot\my-custom\Mind Map\instructions`
+- Prompts Mindmaps: `D:\mycode\awesome-copilot\my-custom\Mind Map\prompts`
+
+## 质量分析
+所有生成的mindmap文件已按照Instructions和Prompts的不同特点进行结构化处理:
+- Instructions: 突出规范性和最佳实践
+- Prompts: 突出工作流程和可执行性
+
+## 建议
+- 建议检查生成的mindmap文件质量
+- 可以根据实际需要调整内容结构
+- Instructions mindmap适合开发规范参考
+- Prompts mindmap适合任务执行指导
+
+[2025-10-13 19:33:13] 
+完整报告已保存到: D:\mycode\awesome-copilot\my-custom\Mind Map\instructions_prompts_generation_report.md
+[2025-10-13 19:57:51] ================================================================================
+[2025-10-13 19:57:51] 开始执行 Instructions和Prompts Mindmap生成任务
+[2025-10-13 19:57:51] ================================================================================
+[2025-10-13 19:57:51] 找到 84 个Instructions文件
+[2025-10-13 19:57:51] 找到 92 个Prompts文件
+[2025-10-13 19:57:51] 总计 176 个待处理文件
+
+[2025-10-13 19:57:51] 
+================================================================================
+[2025-10-13 19:57:51] 阶段1: 处理Instructions文件
+[2025-10-13 19:57:51] ================================================================================
+
+[2025-10-13 19:57:51] ================================================================================
+[2025-10-13 19:57:51] [Instructions] 正在处理: a11y.instructions.md (1/84)
+[2025-10-13 19:57:51] ✓ 读取成功 (22909 字符)
+[2025-10-13 19:57:51] ✓ 分析完成: Guidance for creating more accessible code
+[2025-10-13 19:57:51] ✓ 生成mindmap内容 (1257 字符)
+[2025-10-13 19:57:51] ✓ 保存成功: a11y.instructions.mindmap.md
+[2025-10-13 19:57:51] ✓ 验证通过
+[2025-10-13 19:57:51] ================================================================================
+[2025-10-13 19:57:51] [Instructions] 正在处理: ai-prompt-engineering-safety-best-practices.instructions.md (2/84)
+[2025-10-13 19:57:51] ✓ 读取成功 (28137 字符)
+[2025-10-13 19:57:51] ✓ 分析完成: Comprehensive best practices for AI prompt engineering, safety frameworks, bias mitigation, and responsible AI usage for Copilot and LLMs.
+[2025-10-13 19:57:51] ✓ 生成mindmap内容 (2100 字符)
+[2025-10-13 19:57:51] ✓ 保存成功: ai-prompt-engineering-safety-best-practices.instructions.mindmap.md
+[2025-10-13 19:57:51] ✓ 验证通过
+[2025-10-13 19:57:52] ================================================================================
+[2025-10-13 19:57:52] [Instructions] 正在处理: angular.instructions.md (3/84)
+[2025-10-13 19:57:52] ✓ 读取成功 (5409 字符)
+[2025-10-13 19:57:52] ✓ 分析完成: Angular-specific coding standards and best practices
+[2025-10-13 19:57:52] ✓ 生成mindmap内容 (1569 字符)
+[2025-10-13 19:57:52] ✓ 保存成功: angular.instructions.mindmap.md
+[2025-10-13 19:57:52] ✓ 验证通过
+[2025-10-13 19:57:52] ================================================================================
+[2025-10-13 19:57:52] [Instructions] 正在处理: ansible.instructions.md (4/84)
+[2025-10-13 19:57:52] ✓ 读取成功 (5569 字符)
+[2025-10-13 19:57:52] ✓ 分析完成: Ansible conventions and best practices
+[2025-10-13 19:57:52] ✓ 生成mindmap内容 (1456 字符)
+[2025-10-13 19:57:52] ✓ 保存成功: ansible.instructions.mindmap.md
+[2025-10-13 19:57:52] ✓ 验证通过
+[2025-10-13 19:57:52] ================================================================================
+[2025-10-13 19:57:52] [Instructions] 正在处理: aspnet-rest-apis.instructions.md (5/84)
+[2025-10-13 19:57:52] ✓ 读取成功 (5922 字符)
+[2025-10-13 19:57:52] ✓ 分析完成: Guidelines for building REST APIs with ASP.NET
+[2025-10-13 19:57:52] ✓ 生成mindmap内容 (1759 字符)
+[2025-10-13 19:57:52] ✓ 保存成功: aspnet-rest-apis.instructions.mindmap.md
+[2025-10-13 19:57:52] ✓ 验证通过
+[2025-10-13 19:57:52] ================================================================================
+[2025-10-13 19:57:52] [Instructions] 正在处理: astro.instructions.md (6/84)
+[2025-10-13 19:57:52] ✓ 读取成功 (8063 字符)
+[2025-10-13 19:57:52] ✓ 分析完成: Astro development standards and best practices for content-driven websites
+[2025-10-13 19:57:52] ✓ 生成mindmap内容 (1808 字符)
+[2025-10-13 19:57:52] ✓ 保存成功: astro.instructions.mindmap.md
+[2025-10-13 19:57:52] ✓ 验证通过
+[2025-10-13 19:57:52] ================================================================================
+[2025-10-13 19:57:52] [Instructions] 正在处理: azure-devops-pipelines.instructions.md (7/84)
+[2025-10-13 19:57:52] ✓ 读取成功 (6916 字符)
+[2025-10-13 19:57:52] ✓ 分析完成: Best practices for Azure DevOps Pipeline YAML files
+[2025-10-13 19:57:52] ✓ 生成mindmap内容 (1752 字符)
+[2025-10-13 19:57:52] ✓ 保存成功: azure-devops-pipelines.instructions.mindmap.md
+[2025-10-13 19:57:52] ✓ 验证通过
+[2025-10-13 19:57:52] ================================================================================
+[2025-10-13 19:57:52] [Instructions] 正在处理: azure-functions-typescript.instructions.md (8/84)
+[2025-10-13 19:57:52] ✓ 读取成功 (813 字符)
+[2025-10-13 19:57:52] ✓ 分析完成: TypeScript patterns for Azure Functions
+[2025-10-13 19:57:52] ✓ 生成mindmap内容 (1595 字符)
+[2025-10-13 19:57:52] ✓ 保存成功: azure-functions-typescript.instructions.mindmap.md
+[2025-10-13 19:57:52] ✓ 验证通过
+[2025-10-13 19:57:52] ================================================================================
+[2025-10-13 19:57:52] [Instructions] 正在处理: azure-logic-apps-power-automate.instructions.md (9/84)
+[2025-10-13 19:57:52] ✓ 读取成功 (64287 字符)
+[2025-10-13 19:57:52] ✓ 分析完成: Guidelines for developing Azure Logic Apps and Power Automate workflows with best practices for Workflow Definition Language (WDL), integration patterns, and enterprise automation
+[2025-10-13 19:57:52] ✓ 生成mindmap内容 (2301 字符)
+[2025-10-13 19:57:52] ✓ 保存成功: azure-logic-apps-power-automate.instructions.mindmap.md
+[2025-10-13 19:57:52] ✓ 验证通过
+[2025-10-13 19:57:52] ================================================================================
+[2025-10-13 19:57:52] [Instructions] 正在处理: azure-verified-modules-terraform.instructions.md (10/84)
+[2025-10-13 19:57:52] ✓ 读取成功 (7358 字符)
+[2025-10-13 19:57:52] ✓ 分析完成:  Azure Verified Modules (AVM) and Terraform
+[2025-10-13 19:57:52] ✓ 生成mindmap内容 (1827 字符)
+[2025-10-13 19:57:52] ✓ 保存成功: azure-verified-modules-terraform.instructions.mindmap.md
+[2025-10-13 19:57:52] ✓ 验证通过
+[2025-10-13 19:57:52] ================================================================================
+[2025-10-13 19:57:52] [Instructions] 正在处理: bicep-code-best-practices.instructions.md (11/84)
+[2025-10-13 19:57:52] ✓ 读取成功 (2165 字符)
+[2025-10-13 19:57:52] ✓ 分析完成: Infrastructure as Code with Bicep
+[2025-10-13 19:57:52] ✓ 生成mindmap内容 (1508 字符)
+[2025-10-13 19:57:52] ✓ 保存成功: bicep-code-best-practices.instructions.mindmap.md
+[2025-10-13 19:57:52] ✓ 验证通过
+[2025-10-13 19:57:53] ================================================================================
+[2025-10-13 19:57:53] [Instructions] 正在处理: blazor.instructions.md (12/84)
+[2025-10-13 19:57:53] ✓ 读取成功 (4369 字符)
+[2025-10-13 19:57:53] ✓ 分析完成: Blazor component and application patterns
+[2025-10-13 19:57:53] ✓ 生成mindmap内容 (1616 字符)
+[2025-10-13 19:57:53] ✓ 保存成功: blazor.instructions.mindmap.md
+[2025-10-13 19:57:53] ✓ 验证通过
+[2025-10-13 19:57:53] ================================================================================
+[2025-10-13 19:57:53] [Instructions] 正在处理: clojure.instructions.md (13/84)
+[2025-10-13 19:57:53] ✓ 读取成功 (10770 字符)
+[2025-10-13 19:57:53] ✓ 分析完成: Clojure-specific coding patterns, inline def usage, code block templates, and namespace handling for Clojure development.
+[2025-10-13 19:57:53] ✓ 生成mindmap内容 (2095 字符)
+[2025-10-13 19:57:53] ✓ 保存成功: clojure.instructions.mindmap.md
+[2025-10-13 19:57:53] ✓ 验证通过
+[2025-10-13 19:57:53] ================================================================================
+[2025-10-13 19:57:53] [Instructions] 正在处理: cmake-vcpkg.instructions.md (14/84)
+[2025-10-13 19:57:53] ✓ 读取成功 (860 字符)
+[2025-10-13 19:57:53] ✓ 分析完成: C++ project configuration and package management
+[2025-10-13 19:57:53] ✓ 生成mindmap内容 (923 字符)
+[2025-10-13 19:57:53] ✓ 保存成功: cmake-vcpkg.instructions.mindmap.md
+[2025-10-13 19:57:53] ✓ 验证通过
+[2025-10-13 19:57:53] ================================================================================
+[2025-10-13 19:57:53] [Instructions] 正在处理: coldfusion-cfc.instructions.md (15/84)
+[2025-10-13 19:57:53] ✓ 读取成功 (1384 字符)
+[2025-10-13 19:57:53] ✓ 分析完成: ColdFusion Coding Standards for CFC component and application patterns
+[2025-10-13 19:57:53] ✓ 生成mindmap内容 (1493 字符)
+[2025-10-13 19:57:53] ✓ 保存成功: coldfusion-cfc.instructions.mindmap.md
+[2025-10-13 19:57:53] ✓ 验证通过
+[2025-10-13 19:57:53] ================================================================================
+[2025-10-13 19:57:53] [Instructions] 正在处理: coldfusion-cfm.instructions.md (16/84)
+[2025-10-13 19:57:53] ✓ 读取成功 (1260 字符)
+[2025-10-13 19:57:53] ✓ 分析完成: ColdFusion cfm files and application patterns
+[2025-10-13 19:57:53] ✓ 生成mindmap内容 (1401 字符)
+[2025-10-13 19:57:53] ✓ 保存成功: coldfusion-cfm.instructions.mindmap.md
+[2025-10-13 19:57:53] ✓ 验证通过
+[2025-10-13 19:57:53] ================================================================================
+[2025-10-13 19:57:53] [Instructions] 正在处理: collections.instructions.md (17/84)
+[2025-10-13 19:57:53] ✓ 读取成功 (1956 字符)
+[2025-10-13 19:57:53] ✓ 分析完成: Guidelines for creating and managing awesome-copilot collections
+[2025-10-13 19:57:53] ✓ 生成mindmap内容 (1549 字符)
+[2025-10-13 19:57:53] ✓ 保存成功: collections.instructions.mindmap.md
+[2025-10-13 19:57:53] ✓ 验证通过
+[2025-10-13 19:57:53] ================================================================================
+[2025-10-13 19:57:53] [Instructions] 正在处理: containerization-docker-best-practices.instructions.md (18/84)
+[2025-10-13 19:57:53] ✓ 读取成功 (35915 字符)
+[2025-10-13 19:57:53] ✓ 分析完成: Comprehensive best practices for creating optimized, secure, and efficient Docker images and managing containers. Covers multi-stage builds, image layer optimization, security scanning, and runtime best practices.
+[2025-10-13 19:57:53] ✓ 生成mindmap内容 (2713 字符)
+[2025-10-13 19:57:53] ✓ 保存成功: containerization-docker-best-practices.instructions.mindmap.md
+[2025-10-13 19:57:53] ✓ 验证通过
+[2025-10-13 19:57:53] ================================================================================
+[2025-10-13 19:57:53] [Instructions] 正在处理: convert-jpa-to-spring-data-cosmos.instructions.md (19/84)
+[2025-10-13 19:57:53] ✓ 读取成功 (41606 字符)
+[2025-10-13 19:57:53] ✓ 分析完成: Step-by-step guide for converting Spring Boot JPA applications to use Azure Cosmos DB with Spring Data Cosmos
+[2025-10-13 19:57:53] ✓ 生成mindmap内容 (1961 字符)
+[2025-10-13 19:57:53] ✓ 保存成功: convert-jpa-to-spring-data-cosmos.instructions.mindmap.md
+[2025-10-13 19:57:53] ✓ 验证通过
+[2025-10-13 19:57:54] ================================================================================
+[2025-10-13 19:57:54] [Instructions] 正在处理: copilot-thought-logging.instructions.md (20/84)
+[2025-10-13 19:57:54] ✓ 读取成功 (3245 字符)
+[2025-10-13 19:57:54] ✓ 分析完成: See process Copilot is following where you can edit this to reshape the interaction or save when follow up may be needed
+[2025-10-13 19:57:54] ✓ 生成mindmap内容 (1772 字符)
+[2025-10-13 19:57:54] ✓ 保存成功: copilot-thought-logging.instructions.mindmap.md
+[2025-10-13 19:57:54] ✓ 验证通过
+[2025-10-13 19:57:54] ================================================================================
+[2025-10-13 19:57:54] [Instructions] 正在处理: csharp-ja.instructions.md (21/84)
+[2025-10-13 19:57:54] ✓ 读取成功 (3179 字符)
+[2025-10-13 19:57:54] ✓ 分析完成: C# アプリケーション構築指針 by @tsubakimoto
+[2025-10-13 19:57:54] ✓ 生成mindmap内容 (1166 字符)
+[2025-10-13 19:57:54] ✓ 保存成功: csharp-ja.instructions.mindmap.md
+[2025-10-13 19:57:54] ✓ 验证通过
+[2025-10-13 19:57:54] ================================================================================
+[2025-10-13 19:57:54] [Instructions] 正在处理: csharp-ko.instructions.md (22/84)
+[2025-10-13 19:57:54] ✓ 读取成功 (2792 字符)
+[2025-10-13 19:57:54] ✓ 分析完成: C# 애플리케이션 개발을 위한 코드 작성 규칙 by @jgkim999
+[2025-10-13 19:57:54] ✓ 生成mindmap内容 (990 字符)
+[2025-10-13 19:57:54] ✓ 保存成功: csharp-ko.instructions.mindmap.md
+[2025-10-13 19:57:54] ✓ 验证通过
+[2025-10-13 19:57:54] ================================================================================
+[2025-10-13 19:57:54] [Instructions] 正在处理: csharp.instructions.md (23/84)
+[2025-10-13 19:57:54] ✓ 读取成功 (5762 字符)
+[2025-10-13 19:57:54] ✓ 分析完成: Guidelines for building C# applications
+[2025-10-13 19:57:54] ✓ 生成mindmap内容 (1530 字符)
+[2025-10-13 19:57:54] ✓ 保存成功: csharp.instructions.mindmap.md
+[2025-10-13 19:57:54] ✓ 验证通过
+[2025-10-13 19:57:54] ================================================================================
+[2025-10-13 19:57:54] [Instructions] 正在处理: dart-n-flutter.instructions.md (24/84)
+[2025-10-13 19:57:54] ✓ 读取成功 (20768 字符)
+[2025-10-13 19:57:54] ✓ 分析完成: Instructions for writing Dart and Flutter code following the official recommendations.
+[2025-10-13 19:57:54] ✓ 生成mindmap内容 (2081 字符)
+[2025-10-13 19:57:54] ✓ 保存成功: dart-n-flutter.instructions.mindmap.md
+[2025-10-13 19:57:54] ✓ 验证通过
+[2025-10-13 19:57:54] ================================================================================
+[2025-10-13 19:57:54] [Instructions] 正在处理: declarative-agents-microsoft365.instructions.md (25/84)
+[2025-10-13 19:57:54] ✓ 读取成功 (9058 字符)
+[2025-10-13 19:57:54] ✓ 分析完成: Comprehensive development guidelines for Microsoft 365 Copilot declarative agents with schema v1.5, TypeSpec integration, and Microsoft 365 Agents Toolkit workflows
+[2025-10-13 19:57:54] ✓ 生成mindmap内容 (2193 字符)
+[2025-10-13 19:57:54] ✓ 保存成功: declarative-agents-microsoft365.instructions.mindmap.md
+[2025-10-13 19:57:54] ✓ 验证通过
+[2025-10-13 19:57:54] ================================================================================
+[2025-10-13 19:57:54] [Instructions] 正在处理: devbox-image-definition.instructions.md (26/84)
+[2025-10-13 19:57:54] ✓ 读取成功 (24469 字符)
+[2025-10-13 19:57:54] ✓ 分析完成: Authoring recommendations for creating YAML based image definition files for use with Microsoft Dev Box Team Customizations
+[2025-10-13 19:57:54] ✓ 生成mindmap内容 (1959 字符)
+[2025-10-13 19:57:54] ✓ 保存成功: devbox-image-definition.instructions.mindmap.md
+[2025-10-13 19:57:54] ✓ 验证通过
+[2025-10-13 19:57:54] ================================================================================
+[2025-10-13 19:57:54] [Instructions] 正在处理: devops-core-principles.instructions.md (27/84)
+[2025-10-13 19:57:54] ✓ 读取成功 (16592 字符)
+[2025-10-13 19:57:54] ✓ 分析完成: Foundational instructions covering core DevOps principles, culture (CALMS), and key metrics (DORA) to guide GitHub Copilot in understanding and promoting effective software delivery.
+[2025-10-13 19:57:54] ✓ 生成mindmap内容 (2319 字符)
+[2025-10-13 19:57:54] ✓ 保存成功: devops-core-principles.instructions.mindmap.md
+[2025-10-13 19:57:54] ✓ 验证通过
+[2025-10-13 19:57:54] ================================================================================
+[2025-10-13 19:57:54] [Instructions] 正在处理: dotnet-architecture-good-practices.instructions.md (28/84)
+[2025-10-13 19:57:54] ✓ 读取成功 (11884 字符)
+[2025-10-13 19:57:54] ✓ 分析完成: DDD and .NET architecture guidelines
+[2025-10-13 19:57:54] ✓ 生成mindmap内容 (1745 字符)
+[2025-10-13 19:57:54] ✓ 保存成功: dotnet-architecture-good-practices.instructions.mindmap.md
+[2025-10-13 19:57:54] ✓ 验证通过
+[2025-10-13 19:57:55] ================================================================================
+[2025-10-13 19:57:55] [Instructions] 正在处理: dotnet-framework.instructions.md (29/84)
+[2025-10-13 19:57:55] ✓ 读取成功 (5738 字符)
+[2025-10-13 19:57:55] ✓ 分析完成: Guidance for working with .NET Framework projects. Includes project structure, C# language version, NuGet management, and best practices.
+[2025-10-13 19:57:55] ✓ 生成mindmap内容 (2452 字符)
+[2025-10-13 19:57:55] ✓ 保存成功: dotnet-framework.instructions.mindmap.md
+[2025-10-13 19:57:55] ✓ 验证通过
+[2025-10-13 19:57:55] ================================================================================
+[2025-10-13 19:57:55] [Instructions] 正在处理: dotnet-maui.instructions.md (30/84)
+[2025-10-13 19:57:55] ✓ 读取成功 (3256 字符)
+[2025-10-13 19:57:55] ✓ 分析完成: .NET MAUI component and application patterns
+[2025-10-13 19:57:55] ✓ 生成mindmap内容 (1627 字符)
+[2025-10-13 19:57:55] ✓ 保存成功: dotnet-maui.instructions.mindmap.md
+[2025-10-13 19:57:55] ✓ 验证通过
+[2025-10-13 19:57:55] ================================================================================
+[2025-10-13 19:57:55] [Instructions] 正在处理: dotnet-wpf.instructions.md (31/84)
+[2025-10-13 19:57:55] ✓ 读取成功 (2613 字符)
+[2025-10-13 19:57:55] ✓ 分析完成: .NET WPF component and application patterns
+[2025-10-13 19:57:55] ✓ 生成mindmap内容 (1397 字符)
+[2025-10-13 19:57:55] ✓ 保存成功: dotnet-wpf.instructions.mindmap.md
+[2025-10-13 19:57:55] ✓ 验证通过
+[2025-10-13 19:57:55] ================================================================================
+[2025-10-13 19:57:55] [Instructions] 正在处理: genaiscript.instructions.md (32/84)
+[2025-10-13 19:57:55] ✓ 读取成功 (827 字符)
+[2025-10-13 19:57:55] ✓ 分析完成: AI-powered script generation guidelines
+[2025-10-13 19:57:55] ✓ 生成mindmap内容 (1382 字符)
+[2025-10-13 19:57:55] ✓ 保存成功: genaiscript.instructions.mindmap.md
+[2025-10-13 19:57:55] ✓ 验证通过
+[2025-10-13 19:57:55] ================================================================================
+[2025-10-13 19:57:55] [Instructions] 正在处理: generate-modern-terraform-code-for-azure.instructions.md (33/84)
+[2025-10-13 19:57:55] ✓ 读取成功 (3517 字符)
+[2025-10-13 19:57:55] ✓ 分析完成: Guidelines for generating modern Terraform code for Azure
+[2025-10-13 19:57:55] ✓ 生成mindmap内容 (1497 字符)
+[2025-10-13 19:57:55] ✓ 保存成功: generate-modern-terraform-code-for-azure.instructions.mindmap.md
+[2025-10-13 19:57:55] ✓ 验证通过
+[2025-10-13 19:57:55] ================================================================================
+[2025-10-13 19:57:55] [Instructions] 正在处理: gilfoyle-code-review.instructions.md (34/84)
+[2025-10-13 19:57:55] ✓ 读取成功 (5561 字符)
+[2025-10-13 19:57:55] ✓ 分析完成: Gilfoyle-style code review instructions that channel the sardonic technical supremacy of Silicon Valley''s most arrogant systems architect.
+[2025-10-13 19:57:55] ✓ 生成mindmap内容 (2254 字符)
+[2025-10-13 19:57:55] ✓ 保存成功: gilfoyle-code-review.instructions.mindmap.md
+[2025-10-13 19:57:55] ✓ 验证通过
+[2025-10-13 19:57:55] ================================================================================
+[2025-10-13 19:57:55] [Instructions] 正在处理: github-actions-ci-cd-best-practices.instructions.md (35/84)
+[2025-10-13 19:57:55] ✓ 读取成功 (52598 字符)
+[2025-10-13 19:57:55] ✓ 分析完成: Comprehensive guide for building robust, secure, and efficient CI/CD pipelines using GitHub Actions. Covers workflow structure, jobs, steps, environment variables, secret management, caching, matrix strategies, testing, and deployment strategies.
+[2025-10-13 19:57:55] ✓ 生成mindmap内容 (2689 字符)
+[2025-10-13 19:57:55] ✓ 保存成功: github-actions-ci-cd-best-practices.instructions.mindmap.md
+[2025-10-13 19:57:55] ✓ 验证通过
+[2025-10-13 19:57:55] ================================================================================
+[2025-10-13 19:57:55] [Instructions] 正在处理: go.instructions.md (36/84)
+[2025-10-13 19:57:55] ✓ 读取成功 (16235 字符)
+[2025-10-13 19:57:55] ✓ 分析完成: Instructions for writing Go code following idiomatic Go practices and community standards
+[2025-10-13 19:57:55] ✓ 生成mindmap内容 (1658 字符)
+[2025-10-13 19:57:55] ✓ 保存成功: go.instructions.mindmap.md
+[2025-10-13 19:57:55] ✓ 验证通过
+[2025-10-13 19:57:55] ================================================================================
+[2025-10-13 19:57:55] [Instructions] 正在处理: java-11-to-java-17-upgrade.instructions.md (37/84)
+[2025-10-13 19:57:55] ✓ 读取成功 (21837 字符)
+[2025-10-13 19:57:55] ✓ 分析完成: Comprehensive best practices for adopting new Java 17 features since the release of Java 11.
+[2025-10-13 19:57:55] ✓ 生成mindmap内容 (1570 字符)
+[2025-10-13 19:57:55] ✓ 保存成功: java-11-to-java-17-upgrade.instructions.mindmap.md
+[2025-10-13 19:57:55] ✓ 验证通过
+[2025-10-13 19:57:56] ================================================================================
+[2025-10-13 19:57:56] [Instructions] 正在处理: java-17-to-java-21-upgrade.instructions.md (38/84)
+[2025-10-13 19:57:56] ✓ 读取成功 (13627 字符)
+[2025-10-13 19:57:56] ✓ 分析完成: Comprehensive best practices for adopting new Java 21 features since the release of Java 17.
+[2025-10-13 19:57:56] ✓ 生成mindmap内容 (1630 字符)
+[2025-10-13 19:57:56] ✓ 保存成功: java-17-to-java-21-upgrade.instructions.mindmap.md
+[2025-10-13 19:57:56] ✓ 验证通过
+[2025-10-13 19:57:56] ================================================================================
+[2025-10-13 19:57:56] [Instructions] 正在处理: java-21-to-java-25-upgrade.instructions.md (39/84)
+[2025-10-13 19:57:56] ✓ 读取成功 (9551 字符)
+[2025-10-13 19:57:56] ✓ 分析完成: Comprehensive best practices for adopting new Java 25 features since the release of Java 21.
+[2025-10-13 19:57:56] ✓ 生成mindmap内容 (1758 字符)
+[2025-10-13 19:57:56] ✓ 保存成功: java-21-to-java-25-upgrade.instructions.mindmap.md
+[2025-10-13 19:57:56] ✓ 验证通过
+[2025-10-13 19:57:56] ================================================================================
+[2025-10-13 19:57:56] [Instructions] 正在处理: java.instructions.md (40/84)
+[2025-10-13 19:57:56] ✓ 读取成功 (5245 字符)
+[2025-10-13 19:57:56] ✓ 分析完成: Guidelines for building Java base applications
+[2025-10-13 19:57:56] ✓ 生成mindmap内容 (1917 字符)
+[2025-10-13 19:57:56] ✓ 保存成功: java.instructions.mindmap.md
+[2025-10-13 19:57:56] ✓ 验证通过
+[2025-10-13 19:57:56] ================================================================================
+[2025-10-13 19:57:56] [Instructions] 正在处理: joyride-user-project.instructions.md (41/84)
+[2025-10-13 19:57:56] ✓ 读取成功 (9246 字符)
+[2025-10-13 19:57:56] ✓ 分析完成: Expert assistance for Joyride User Script projects - REPL-driven ClojureScript and user space automation of VS Code
+[2025-10-13 19:57:56] ✓ 生成mindmap内容 (2192 字符)
+[2025-10-13 19:57:56] ✓ 保存成功: joyride-user-project.instructions.mindmap.md
+[2025-10-13 19:57:56] ✓ 验证通过
+[2025-10-13 19:57:56] ================================================================================
+[2025-10-13 19:57:56] [Instructions] 正在处理: joyride-workspace-automation.instructions.md (42/84)
+[2025-10-13 19:57:56] ✓ 读取成功 (3421 字符)
+[2025-10-13 19:57:56] ✓ 分析完成: Expert assistance for Joyride Workspace automation - REPL-driven and user space ClojureScript automation within specific VS Code workspaces
+[2025-10-13 19:57:56] ✓ 生成mindmap内容 (2075 字符)
+[2025-10-13 19:57:56] ✓ 保存成功: joyride-workspace-automation.instructions.mindmap.md
+[2025-10-13 19:57:56] ✓ 验证通过
+[2025-10-13 19:57:56] ================================================================================
+[2025-10-13 19:57:56] [Instructions] 正在处理: kubernetes-deployment-best-practices.instructions.md (43/84)
+[2025-10-13 19:57:56] ✓ 读取成功 (14332 字符)
+[2025-10-13 19:57:56] ✓ 分析完成: Comprehensive best practices for deploying and managing applications on Kubernetes. Covers Pods, Deployments, Services, Ingress, ConfigMaps, Secrets, health checks, resource limits, scaling, and security contexts.
+[2025-10-13 19:57:56] ✓ 生成mindmap内容 (2430 字符)
+[2025-10-13 19:57:56] ✓ 保存成功: kubernetes-deployment-best-practices.instructions.mindmap.md
+[2025-10-13 19:57:56] ✓ 验证通过
+[2025-10-13 19:57:56] ================================================================================
+[2025-10-13 19:57:56] [Instructions] 正在处理: langchain-python.instructions.md (44/84)
+[2025-10-13 19:57:56] ✓ 读取成功 (12427 字符)
+[2025-10-13 19:57:56] ✓ 分析完成: Instructions for using LangChain with Python
+[2025-10-13 19:57:56] ✓ 生成mindmap内容 (1968 字符)
+[2025-10-13 19:57:56] ✓ 保存成功: langchain-python.instructions.mindmap.md
+[2025-10-13 19:57:56] ✓ 验证通过
+[2025-10-13 19:57:56] ================================================================================
+[2025-10-13 19:57:56] [Instructions] 正在处理: localization.instructions.md (45/84)
+[2025-10-13 19:57:56] ✓ 读取成功 (1793 字符)
+[2025-10-13 19:57:56] ✓ 分析完成: Guidelines for localizing markdown documents
+[2025-10-13 19:57:56] ✓ 生成mindmap内容 (1520 字符)
+[2025-10-13 19:57:56] ✓ 保存成功: localization.instructions.mindmap.md
+[2025-10-13 19:57:56] ✓ 验证通过
+[2025-10-13 19:57:56] ================================================================================
+[2025-10-13 19:57:56] [Instructions] 正在处理: markdown.instructions.md (46/84)
+[2025-10-13 19:57:56] ✓ 读取成功 (3301 字符)
+[2025-10-13 19:57:56] ✓ 分析完成: Documentation and content creation standards
+[2025-10-13 19:57:56] ✓ 生成mindmap内容 (1849 字符)
+[2025-10-13 19:57:56] ✓ 保存成功: markdown.instructions.mindmap.md
+[2025-10-13 19:57:56] ✓ 验证通过
+[2025-10-13 19:57:57] ================================================================================
+[2025-10-13 19:57:57] [Instructions] 正在处理: memory-bank.instructions.md (47/84)
+[2025-10-13 19:57:57] ✓ 读取成功 (10126 字符)
+[2025-10-13 19:57:57] ✓ 分析完成: Memory Bank
+[2025-10-13 19:57:57] ✓ 生成mindmap内容 (1006 字符)
+[2025-10-13 19:57:57] ✓ 保存成功: memory-bank.instructions.mindmap.md
+[2025-10-13 19:57:57] ✓ 验证通过
+[2025-10-13 19:57:57] ================================================================================
+[2025-10-13 19:57:57] [Instructions] 正在处理: ms-sql-dba.instructions.md (48/84)
+[2025-10-13 19:57:57] ✓ 读取成功 (1416 字符)
+[2025-10-13 19:57:57] ✓ 分析完成: Instructions for customizing GitHub Copilot behavior for MS-SQL DBA chat mode.
+[2025-10-13 19:57:57] ✓ 生成mindmap内容 (1824 字符)
+[2025-10-13 19:57:57] ✓ 保存成功: ms-sql-dba.instructions.mindmap.md
+[2025-10-13 19:57:57] ✓ 验证通过
+[2025-10-13 19:57:57] ================================================================================
+[2025-10-13 19:57:57] [Instructions] 正在处理: nestjs.instructions.md (49/84)
+[2025-10-13 19:57:57] ✓ 读取成功 (12078 字符)
+[2025-10-13 19:57:57] ✓ 分析完成: NestJS development standards and best practices for building scalable Node.js server-side applications
+[2025-10-13 19:57:57] ✓ 生成mindmap内容 (1867 字符)
+[2025-10-13 19:57:57] ✓ 保存成功: nestjs.instructions.mindmap.md
+[2025-10-13 19:57:57] ✓ 验证通过
+[2025-10-13 19:57:57] ================================================================================
+[2025-10-13 19:57:57] [Instructions] 正在处理: nextjs-tailwind.instructions.md (50/84)
+[2025-10-13 19:57:57] ✓ 读取成功 (1860 字符)
+[2025-10-13 19:57:57] ✓ 分析完成: Next.js + Tailwind development standards and instructions
+[2025-10-13 19:57:57] ✓ 生成mindmap内容 (1367 字符)
+[2025-10-13 19:57:57] ✓ 保存成功: nextjs-tailwind.instructions.mindmap.md
+[2025-10-13 19:57:57] ✓ 验证通过
+[2025-10-13 19:57:57] ================================================================================
+[2025-10-13 19:57:57] [Instructions] 正在处理: nextjs.instructions.md (51/84)
+[2025-10-13 19:57:57] ✓ 读取成功 (6799 字符)
+[2025-10-13 19:57:57] ✓ 分析完成: Nextjs
+[2025-10-13 19:57:57] ✓ 生成mindmap内容 (1671 字符)
+[2025-10-13 19:57:57] ✓ 保存成功: nextjs.instructions.mindmap.md
+[2025-10-13 19:57:57] ✓ 验证通过
+[2025-10-13 19:57:57] ================================================================================
+[2025-10-13 19:57:57] [Instructions] 正在处理: nodejs-javascript-vitest.instructions.md (52/84)
+[2025-10-13 19:57:57] ✓ 读取成功 (1427 字符)
+[2025-10-13 19:57:57] ✓ 分析完成: Guidelines for writing Node.js and JavaScript code with Vitest testing
+[2025-10-13 19:57:57] ✓ 生成mindmap内容 (1679 字符)
+[2025-10-13 19:57:57] ✓ 保存成功: nodejs-javascript-vitest.instructions.mindmap.md
+[2025-10-13 19:57:57] ✓ 验证通过
+[2025-10-13 19:57:57] ================================================================================
+[2025-10-13 19:57:57] [Instructions] 正在处理: object-calisthenics.instructions.md (53/84)
+[2025-10-13 19:57:57] ✓ 读取成功 (10458 字符)
+[2025-10-13 19:57:57] ✓ 分析完成: Enforces Object Calisthenics principles for business domain code to ensure clean, maintainable, and robust code
+[2025-10-13 19:57:57] ✓ 生成mindmap内容 (1705 字符)
+[2025-10-13 19:57:57] ✓ 保存成功: object-calisthenics.instructions.mindmap.md
+[2025-10-13 19:57:57] ✓ 验证通过
+[2025-10-13 19:57:57] ================================================================================
+[2025-10-13 19:57:57] [Instructions] 正在处理: oqtane.instructions.md (54/84)
+[2025-10-13 19:57:57] ✓ 读取成功 (5229 字符)
+[2025-10-13 19:57:57] ✓ 分析完成: Oqtane Module patterns
+[2025-10-13 19:57:57] ✓ 生成mindmap内容 (1526 字符)
+[2025-10-13 19:57:57] ✓ 保存成功: oqtane.instructions.mindmap.md
+[2025-10-13 19:57:57] ✓ 验证通过
+[2025-10-13 19:57:57] ================================================================================
+[2025-10-13 19:57:57] [Instructions] 正在处理: performance-optimization.instructions.md (55/84)
+[2025-10-13 19:57:57] ✓ 读取成功 (21109 字符)
+[2025-10-13 19:57:57] ✓ 分析完成: The most comprehensive, practical, and engineer-authored performance optimization instructions for all languages, frameworks, and stacks. Covers frontend, backend, and database best practices with actionable guidance, scenario-based checklists, troubleshooting, and pro tips.
+[2025-10-13 19:57:57] ✓ 生成mindmap内容 (3317 字符)
+[2025-10-13 19:57:57] ✓ 保存成功: performance-optimization.instructions.mindmap.md
+[2025-10-13 19:57:57] ✓ 验证通过
+[2025-10-13 19:57:58] ================================================================================
+[2025-10-13 19:57:58] [Instructions] 正在处理: playwright-python.instructions.md (56/84)
+[2025-10-13 19:57:58] ✓ 读取成功 (3061 字符)
+[2025-10-13 19:57:58] ✓ 分析完成: Playwright Python AI test generation instructions based on official documentation.
+[2025-10-13 19:57:58] ✓ 生成mindmap内容 (2025 字符)
+[2025-10-13 19:57:58] ✓ 保存成功: playwright-python.instructions.mindmap.md
+[2025-10-13 19:57:58] ✓ 验证通过
+[2025-10-13 19:57:58] ================================================================================
+[2025-10-13 19:57:58] [Instructions] 正在处理: playwright-typescript.instructions.md (57/84)
+[2025-10-13 19:57:58] ✓ 读取成功 (4068 字符)
+[2025-10-13 19:57:58] ✓ 分析完成: Playwright test generation instructions
+[2025-10-13 19:57:58] ✓ 生成mindmap内容 (1740 字符)
+[2025-10-13 19:57:58] ✓ 保存成功: playwright-typescript.instructions.mindmap.md
+[2025-10-13 19:57:58] ✓ 验证通过
+[2025-10-13 19:57:58] ================================================================================
+[2025-10-13 19:57:58] [Instructions] 正在处理: power-apps-canvas-yaml.instructions.md (58/84)
+[2025-10-13 19:57:58] ✓ 读取成功 (22012 字符)
+[2025-10-13 19:57:58] ✓ 分析完成: Comprehensive guide for working with Power Apps Canvas Apps YAML structure based on Microsoft Power Apps YAML schema v3.0. Covers Power Fx formulas, control structures, data types, and source control best practices.
+[2025-10-13 19:57:58] ✓ 生成mindmap内容 (2321 字符)
+[2025-10-13 19:57:58] ✓ 保存成功: power-apps-canvas-yaml.instructions.mindmap.md
+[2025-10-13 19:57:58] ✓ 验证通过
+[2025-10-13 19:57:58] ================================================================================
+[2025-10-13 19:57:58] [Instructions] 正在处理: power-apps-code-apps.instructions.md (59/84)
+[2025-10-13 19:57:58] ✓ 读取成功 (22098 字符)
+[2025-10-13 19:57:58] ✓ 分析完成: Power Apps Code Apps development standards and best practices for TypeScript, React, and Power Platform integration
+[2025-10-13 19:57:58] ✓ 生成mindmap内容 (2184 字符)
+[2025-10-13 19:57:58] ✓ 保存成功: power-apps-code-apps.instructions.mindmap.md
+[2025-10-13 19:57:58] ✓ 验证通过
+[2025-10-13 19:57:58] ================================================================================
+[2025-10-13 19:57:58] [Instructions] 正在处理: power-platform-connector.instructions.md (60/84)
+[2025-10-13 19:57:58] ✓ 读取成功 (19394 字符)
+[2025-10-13 19:57:58] ✓ 分析完成: Comprehensive development guidelines for Power Platform Custom Connectors using JSON Schema definitions. Covers API definitions (Swagger 2.0), API properties, and settings configuration with Microsoft extensions.
+[2025-10-13 19:57:58] ✓ 生成mindmap内容 (2327 字符)
+[2025-10-13 19:57:58] ✓ 保存成功: power-platform-connector.instructions.mindmap.md
+[2025-10-13 19:57:58] ✓ 验证通过
+[2025-10-13 19:57:58] ================================================================================
+[2025-10-13 19:57:58] [Instructions] 正在处理: power-platform-mcp-development.instructions.md (61/84)
+[2025-10-13 19:57:58] ✓ 读取成功 (4515 字符)
+[2025-10-13 19:57:58] ✓ 分析完成: Instructions for developing Power Platform custom connectors with Model Context Protocol (MCP) integration for Microsoft Copilot Studio
+[2025-10-13 19:57:58] ✓ 生成mindmap内容 (2030 字符)
+[2025-10-13 19:57:58] ✓ 保存成功: power-platform-mcp-development.instructions.mindmap.md
+[2025-10-13 19:57:58] ✓ 验证通过
+[2025-10-13 19:57:58] ================================================================================
+[2025-10-13 19:57:58] [Instructions] 正在处理: powershell-pester-5.instructions.md (62/84)
+[2025-10-13 19:57:58] ✓ 读取成功 (7082 字符)
+[2025-10-13 19:57:58] ✓ 分析完成: PowerShell Pester testing best practices based on Pester v5 conventions
+[2025-10-13 19:57:58] ✓ 生成mindmap内容 (1698 字符)
+[2025-10-13 19:57:58] ✓ 保存成功: powershell-pester-5.instructions.mindmap.md
+[2025-10-13 19:57:58] ✓ 验证通过
+[2025-10-13 19:57:58] ================================================================================
+[2025-10-13 19:57:58] [Instructions] 正在处理: powershell.instructions.md (63/84)
+[2025-10-13 19:57:58] ✓ 读取成功 (10494 字符)
+[2025-10-13 19:57:58] ✓ 分析完成: PowerShell cmdlet and scripting best practices based on Microsoft guidelines
+[2025-10-13 19:57:58] ✓ 生成mindmap内容 (1300 字符)
+[2025-10-13 19:57:58] ✓ 保存成功: powershell.instructions.mindmap.md
+[2025-10-13 19:57:58] ✓ 验证通过
+[2025-10-13 19:57:58] ================================================================================
+[2025-10-13 19:57:58] [Instructions] 正在处理: python.instructions.md (64/84)
+[2025-10-13 19:57:58] ✓ 读取成功 (2116 字符)
+[2025-10-13 19:57:58] ✓ 分析完成: Python coding conventions and guidelines
+[2025-10-13 19:57:58] ✓ 生成mindmap内容 (1517 字符)
+[2025-10-13 19:57:58] ✓ 保存成功: python.instructions.mindmap.md
+[2025-10-13 19:57:58] ✓ 验证通过
+[2025-10-13 19:57:59] ================================================================================
+[2025-10-13 19:57:59] [Instructions] 正在处理: quarkus-mcp-server-sse.instructions.md (65/84)
+[2025-10-13 19:57:59] ✓ 读取成功 (1491 字符)
+[2025-10-13 19:57:59] ✓ 分析完成: Quarkus and MCP Server with HTTP SSE transport development standards and instructions
+[2025-10-13 19:57:59] ✓ 生成mindmap内容 (1544 字符)
+[2025-10-13 19:57:59] ✓ 保存成功: quarkus-mcp-server-sse.instructions.mindmap.md
+[2025-10-13 19:57:59] ✓ 验证通过
+[2025-10-13 19:57:59] ================================================================================
+[2025-10-13 19:57:59] [Instructions] 正在处理: quarkus.instructions.md (66/84)
+[2025-10-13 19:57:59] ✓ 读取成功 (3987 字符)
+[2025-10-13 19:57:59] ✓ 分析完成: Quarkus development standards and instructions
+[2025-10-13 19:57:59] ✓ 生成mindmap内容 (1373 字符)
+[2025-10-13 19:57:59] ✓ 保存成功: quarkus.instructions.mindmap.md
+[2025-10-13 19:57:59] ✓ 验证通过
+[2025-10-13 19:57:59] ================================================================================
+[2025-10-13 19:57:59] [Instructions] 正在处理: reactjs.instructions.md (67/84)
+[2025-10-13 19:57:59] ✓ 读取成功 (7230 字符)
+[2025-10-13 19:57:59] ✓ 分析完成: ReactJS development standards and best practices
+[2025-10-13 19:57:59] ✓ 生成mindmap内容 (1536 字符)
+[2025-10-13 19:57:59] ✓ 保存成功: reactjs.instructions.mindmap.md
+[2025-10-13 19:57:59] ✓ 验证通过
+[2025-10-13 19:57:59] ================================================================================
+[2025-10-13 19:57:59] [Instructions] 正在处理: ruby-on-rails.instructions.md (68/84)
+[2025-10-13 19:57:59] ✓ 读取成功 (8843 字符)
+[2025-10-13 19:57:59] ✓ 分析完成: Ruby on Rails coding conventions and guidelines
+[2025-10-13 19:57:59] ✓ 生成mindmap内容 (1690 字符)
+[2025-10-13 19:57:59] ✓ 保存成功: ruby-on-rails.instructions.mindmap.md
+[2025-10-13 19:57:59] ✓ 验证通过
+[2025-10-13 19:57:59] ================================================================================
+[2025-10-13 19:57:59] [Instructions] 正在处理: rust.instructions.md (69/84)
+[2025-10-13 19:57:59] ✓ 读取成功 (7350 字符)
+[2025-10-13 19:57:59] ✓ 分析完成: Rust programming language coding conventions and best practices
+[2025-10-13 19:57:59] ✓ 生成mindmap内容 (1736 字符)
+[2025-10-13 19:57:59] ✓ 保存成功: rust.instructions.mindmap.md
+[2025-10-13 19:57:59] ✓ 验证通过
+[2025-10-13 19:57:59] ================================================================================
+[2025-10-13 19:57:59] [Instructions] 正在处理: security-and-owasp.instructions.md (70/84)
+[2025-10-13 19:57:59] ✓ 读取成功 (5246 字符)
+[2025-10-13 19:57:59] ✓ 分析完成: Comprehensive secure coding instructions for all languages and frameworks, based on OWASP Top 10 and industry best practices.
+[2025-10-13 19:57:59] ✓ 生成mindmap内容 (2306 字符)
+[2025-10-13 19:57:59] ✓ 保存成功: security-and-owasp.instructions.mindmap.md
+[2025-10-13 19:57:59] ✓ 验证通过
+[2025-10-13 19:57:59] ================================================================================
+[2025-10-13 19:57:59] [Instructions] 正在处理: self-explanatory-code-commenting.instructions.md (71/84)
+[2025-10-13 19:57:59] ✓ 读取成功 (4886 字符)
+[2025-10-13 19:57:59] ✓ 分析完成: Guidelines for GitHub Copilot to write comments to achieve self-explanatory code with less comments. Examples are in JavaScript but it should work on any language that has comments.
+[2025-10-13 19:57:59] ✓ 生成mindmap内容 (1955 字符)
+[2025-10-13 19:57:59] ✓ 保存成功: self-explanatory-code-commenting.instructions.mindmap.md
+[2025-10-13 19:57:59] ✓ 验证通过
+[2025-10-13 19:57:59] ================================================================================
+[2025-10-13 19:57:59] [Instructions] 正在处理: spec-driven-workflow-v1.instructions.md (72/84)
+[2025-10-13 19:57:59] ✓ 读取成功 (12171 字符)
+[2025-10-13 19:57:59] ✓ 分析完成: Specification-Driven Workflow v1 provides a structured approach to software development, ensuring that requirements are clearly defined, designs are meticulously planned, and implementations are thoroughly documented and validated.
+[2025-10-13 19:57:59] ✓ 生成mindmap内容 (2413 字符)
+[2025-10-13 19:57:59] ✓ 保存成功: spec-driven-workflow-v1.instructions.mindmap.md
+[2025-10-13 19:57:59] ✓ 验证通过
+[2025-10-13 19:57:59] ================================================================================
+[2025-10-13 19:57:59] [Instructions] 正在处理: springboot.instructions.md (73/84)
+[2025-10-13 19:57:59] ✓ 读取成功 (2409 字符)
+[2025-10-13 19:57:59] ✓ 分析完成: Guidelines for building Spring Boot base applications
+[2025-10-13 19:57:59] ✓ 生成mindmap内容 (1584 字符)
+[2025-10-13 19:57:59] ✓ 保存成功: springboot.instructions.mindmap.md
+[2025-10-13 19:57:59] ✓ 验证通过
+[2025-10-13 19:58:00] ================================================================================
+[2025-10-13 19:58:00] [Instructions] 正在处理: sql-sp-generation.instructions.md (74/84)
+[2025-10-13 19:58:00] ✓ 读取成功 (3133 字符)
+[2025-10-13 19:58:00] ✓ 分析完成: Guidelines for generating SQL statements and stored procedures
+[2025-10-13 19:58:00] ✓ 生成mindmap内容 (1537 字符)
+[2025-10-13 19:58:00] ✓ 保存成功: sql-sp-generation.instructions.mindmap.md
+[2025-10-13 19:58:00] ✓ 验证通过
+[2025-10-13 19:58:00] ================================================================================
+[2025-10-13 19:58:00] [Instructions] 正在处理: svelte.instructions.md (75/84)
+[2025-10-13 19:58:00] ✓ 读取成功 (7520 字符)
+[2025-10-13 19:58:00] ✓ 分析完成: Svelte 5 and SvelteKit development standards and best practices for component-based user interfaces and full-stack applications
+[2025-10-13 19:58:00] ✓ 生成mindmap内容 (1993 字符)
+[2025-10-13 19:58:00] ✓ 保存成功: svelte.instructions.mindmap.md
+[2025-10-13 19:58:00] ✓ 验证通过
+[2025-10-13 19:58:00] ================================================================================
+[2025-10-13 19:58:00] [Instructions] 正在处理: taming-copilot.instructions.md (76/84)
+[2025-10-13 19:58:00] ✓ 读取成功 (4988 字符)
+[2025-10-13 19:58:00] ✓ 分析完成: Prevent Copilot from wreaking havoc across your codebase, keeping it under control.
+[2025-10-13 19:58:00] ✓ 生成mindmap内容 (2096 字符)
+[2025-10-13 19:58:00] ✓ 保存成功: taming-copilot.instructions.mindmap.md
+[2025-10-13 19:58:00] ✓ 验证通过
+[2025-10-13 19:58:00] ================================================================================
+[2025-10-13 19:58:00] [Instructions] 正在处理: tanstack-start-shadcn-tailwind.instructions.md (77/84)
+[2025-10-13 19:58:00] ✓ 读取成功 (5026 字符)
+[2025-10-13 19:58:00] ✓ 分析完成: Guidelines for building TanStack Start applications
+[2025-10-13 19:58:00] ✓ 生成mindmap内容 (1409 字符)
+[2025-10-13 19:58:00] ✓ 保存成功: tanstack-start-shadcn-tailwind.instructions.mindmap.md
+[2025-10-13 19:58:00] ✓ 验证通过
+[2025-10-13 19:58:00] ================================================================================
+[2025-10-13 19:58:00] [Instructions] 正在处理: task-implementation.instructions.md (78/84)
+[2025-10-13 19:58:00] ✓ 读取成功 (8314 字符)
+[2025-10-13 19:58:00] ✓ 分析完成: Instructions for implementing task plans with progressive tracking and change record - Brought to you by microsoft/edge-ai
+[2025-10-13 19:58:00] ✓ 生成mindmap内容 (2133 字符)
+[2025-10-13 19:58:00] ✓ 保存成功: task-implementation.instructions.mindmap.md
+[2025-10-13 19:58:00] ✓ 验证通过
+[2025-10-13 19:58:00] ================================================================================
+[2025-10-13 19:58:00] [Instructions] 正在处理: tasksync.instructions.md (79/84)
+[2025-10-13 19:58:00] ✓ 读取成功 (20024 字符)
+[2025-10-13 19:58:00] ✓ 分析完成: TaskSync V4 - Allows you to give the agent new instructions or feedback after completing a task using terminal while agent is running.
+[2025-10-13 19:58:00] ✓ 生成mindmap内容 (2097 字符)
+[2025-10-13 19:58:00] ✓ 保存成功: tasksync.instructions.mindmap.md
+[2025-10-13 19:58:00] ✓ 验证通过
+[2025-10-13 19:58:00] ================================================================================
+[2025-10-13 19:58:00] [Instructions] 正在处理: terraform-azure.instructions.md (80/84)
+[2025-10-13 19:58:00] ✓ 读取成功 (13278 字符)
+[2025-10-13 19:58:00] ✓ 分析完成: Create or modify solutions built using Terraform on Azure.
+[2025-10-13 19:58:00] ✓ 生成mindmap内容 (2144 字符)
+[2025-10-13 19:58:00] ✓ 保存成功: terraform-azure.instructions.mindmap.md
+[2025-10-13 19:58:00] ✓ 验证通过
+[2025-10-13 19:58:00] ================================================================================
+[2025-10-13 19:58:00] [Instructions] 正在处理: terraform.instructions.md (81/84)
+[2025-10-13 19:58:00] ✓ 读取成功 (7030 字符)
+[2025-10-13 19:58:00] ✓ 分析完成: Terraform Conventions and Guidelines
+[2025-10-13 19:58:00] ✓ 生成mindmap内容 (1562 字符)
+[2025-10-13 19:58:00] ✓ 保存成功: terraform.instructions.mindmap.md
+[2025-10-13 19:58:00] ✓ 验证通过
+[2025-10-13 19:58:01] ================================================================================
+[2025-10-13 19:58:01] [Instructions] 正在处理: typescript-5-es2022.instructions.md (82/84)
+[2025-10-13 19:58:01] ✓ 读取成功 (5114 字符)
+[2025-10-13 19:58:01] ✓ 分析完成: Guidelines for TypeScript Development targeting TypeScript 5.x and ES2022 output
+[2025-10-13 19:58:01] ✓ 生成mindmap内容 (1726 字符)
+[2025-10-13 19:58:01] ✓ 保存成功: typescript-5-es2022.instructions.mindmap.md
+[2025-10-13 19:58:01] ✓ 验证通过
+[2025-10-13 19:58:01] ================================================================================
+[2025-10-13 19:58:01] [Instructions] 正在处理: vuejs3.instructions.md (83/84)
+[2025-10-13 19:58:01] ✓ 读取成功 (6868 字符)
+[2025-10-13 19:58:01] ✓ 分析完成: VueJS 3 development standards and best practices with Composition API and TypeScript
+[2025-10-13 19:58:01] ✓ 生成mindmap内容 (1669 字符)
+[2025-10-13 19:58:01] ✓ 保存成功: vuejs3.instructions.mindmap.md
+[2025-10-13 19:58:01] ✓ 验证通过
+[2025-10-13 19:58:01] ================================================================================
+[2025-10-13 19:58:01] [Instructions] 正在处理: wordpress.instructions.md (84/84)
+[2025-10-13 19:58:01] ✓ 读取成功 (7103 字符)
+[2025-10-13 19:58:01] ✓ 分析完成: Coding, security, and testing rules for WordPress plugins and themes
+[2025-10-13 19:58:01] ✓ 生成mindmap内容 (1992 字符)
+[2025-10-13 19:58:01] ✓ 保存成功: wordpress.instructions.mindmap.md
+[2025-10-13 19:58:01] ✓ 验证通过
+[2025-10-13 19:58:01] 
+================================================================================
+[2025-10-13 19:58:01] 阶段2: 处理Prompts文件
+[2025-10-13 19:58:01] ================================================================================
+
+[2025-10-13 19:58:01] ================================================================================
+[2025-10-13 19:58:01] [Prompts] 正在处理: add-educational-comments.prompt.md (1/92)
+[2025-10-13 19:58:01] ✓ 读取成功 (6250 字符)
+[2025-10-13 19:58:01] ✓ 分析完成: Add educational comments to the file specified, or prompt asking for file to comment if one is not provided.
+[2025-10-13 19:58:01] ✓ 生成mindmap内容 (2226 字符)
+[2025-10-13 19:58:01] ✓ 保存成功: add-educational-comments.prompt.mindmap.md
+[2025-10-13 19:58:01] ✓ 验证通过
+[2025-10-13 19:58:01] ================================================================================
+[2025-10-13 19:58:01] [Prompts] 正在处理: ai-prompt-engineering-safety-review.prompt.md (2/92)
+[2025-10-13 19:58:01] ✓ 读取成功 (10126 字符)
+[2025-10-13 19:58:01] ✓ 分析完成: Comprehensive AI prompt engineering safety review and improvement prompt. Analyzes prompts for safety, bias, security vulnerabilities, and effectiveness while providing detailed improvement recommendations with extensive frameworks, testing methodologies, and educational content.
+[2025-10-13 19:58:01] ✓ 生成mindmap内容 (2915 字符)
+[2025-10-13 19:58:01] ✓ 保存成功: ai-prompt-engineering-safety-review.prompt.mindmap.md
+[2025-10-13 19:58:01] ✓ 验证通过
+[2025-10-13 19:58:01] ================================================================================
+[2025-10-13 19:58:01] [Prompts] 正在处理: architecture-blueprint-generator.prompt.md (3/92)
+[2025-10-13 19:58:01] ✓ 读取成功 (13333 字符)
+[2025-10-13 19:58:01] ✓ 分析完成: Comprehensive project architecture blueprint generator that analyzes codebases to create detailed architectural documentation. Automatically detects technology stacks and architectural patterns, generates visual diagrams, documents implementation patterns, and provides extensible blueprints for maintaining architectural consistency and guiding new development.
+[2025-10-13 19:58:01] ✓ 生成mindmap内容 (3555 字符)
+[2025-10-13 19:58:01] ✓ 保存成功: architecture-blueprint-generator.prompt.mindmap.md
+[2025-10-13 19:58:01] ✓ 验证通过
+[2025-10-13 19:58:01] ================================================================================
+[2025-10-13 19:58:01] [Prompts] 正在处理: aspnet-minimal-api-openapi.prompt.md (4/92)
+[2025-10-13 19:58:01] ✓ 读取成功 (1791 字符)
+[2025-10-13 19:58:01] ✓ 分析完成: Create ASP.NET Minimal API endpoints with proper OpenAPI documentation
+[2025-10-13 19:58:01] ✓ 生成mindmap内容 (1221 字符)
+[2025-10-13 19:58:01] ✓ 保存成功: aspnet-minimal-api-openapi.prompt.mindmap.md
+[2025-10-13 19:58:01] ✓ 验证通过
+[2025-10-13 19:58:01] ================================================================================
+[2025-10-13 19:58:01] [Prompts] 正在处理: az-cost-optimize.prompt.md (5/92)
+[2025-10-13 19:58:01] ✓ 读取成功 (12844 字符)
+[2025-10-13 19:58:01] ✓ 分析完成: Analyze Azure resources used in the app (IaC files and/or resources in a target rg) and optimize costs - creating GitHub issues for identified optimizations.
+[2025-10-13 19:58:01] ✓ 生成mindmap内容 (2060 字符)
+[2025-10-13 19:58:01] ✓ 保存成功: az-cost-optimize.prompt.mindmap.md
+[2025-10-13 19:58:01] ✓ 验证通过
+[2025-10-13 19:58:01] ================================================================================
+[2025-10-13 19:58:01] [Prompts] 正在处理: azure-resource-health-diagnose.prompt.md (6/92)
+[2025-10-13 19:58:01] ✓ 读取成功 (11399 字符)
+[2025-10-13 19:58:01] ✓ 分析完成: Analyze Azure resource health, diagnose issues from logs and telemetry, and create a remediation plan for identified problems.
+[2025-10-13 19:58:01] ✓ 生成mindmap内容 (1868 字符)
+[2025-10-13 19:58:01] ✓ 保存成功: azure-resource-health-diagnose.prompt.mindmap.md
+[2025-10-13 19:58:01] ✓ 验证通过
+[2025-10-13 19:58:02] ================================================================================
+[2025-10-13 19:58:02] [Prompts] 正在处理: boost-prompt.prompt.md (7/92)
+[2025-10-13 19:58:02] ✓ 读取成功 (1404 字符)
+[2025-10-13 19:58:02] ✓ 分析完成: Interactive prompt refinement workflow: interrogates scope, deliverables, constraints; copies final markdown to clipboard; never writes code. Requires the Joyride extension.
+[2025-10-13 19:58:02] ✓ 生成mindmap内容 (1746 字符)
+[2025-10-13 19:58:02] ✓ 保存成功: boost-prompt.prompt.mindmap.md
+[2025-10-13 19:58:02] ✓ 验证通过
+[2025-10-13 19:58:02] ================================================================================
+[2025-10-13 19:58:02] [Prompts] 正在处理: breakdown-epic-arch.prompt.md (8/92)
+[2025-10-13 19:58:02] ✓ 读取成功 (2834 字符)
+[2025-10-13 19:58:02] ✓ 分析完成: Prompt for creating the high-level technical architecture for an Epic, based on a Product Requirements Document.
+[2025-10-13 19:58:02] ✓ 生成mindmap内容 (1361 字符)
+[2025-10-13 19:58:02] ✓ 保存成功: breakdown-epic-arch.prompt.mindmap.md
+[2025-10-13 19:58:02] ✓ 验证通过
+[2025-10-13 19:58:02] ================================================================================
+[2025-10-13 19:58:02] [Prompts] 正在处理: breakdown-epic-pm.prompt.md (9/92)
+[2025-10-13 19:58:02] ✓ 读取成功 (2287 字符)
+[2025-10-13 19:58:02] ✓ 分析完成: Prompt for creating an Epic Product Requirements Document (PRD) for a new epic. This PRD will be used as input for generating a technical architecture specification.
+[2025-10-13 19:58:02] ✓ 生成mindmap内容 (1710 字符)
+[2025-10-13 19:58:02] ✓ 保存成功: breakdown-epic-pm.prompt.mindmap.md
+[2025-10-13 19:58:02] ✓ 验证通过
+[2025-10-13 19:58:02] ================================================================================
+[2025-10-13 19:58:02] [Prompts] 正在处理: breakdown-feature-implementation.prompt.md (10/92)
+[2025-10-13 19:58:02] ✓ 读取成功 (4730 字符)
+[2025-10-13 19:58:02] ✓ 分析完成: Prompt for creating detailed feature implementation plans, following Epoch monorepo structure.
+[2025-10-13 19:58:02] ✓ 生成mindmap内容 (1273 字符)
+[2025-10-13 19:58:02] ✓ 保存成功: breakdown-feature-implementation.prompt.mindmap.md
+[2025-10-13 19:58:02] ✓ 验证通过
+[2025-10-13 19:58:02] ================================================================================
+[2025-10-13 19:58:02] [Prompts] 正在处理: breakdown-feature-prd.prompt.md (11/92)
+[2025-10-13 19:58:02] ✓ 读取成功 (2465 字符)
+[2025-10-13 19:58:02] ✓ 分析完成: Prompt for creating Product Requirements Documents (PRDs) for new features, based on an Epic.
+[2025-10-13 19:58:02] ✓ 生成mindmap内容 (1210 字符)
+[2025-10-13 19:58:02] ✓ 保存成功: breakdown-feature-prd.prompt.mindmap.md
+[2025-10-13 19:58:02] ✓ 验证通过
+[2025-10-13 19:58:02] ================================================================================
+[2025-10-13 19:58:02] [Prompts] 正在处理: breakdown-plan.prompt.md (12/92)
+[2025-10-13 19:58:02] ✓ 读取成功 (15043 字符)
+[2025-10-13 19:58:02] ✓ 分析完成: Issue Planning and Automation prompt that generates comprehensive project plans with Epic > Feature > Story/Enabler > Test hierarchy, dependencies, priorities, and automated tracking.
+[2025-10-13 19:58:02] ✓ 生成mindmap内容 (2497 字符)
+[2025-10-13 19:58:02] ✓ 保存成功: breakdown-plan.prompt.mindmap.md
+[2025-10-13 19:58:02] ✓ 验证通过
+[2025-10-13 19:58:02] ================================================================================
+[2025-10-13 19:58:02] [Prompts] 正在处理: breakdown-test.prompt.md (13/92)
+[2025-10-13 19:58:02] ✓ 读取成功 (14955 字符)
+[2025-10-13 19:58:02] ✓ 分析完成: Test Planning and Quality Assurance prompt that generates comprehensive test strategies, task breakdowns, and quality validation plans for GitHub projects.
+[2025-10-13 19:58:02] ✓ 生成mindmap内容 (2364 字符)
+[2025-10-13 19:58:02] ✓ 保存成功: breakdown-test.prompt.mindmap.md
+[2025-10-13 19:58:02] ✓ 验证通过
+[2025-10-13 19:58:02] ================================================================================
+[2025-10-13 19:58:02] [Prompts] 正在处理: code-exemplars-blueprint-generator.prompt.md (14/92)
+[2025-10-13 19:58:02] ✓ 读取成功 (6683 字符)
+[2025-10-13 19:58:02] ✓ 分析完成: Technology-agnostic prompt generator that creates customizable AI prompts for scanning codebases and identifying high-quality code exemplars. Supports multiple programming languages (.NET, Java, JavaScript, TypeScript, React, Angular, Python) with configurable analysis depth, categorization methods, and documentation formats to establish coding standards and maintain consistency across development teams.
+[2025-10-13 19:58:02] ✓ 生成mindmap内容 (3903 字符)
+[2025-10-13 19:58:02] ✓ 保存成功: code-exemplars-blueprint-generator.prompt.mindmap.md
+[2025-10-13 19:58:02] ✓ 验证通过
+[2025-10-13 19:58:02] ================================================================================
+[2025-10-13 19:58:02] [Prompts] 正在处理: comment-code-generate-a-tutorial.prompt.md (15/92)
+[2025-10-13 19:58:02] ✓ 读取成功 (1364 字符)
+[2025-10-13 19:58:02] ✓ 分析完成: Transform this Python script into a polished, beginner-friendly project by refactoring the code, adding clear instructional comments, and generating a complete markdown tutorial.
+[2025-10-13 19:58:02] ✓ 生成mindmap内容 (2016 字符)
+[2025-10-13 19:58:02] ✓ 保存成功: comment-code-generate-a-tutorial.prompt.mindmap.md
+[2025-10-13 19:58:02] ✓ 验证通过
+[2025-10-13 19:58:03] ================================================================================
+[2025-10-13 19:58:03] [Prompts] 正在处理: containerize-aspnet-framework.prompt.md (16/92)
+[2025-10-13 19:58:03] ✓ 读取成功 (20837 字符)
+[2025-10-13 19:58:03] ✓ 分析完成: Containerize an ASP.NET .NET Framework project by creating Dockerfile and .dockerfile files customized for the project.
+[2025-10-13 19:58:03] ✓ 生成mindmap内容 (2143 字符)
+[2025-10-13 19:58:03] ✓ 保存成功: containerize-aspnet-framework.prompt.mindmap.md
+[2025-10-13 19:58:03] ✓ 验证通过
+[2025-10-13 19:58:03] ================================================================================
+[2025-10-13 19:58:03] [Prompts] 正在处理: containerize-aspnetcore.prompt.md (17/92)
+[2025-10-13 19:58:03] ✓ 读取成功 (15988 字符)
+[2025-10-13 19:58:03] ✓ 分析完成: Containerize an ASP.NET Core project by creating Dockerfile and .dockerfile files customized for the project.
+[2025-10-13 19:58:03] ✓ 生成mindmap内容 (2047 字符)
+[2025-10-13 19:58:03] ✓ 保存成功: containerize-aspnetcore.prompt.mindmap.md
+[2025-10-13 19:58:03] ✓ 验证通过
+[2025-10-13 19:58:03] ================================================================================
+[2025-10-13 19:58:03] [Prompts] 正在处理: copilot-instructions-blueprint-generator.prompt.md (18/92)
+[2025-10-13 19:58:03] ✓ 读取成功 (14749 字符)
+[2025-10-13 19:58:03] ✓ 分析完成: Technology-agnostic blueprint generator for creating comprehensive copilot-instructions.md files that guide GitHub Copilot to produce code consistent with project standards, architecture patterns, and exact technology versions by analyzing existing codebase patterns and avoiding assumptions.
+[2025-10-13 19:58:03] ✓ 生成mindmap内容 (3663 字符)
+[2025-10-13 19:58:03] ✓ 保存成功: copilot-instructions-blueprint-generator.prompt.mindmap.md
+[2025-10-13 19:58:03] ✓ 验证通过
+[2025-10-13 19:58:03] ================================================================================
+[2025-10-13 19:58:03] [Prompts] 正在处理: cosmosdb-datamodeling.prompt.md (19/92)
+[2025-10-13 19:58:03] ✓ 读取成功 (47462 字符)
+[2025-10-13 19:58:03] ✓ 分析完成: Step-by-step guide for capturing key application requirements for NoSQL use-case and produce Azure Cosmos DB Data NoSQL Model design using best practices and common patterns, artifacts_produced: "cosmosdb_requirements.md" file and "cosmosdb_data_model.md" file
+[2025-10-13 19:58:03] ✓ 生成mindmap内容 (3169 字符)
+[2025-10-13 19:58:03] ✓ 保存成功: cosmosdb-datamodeling.prompt.mindmap.md
+[2025-10-13 19:58:03] ✓ 验证通过
+[2025-10-13 19:58:03] ================================================================================
+[2025-10-13 19:58:03] [Prompts] 正在处理: create-agentsmd.prompt.md (20/92)
+[2025-10-13 19:58:03] ✓ 读取成功 (7847 字符)
+[2025-10-13 19:58:03] ✓ 分析完成: Prompt for generating an AGENTS.md file for a repository
+[2025-10-13 19:58:03] ✓ 生成mindmap内容 (1507 字符)
+[2025-10-13 19:58:03] ✓ 保存成功: create-agentsmd.prompt.mindmap.md
+[2025-10-13 19:58:03] ✓ 验证通过
+[2025-10-13 19:58:03] ================================================================================
+[2025-10-13 19:58:03] [Prompts] 正在处理: create-architectural-decision-record.prompt.md (21/92)
+[2025-10-13 19:58:03] ✓ 读取成功 (3266 字符)
+[2025-10-13 19:58:03] ✓ 分析完成: Create an Architectural Decision Record (ADR) document for AI-optimized decision documentation.
+[2025-10-13 19:58:03] ✓ 生成mindmap内容 (2073 字符)
+[2025-10-13 19:58:03] ✓ 保存成功: create-architectural-decision-record.prompt.mindmap.md
+[2025-10-13 19:58:03] ✓ 验证通过
+[2025-10-13 19:58:03] ================================================================================
+[2025-10-13 19:58:03] [Prompts] 正在处理: create-github-action-workflow-specification.prompt.md (22/92)
+[2025-10-13 19:58:03] ✓ 读取成功 (7993 字符)
+[2025-10-13 19:58:03] ✓ 分析完成: Create a formal specification for an existing GitHub Actions CI/CD workflow, optimized for AI consumption and workflow maintenance.
+[2025-10-13 19:58:03] ✓ 生成mindmap内容 (2370 字符)
+[2025-10-13 19:58:03] ✓ 保存成功: create-github-action-workflow-specification.prompt.mindmap.md
+[2025-10-13 19:58:03] ✓ 验证通过
+[2025-10-13 19:58:03] ================================================================================
+[2025-10-13 19:58:03] [Prompts] 正在处理: create-github-issue-feature-from-specification.prompt.md (23/92)
+[2025-10-13 19:58:03] ✓ 读取成功 (961 字符)
+[2025-10-13 19:58:03] ✓ 分析完成: Create GitHub Issue for feature request from specification file using feature_request.yml template.
+[2025-10-13 19:58:03] ✓ 生成mindmap内容 (1945 字符)
+[2025-10-13 19:58:03] ✓ 保存成功: create-github-issue-feature-from-specification.prompt.mindmap.md
+[2025-10-13 19:58:03] ✓ 验证通过
+[2025-10-13 19:58:03] ================================================================================
+[2025-10-13 19:58:03] [Prompts] 正在处理: create-github-issues-feature-from-implementation-plan.prompt.md (24/92)
+[2025-10-13 19:58:03] ✓ 读取成功 (987 字符)
+[2025-10-13 19:58:03] ✓ 分析完成: Create GitHub Issues from implementation plan phases using feature_request.yml or chore_request.yml templates.
+[2025-10-13 19:58:03] ✓ 生成mindmap内容 (2035 字符)
+[2025-10-13 19:58:03] ✓ 保存成功: create-github-issues-feature-from-implementation-plan.prompt.mindmap.md
+[2025-10-13 19:58:03] ✓ 验证通过
+[2025-10-13 19:58:04] ================================================================================
+[2025-10-13 19:58:04] [Prompts] 正在处理: create-github-issues-for-unmet-specification-requirements.prompt.md (25/92)
+[2025-10-13 19:58:04] ✓ 读取成功 (1313 字符)
+[2025-10-13 19:58:04] ✓ 分析完成: Create GitHub Issues for unimplemented requirements from specification files using feature_request.yml template.
+[2025-10-13 19:58:04] ✓ 生成mindmap内容 (2188 字符)
+[2025-10-13 19:58:04] ✓ 保存成功: create-github-issues-for-unmet-specification-requirements.prompt.mindmap.md
+[2025-10-13 19:58:04] ✓ 验证通过
+[2025-10-13 19:58:04] ================================================================================
+[2025-10-13 19:58:04] [Prompts] 正在处理: create-github-pull-request-from-specification.prompt.md (26/92)
+[2025-10-13 19:58:04] ✓ 读取成功 (1695 字符)
+[2025-10-13 19:58:04] ✓ 分析完成: Create GitHub Pull Request for feature request from specification file using pull_request_template.md template.
+[2025-10-13 19:58:04] ✓ 生成mindmap内容 (2571 字符)
+[2025-10-13 19:58:04] ✓ 保存成功: create-github-pull-request-from-specification.prompt.mindmap.md
+[2025-10-13 19:58:04] ✓ 验证通过
+[2025-10-13 19:58:04] ================================================================================
+[2025-10-13 19:58:04] [Prompts] 正在处理: create-implementation-plan.prompt.md (27/92)
+[2025-10-13 19:58:04] ✓ 读取成功 (6514 字符)
+[2025-10-13 19:58:04] ✓ 分析完成: Create a new implementation plan file for new features, refactoring existing code or upgrading packages, design, architecture or infrastructure.
+[2025-10-13 19:58:04] ✓ 生成mindmap内容 (2613 字符)
+[2025-10-13 19:58:04] ✓ 保存成功: create-implementation-plan.prompt.mindmap.md
+[2025-10-13 19:58:04] ✓ 验证通过
+[2025-10-13 19:58:04] ================================================================================
+[2025-10-13 19:58:04] [Prompts] 正在处理: create-llms.prompt.md (28/92)
+[2025-10-13 19:58:04] ✓ 读取成功 (7523 字符)
+[2025-10-13 19:58:04] ✓ 分析完成: Create an llms.txt file from scratch based on repository structure following the llms.txt specification at https://llmstxt.org/
+[2025-10-13 19:58:04] ✓ 生成mindmap内容 (2443 字符)
+[2025-10-13 19:58:04] ✓ 保存成功: create-llms.prompt.mindmap.md
+[2025-10-13 19:58:04] ✓ 验证通过
+[2025-10-13 19:58:04] ================================================================================
+[2025-10-13 19:58:04] [Prompts] 正在处理: create-oo-component-documentation.prompt.md (29/92)
+[2025-10-13 19:58:04] ✓ 读取成功 (7368 字符)
+[2025-10-13 19:58:04] ✓ 分析完成: Create comprehensive, standardized documentation for object-oriented components following industry best practices and architectural documentation standards.
+[2025-10-13 19:58:04] ✓ 生成mindmap内容 (2289 字符)
+[2025-10-13 19:58:04] ✓ 保存成功: create-oo-component-documentation.prompt.mindmap.md
+[2025-10-13 19:58:04] ✓ 验证通过
+[2025-10-13 19:58:04] ================================================================================
+[2025-10-13 19:58:04] [Prompts] 正在处理: create-readme.prompt.md (30/92)
+[2025-10-13 19:58:04] ✓ 读取成功 (1325 字符)
+[2025-10-13 19:58:04] ✓ 分析完成: Create a README.md file for the project
+[2025-10-13 19:58:04] ✓ 生成mindmap内容 (1650 字符)
+[2025-10-13 19:58:04] ✓ 保存成功: create-readme.prompt.mindmap.md
+[2025-10-13 19:58:04] ✓ 验证通过
+[2025-10-13 19:58:04] ================================================================================
+[2025-10-13 19:58:04] [Prompts] 正在处理: create-specification.prompt.md (31/92)
+[2025-10-13 19:58:04] ✓ 读取成功 (5739 字符)
+[2025-10-13 19:58:04] ✓ 分析完成: Create a new specification file for the solution, optimized for Generative AI consumption.
+[2025-10-13 19:58:04] ✓ 生成mindmap内容 (1894 字符)
+[2025-10-13 19:58:04] ✓ 保存成功: create-specification.prompt.mindmap.md
+[2025-10-13 19:58:04] ✓ 验证通过
+[2025-10-13 19:58:04] ================================================================================
+[2025-10-13 19:58:04] [Prompts] 正在处理: create-spring-boot-java-project.prompt.md (32/92)
+[2025-10-13 19:58:04] ✓ 读取成功 (4612 字符)
+[2025-10-13 19:58:04] ✓ 分析完成: Create Spring Boot Java Project Skeleton
+[2025-10-13 19:58:04] ✓ 生成mindmap内容 (834 字符)
+[2025-10-13 19:58:04] ✓ 保存成功: create-spring-boot-java-project.prompt.mindmap.md
+[2025-10-13 19:58:04] ✓ 验证通过
+[2025-10-13 19:58:04] ================================================================================
+[2025-10-13 19:58:04] [Prompts] 正在处理: create-spring-boot-kotlin-project.prompt.md (33/92)
+[2025-10-13 19:58:04] ✓ 读取成功 (4244 字符)
+[2025-10-13 19:58:04] ✓ 分析完成: Create Spring Boot Kotlin Project Skeleton
+[2025-10-13 19:58:04] ✓ 生成mindmap内容 (850 字符)
+[2025-10-13 19:58:04] ✓ 保存成功: create-spring-boot-kotlin-project.prompt.mindmap.md
+[2025-10-13 19:58:04] ✓ 验证通过
+[2025-10-13 19:58:04] ================================================================================
+[2025-10-13 19:58:04] [Prompts] 正在处理: create-technical-spike.prompt.md (34/92)
+[2025-10-13 19:58:04] ✓ 读取成功 (6769 字符)
+[2025-10-13 19:58:04] ✓ 分析完成: Create time-boxed technical spike documents for researching and resolving critical development decisions before implementation.
+[2025-10-13 19:58:04] ✓ 生成mindmap内容 (2130 字符)
+[2025-10-13 19:58:04] ✓ 保存成功: create-technical-spike.prompt.mindmap.md
+[2025-10-13 19:58:04] ✓ 验证通过
+[2025-10-13 19:58:05] ================================================================================
+[2025-10-13 19:58:05] [Prompts] 正在处理: csharp-async.prompt.md (35/92)
+[2025-10-13 19:58:05] ✓ 读取成功 (1913 字符)
+[2025-10-13 19:58:05] ✓ 分析完成: Get best practices for C# async programming
+[2025-10-13 19:58:05] ✓ 生成mindmap内容 (1018 字符)
+[2025-10-13 19:58:05] ✓ 保存成功: csharp-async.prompt.mindmap.md
+[2025-10-13 19:58:05] ✓ 验证通过
+[2025-10-13 19:58:05] ================================================================================
+[2025-10-13 19:58:05] [Prompts] 正在处理: csharp-docs.prompt.md (36/92)
+[2025-10-13 19:58:05] ✓ 读取成功 (4134 字符)
+[2025-10-13 19:58:05] ✓ 分析完成: Ensure that C# types are documented with XML comments and follow best practices for documentation.
+[2025-10-13 19:58:05] ✓ 生成mindmap内容 (1402 字符)
+[2025-10-13 19:58:05] ✓ 保存成功: csharp-docs.prompt.mindmap.md
+[2025-10-13 19:58:05] ✓ 验证通过
+[2025-10-13 19:58:05] ================================================================================
+[2025-10-13 19:58:05] [Prompts] 正在处理: csharp-mstest.prompt.md (37/92)
+[2025-10-13 19:58:05] ✓ 读取成功 (2550 字符)
+[2025-10-13 19:58:05] ✓ 分析完成: Get best practices for MSTest unit testing, including data-driven tests
+[2025-10-13 19:58:05] ✓ 生成mindmap内容 (1245 字符)
+[2025-10-13 19:58:05] ✓ 保存成功: csharp-mstest.prompt.mindmap.md
+[2025-10-13 19:58:05] ✓ 验证通过
+[2025-10-13 19:58:05] ================================================================================
+[2025-10-13 19:58:05] [Prompts] 正在处理: csharp-nunit.prompt.md (38/92)
+[2025-10-13 19:58:05] ✓ 读取成功 (2904 字符)
+[2025-10-13 19:58:05] ✓ 分析完成: Get best practices for NUnit unit testing, including data-driven tests
+[2025-10-13 19:58:05] ✓ 生成mindmap内容 (1237 字符)
+[2025-10-13 19:58:05] ✓ 保存成功: csharp-nunit.prompt.mindmap.md
+[2025-10-13 19:58:05] ✓ 验证通过
+[2025-10-13 19:58:05] ================================================================================
+[2025-10-13 19:58:05] [Prompts] 正在处理: csharp-tunit.prompt.md (39/92)
+[2025-10-13 19:58:05] ✓ 读取成功 (5205 字符)
+[2025-10-13 19:58:05] ✓ 分析完成: Get best practices for TUnit unit testing, including data-driven tests
+[2025-10-13 19:58:05] ✓ 生成mindmap内容 (1237 字符)
+[2025-10-13 19:58:05] ✓ 保存成功: csharp-tunit.prompt.mindmap.md
+[2025-10-13 19:58:05] ✓ 验证通过
+[2025-10-13 19:58:05] ================================================================================
+[2025-10-13 19:58:05] [Prompts] 正在处理: csharp-xunit.prompt.md (40/92)
+[2025-10-13 19:58:05] ✓ 读取成功 (2768 字符)
+[2025-10-13 19:58:05] ✓ 分析完成: Get best practices for XUnit unit testing, including data-driven tests
+[2025-10-13 19:58:05] ✓ 生成mindmap内容 (1237 字符)
+[2025-10-13 19:58:05] ✓ 保存成功: csharp-xunit.prompt.mindmap.md
+[2025-10-13 19:58:05] ✓ 验证通过
+[2025-10-13 19:58:05] ================================================================================
+[2025-10-13 19:58:05] [Prompts] 正在处理: declarative-agents.prompt.md (41/92)
+[2025-10-13 19:58:05] ✓ 读取成功 (4682 字符)
+[2025-10-13 19:58:05] ✓ 分析完成: Complete development kit for Microsoft 365 Copilot declarative agents with three comprehensive workflows (basic, advanced, validation), TypeSpec support, and Microsoft 365 Agents Toolkit integration
+[2025-10-13 19:58:05] ✓ 生成mindmap内容 (2905 字符)
+[2025-10-13 19:58:05] ✓ 保存成功: declarative-agents.prompt.mindmap.md
+[2025-10-13 19:58:05] ✓ 验证通过
+[2025-10-13 19:58:05] ================================================================================
+[2025-10-13 19:58:05] [Prompts] 正在处理: documentation-writer.prompt.md (42/92)
+[2025-10-13 19:58:05] ✓ 读取成功 (2770 字符)
+[2025-10-13 19:58:05] ✓ 分析完成: Diátaxis Documentation Expert. An expert technical writer specializing in creating high-quality software documentation, guided by the principles and structure of the Diátaxis technical documentation authoring framework.
+[2025-10-13 19:58:05] ✓ 生成mindmap内容 (3333 字符)
+[2025-10-13 19:58:05] ✓ 保存成功: documentation-writer.prompt.mindmap.md
+[2025-10-13 19:58:05] ✓ 验证通过
+[2025-10-13 19:58:05] ================================================================================
+[2025-10-13 19:58:05] [Prompts] 正在处理: dotnet-best-practices.prompt.md (43/92)
+[2025-10-13 19:58:05] ✓ 读取成功 (3215 字符)
+[2025-10-13 19:58:05] ✓ 分析完成: Ensure .NET/C# code meets best practices for the solution/project.
+[2025-10-13 19:58:05] ✓ 生成mindmap内容 (1006 字符)
+[2025-10-13 19:58:05] ✓ 保存成功: dotnet-best-practices.prompt.mindmap.md
+[2025-10-13 19:58:05] ✓ 验证通过
+[2025-10-13 19:58:06] ================================================================================
+[2025-10-13 19:58:06] [Prompts] 正在处理: dotnet-design-pattern-review.prompt.md (44/92)
+[2025-10-13 19:58:06] ✓ 读取成功 (3262 字符)
+[2025-10-13 19:58:06] ✓ 分析完成: Review the C#/.NET code for design pattern implementation and suggest improvements.
+[2025-10-13 19:58:06] ✓ 生成mindmap内容 (1132 字符)
+[2025-10-13 19:58:06] ✓ 保存成功: dotnet-design-pattern-review.prompt.mindmap.md
+[2025-10-13 19:58:06] ✓ 验证通过
+[2025-10-13 19:58:06] ================================================================================
+[2025-10-13 19:58:06] [Prompts] 正在处理: editorconfig.prompt.md (45/92)
+[2025-10-13 19:58:06] ✓ 读取成功 (4176 字符)
+[2025-10-13 19:58:06] ✓ 分析完成: Generates a comprehensive and best-practice-oriented .editorconfig file based on project analysis and user preferences.
+[2025-10-13 19:58:06] ✓ 生成mindmap内容 (2458 字符)
+[2025-10-13 19:58:06] ✓ 保存成功: editorconfig.prompt.mindmap.md
+[2025-10-13 19:58:06] ✓ 验证通过
+[2025-10-13 19:58:06] ================================================================================
+[2025-10-13 19:58:06] [Prompts] 正在处理: ef-core.prompt.md (46/92)
+[2025-10-13 19:58:06] ✓ 读取成功 (2748 字符)
+[2025-10-13 19:58:06] ✓ 分析完成: Get best practices for Entity Framework Core
+[2025-10-13 19:58:06] ✓ 生成mindmap内容 (1060 字符)
+[2025-10-13 19:58:06] ✓ 保存成功: ef-core.prompt.mindmap.md
+[2025-10-13 19:58:06] ✓ 验证通过
+[2025-10-13 19:58:06] ================================================================================
+[2025-10-13 19:58:06] [Prompts] 正在处理: first-ask.prompt.md (47/92)
+[2025-10-13 19:58:06] ✓ 读取成功 (1560 字符)
+[2025-10-13 19:58:06] ✓ 分析完成: Interactive, input-tool powered, task refinement workflow: interrogates scope, deliverables, constraints before carrying out the task; Requires the Joyride extension.
+[2025-10-13 19:58:06] ✓ 生成mindmap内容 (1875 字符)
+[2025-10-13 19:58:06] ✓ 保存成功: first-ask.prompt.mindmap.md
+[2025-10-13 19:58:06] ✓ 验证通过
+[2025-10-13 19:58:06] ================================================================================
+[2025-10-13 19:58:06] [Prompts] 正在处理: folder-structure-blueprint-generator.prompt.md (48/92)
+[2025-10-13 19:58:06] ✓ 读取成功 (13851 字符)
+[2025-10-13 19:58:06] ✓ 分析完成: Comprehensive technology-agnostic prompt for analyzing and documenting project folder structures. Auto-detects project types (.NET, Java, React, Angular, Python, Node.js, Flutter), generates detailed blueprints with visualization options, naming conventions, file placement patterns, and extension templates for maintaining consistent code organization across diverse technology stacks.
+[2025-10-13 19:58:06] ✓ 生成mindmap内容 (3854 字符)
+[2025-10-13 19:58:06] ✓ 保存成功: folder-structure-blueprint-generator.prompt.mindmap.md
+[2025-10-13 19:58:06] ✓ 验证通过
+[2025-10-13 19:58:06] ================================================================================
+[2025-10-13 19:58:06] [Prompts] 正在处理: gen-specs-as-issues.prompt.md (49/92)
+[2025-10-13 19:58:06] ✓ 读取成功 (5856 字符)
+[2025-10-13 19:58:06] ✓ 分析完成: This workflow guides you through a systematic approach to identify missing features, prioritize them, and create detailed specifications for implementation.
+[2025-10-13 19:58:06] ✓ 生成mindmap内容 (1840 字符)
+[2025-10-13 19:58:06] ✓ 保存成功: gen-specs-as-issues.prompt.mindmap.md
+[2025-10-13 19:58:06] ✓ 验证通过
+[2025-10-13 19:58:06] ================================================================================
+[2025-10-13 19:58:06] [Prompts] 正在处理: generate-custom-instructions-from-codebase.prompt.md (50/92)
+[2025-10-13 19:58:06] ✓ 读取成功 (8624 字符)
+[2025-10-13 19:58:06] ✓ 分析完成: Migration and code evolution instructions generator for GitHub Copilot. Analyzes differences between two project versions (branches, commits, or releases) to create precise instructions allowing Copilot to maintain consistency during technology migrations, major refactoring, or framework version upgrades.
+[2025-10-13 19:58:06] ✓ 生成mindmap内容 (3151 字符)
+[2025-10-13 19:58:06] ✓ 保存成功: generate-custom-instructions-from-codebase.prompt.mindmap.md
+[2025-10-13 19:58:06] ✓ 验证通过
+[2025-10-13 19:58:06] ================================================================================
+[2025-10-13 19:58:06] [Prompts] 正在处理: git-flow-branch-creator.prompt.md (51/92)
+[2025-10-13 19:58:06] ✓ 读取成功 (10451 字符)
+[2025-10-13 19:58:06] ✓ 分析完成: Intelligent Git Flow branch creator that analyzes git status/diff and creates appropriate branches following the nvie Git Flow branching model.
+[2025-10-13 19:58:06] ✓ 生成mindmap内容 (2356 字符)
+[2025-10-13 19:58:06] ✓ 保存成功: git-flow-branch-creator.prompt.mindmap.md
+[2025-10-13 19:58:06] ✓ 验证通过
+[2025-10-13 19:58:06] ================================================================================
+[2025-10-13 19:58:06] [Prompts] 正在处理: github-copilot-starter.prompt.md (52/92)
+[2025-10-13 19:58:06] ✓ 读取成功 (13643 字符)
+[2025-10-13 19:58:06] ✓ 分析完成: Set up complete GitHub Copilot configuration for a new project based on technology stack
+[2025-10-13 19:58:06] ✓ 生成mindmap内容 (2166 字符)
+[2025-10-13 19:58:06] ✓ 保存成功: github-copilot-starter.prompt.mindmap.md
+[2025-10-13 19:58:06] ✓ 验证通过
+[2025-10-13 19:58:07] ================================================================================
+[2025-10-13 19:58:07] [Prompts] 正在处理: java-docs.prompt.md (53/92)
+[2025-10-13 19:58:07] ✓ 读取成功 (1493 字符)
+[2025-10-13 19:58:07] ✓ 分析完成: Ensure that Java types are documented with Javadoc comments and follow best practices for documentation.
+[2025-10-13 19:58:07] ✓ 生成mindmap内容 (1442 字符)
+[2025-10-13 19:58:07] ✓ 保存成功: java-docs.prompt.mindmap.md
+[2025-10-13 19:58:07] ✓ 验证通过
+[2025-10-13 19:58:07] ================================================================================
+[2025-10-13 19:58:07] [Prompts] 正在处理: java-junit.prompt.md (54/92)
+[2025-10-13 19:58:07] ✓ 读取成功 (3044 字符)
+[2025-10-13 19:58:07] ✓ 分析完成: Get best practices for JUnit 5 unit testing, including data-driven tests
+[2025-10-13 19:58:07] ✓ 生成mindmap内容 (1249 字符)
+[2025-10-13 19:58:07] ✓ 保存成功: java-junit.prompt.mindmap.md
+[2025-10-13 19:58:07] ✓ 验证通过
+[2025-10-13 19:58:07] ================================================================================
+[2025-10-13 19:58:07] [Prompts] 正在处理: java-refactoring-extract-method.prompt.md (55/92)
+[2025-10-13 19:58:07] ✓ 读取成功 (3519 字符)
+[2025-10-13 19:58:07] ✓ 分析完成: Refactoring using Extract Methods in Java Language
+[2025-10-13 19:58:07] ✓ 生成mindmap内容 (904 字符)
+[2025-10-13 19:58:07] ✓ 保存成功: java-refactoring-extract-method.prompt.mindmap.md
+[2025-10-13 19:58:07] ✓ 验证通过
+[2025-10-13 19:58:07] ================================================================================
+[2025-10-13 19:58:07] [Prompts] 正在处理: java-springboot.prompt.md (56/92)
+[2025-10-13 19:58:07] ✓ 读取成功 (4191 字符)
+[2025-10-13 19:58:07] ✓ 分析完成: Get best practices for developing applications with Spring Boot.
+[2025-10-13 19:58:07] ✓ 生成mindmap内容 (1198 字符)
+[2025-10-13 19:58:07] ✓ 保存成功: java-springboot.prompt.mindmap.md
+[2025-10-13 19:58:07] ✓ 验证通过
+[2025-10-13 19:58:07] ================================================================================
+[2025-10-13 19:58:07] [Prompts] 正在处理: javascript-typescript-jest.prompt.md (57/92)
+[2025-10-13 19:58:07] ✓ 读取成功 (2216 字符)
+[2025-10-13 19:58:07] ✓ 分析完成: Best practices for writing JavaScript/TypeScript tests using Jest, including mocking strategies, test structure, and common patterns.
+[2025-10-13 19:58:07] ✓ 生成mindmap内容 (1691 字符)
+[2025-10-13 19:58:07] ✓ 保存成功: javascript-typescript-jest.prompt.mindmap.md
+[2025-10-13 19:58:07] ✓ 验证通过
+[2025-10-13 19:58:07] ================================================================================
+[2025-10-13 19:58:07] [Prompts] 正在处理: kotlin-springboot.prompt.md (58/92)
+[2025-10-13 19:58:07] ✓ 读取成功 (4462 字符)
+[2025-10-13 19:58:07] ✓ 分析完成: Get best practices for developing applications with Spring Boot and Kotlin.
+[2025-10-13 19:58:07] ✓ 生成mindmap内容 (1277 字符)
+[2025-10-13 19:58:07] ✓ 保存成功: kotlin-springboot.prompt.mindmap.md
+[2025-10-13 19:58:07] ✓ 验证通过
+[2025-10-13 19:58:07] ================================================================================
+[2025-10-13 19:58:07] [Prompts] 正在处理: mcp-copilot-studio-server-generator.prompt.md (59/92)
+[2025-10-13 19:58:07] ✓ 读取成功 (4219 字符)
+[2025-10-13 19:58:07] ✓ 分析完成: Generate a complete MCP server implementation optimized for Copilot Studio integration with proper schema constraints and streamable HTTP support
+[2025-10-13 19:58:07] ✓ 生成mindmap内容 (2023 字符)
+[2025-10-13 19:58:07] ✓ 保存成功: mcp-copilot-studio-server-generator.prompt.mindmap.md
+[2025-10-13 19:58:07] ✓ 验证通过
+[2025-10-13 19:58:07] ================================================================================
+[2025-10-13 19:58:07] [Prompts] 正在处理: memory-merger.prompt.md (60/92)
+[2025-10-13 19:58:07] ✓ 读取成功 (3865 字符)
+[2025-10-13 19:58:07] ✓ 分析完成: Merges mature lessons from a domain memory file into its instruction file. Syntax: `/memory-merger >domain [scope]` where scope is `global` (default), `user`, `workspace`, or `ws`.
+[2025-10-13 19:58:07] ✓ 生成mindmap内容 (2753 字符)
+[2025-10-13 19:58:07] ✓ 保存成功: memory-merger.prompt.mindmap.md
+[2025-10-13 19:58:07] ✓ 验证通过
+[2025-10-13 19:58:07] ================================================================================
+[2025-10-13 19:58:07] [Prompts] 正在处理: mkdocs-translations.prompt.md (61/92)
+[2025-10-13 19:58:07] ✓ 读取成功 (4478 字符)
+[2025-10-13 19:58:07] ✓ 分析完成: Generate a language translation for a mkdocs documentation stack.
+[2025-10-13 19:58:07] ✓ 生成mindmap内容 (1893 字符)
+[2025-10-13 19:58:07] ✓ 保存成功: mkdocs-translations.prompt.mindmap.md
+[2025-10-13 19:58:07] ✓ 验证通过
+[2025-10-13 19:58:08] ================================================================================
+[2025-10-13 19:58:08] [Prompts] 正在处理: multi-stage-dockerfile.prompt.md (62/92)
+[2025-10-13 19:58:08] ✓ 读取成功 (2313 字符)
+[2025-10-13 19:58:08] ✓ 分析完成: Create optimized multi-stage Dockerfiles for any language or framework
+[2025-10-13 19:58:08] ✓ 生成mindmap内容 (1090 字符)
+[2025-10-13 19:58:08] ✓ 保存成功: multi-stage-dockerfile.prompt.mindmap.md
+[2025-10-13 19:58:08] ✓ 验证通过
+[2025-10-13 19:58:08] ================================================================================
+[2025-10-13 19:58:08] [Prompts] 正在处理: my-issues.prompt.md (63/92)
+[2025-10-13 19:58:08] ✓ 读取成功 (430 字符)
+[2025-10-13 19:58:08] ✓ 分析完成: List my issues in the current repository
+[2025-10-13 19:58:08] ✓ 生成mindmap内容 (1066 字符)
+[2025-10-13 19:58:08] ✓ 保存成功: my-issues.prompt.mindmap.md
+[2025-10-13 19:58:08] ✓ 验证通过
+[2025-10-13 19:58:08] ================================================================================
+[2025-10-13 19:58:08] [Prompts] 正在处理: my-pull-requests.prompt.md (64/92)
+[2025-10-13 19:58:08] ✓ 读取成功 (793 字符)
+[2025-10-13 19:58:08] ✓ 分析完成: List my pull requests in the current repository
+[2025-10-13 19:58:08] ✓ 生成mindmap内容 (1311 字符)
+[2025-10-13 19:58:08] ✓ 保存成功: my-pull-requests.prompt.mindmap.md
+[2025-10-13 19:58:08] ✓ 验证通过
+[2025-10-13 19:58:08] ================================================================================
+[2025-10-13 19:58:08] [Prompts] 正在处理: next-intl-add-language.prompt.md (65/92)
+[2025-10-13 19:58:08] ✓ 读取成功 (818 字符)
+[2025-10-13 19:58:08] ✓ 分析完成: Add new language to a Next.js + next-intl application
+[2025-10-13 19:58:08] ✓ 生成mindmap内容 (1154 字符)
+[2025-10-13 19:58:08] ✓ 保存成功: next-intl-add-language.prompt.mindmap.md
+[2025-10-13 19:58:08] ✓ 验证通过
+[2025-10-13 19:58:08] ================================================================================
+[2025-10-13 19:58:08] [Prompts] 正在处理: playwright-automation-fill-in-form.prompt.md (66/92)
+[2025-10-13 19:58:08] ✓ 读取成功 (668 字符)
+[2025-10-13 19:58:08] ✓ 分析完成: Automate filling in a form using Playwright MCP
+[2025-10-13 19:58:08] ✓ 生成mindmap内容 (1340 字符)
+[2025-10-13 19:58:08] ✓ 保存成功: playwright-automation-fill-in-form.prompt.mindmap.md
+[2025-10-13 19:58:08] ✓ 验证通过
+[2025-10-13 19:58:08] ================================================================================
+[2025-10-13 19:58:08] [Prompts] 正在处理: playwright-explore-website.prompt.md (67/92)
+[2025-10-13 19:58:08] ✓ 读取成功 (906 字符)
+[2025-10-13 19:58:08] ✓ 分析完成: Website exploration for testing using Playwright MCP
+[2025-10-13 19:58:08] ✓ 生成mindmap内容 (1960 字符)
+[2025-10-13 19:58:08] ✓ 保存成功: playwright-explore-website.prompt.mindmap.md
+[2025-10-13 19:58:08] ✓ 验证通过
+[2025-10-13 19:58:08] ================================================================================
+[2025-10-13 19:58:08] [Prompts] 正在处理: playwright-generate-test.prompt.md (68/92)
+[2025-10-13 19:58:08] ✓ 读取成功 (1104 字符)
+[2025-10-13 19:58:08] ✓ 分析完成: Generate a Playwright test based on a scenario using Playwright MCP
+[2025-10-13 19:58:08] ✓ 生成mindmap内容 (1436 字符)
+[2025-10-13 19:58:08] ✓ 保存成功: playwright-generate-test.prompt.mindmap.md
+[2025-10-13 19:58:08] ✓ 验证通过
+[2025-10-13 19:58:08] ================================================================================
+[2025-10-13 19:58:08] [Prompts] 正在处理: postgresql-code-review.prompt.md (69/92)
+[2025-10-13 19:58:08] ✓ 读取成功 (7492 字符)
+[2025-10-13 19:58:08] ✓ 分析完成: PostgreSQL-specific code review assistant focusing on PostgreSQL best practices, anti-patterns, and unique quality standards. Covers JSONB operations, array usage, custom types, schema design, function optimization, and PostgreSQL-exclusive security features like Row Level Security (RLS).
+[2025-10-13 19:58:08] ✓ 生成mindmap内容 (3113 字符)
+[2025-10-13 19:58:08] ✓ 保存成功: postgresql-code-review.prompt.mindmap.md
+[2025-10-13 19:58:08] ✓ 验证通过
+[2025-10-13 19:58:08] ================================================================================
+[2025-10-13 19:58:08] [Prompts] 正在处理: postgresql-optimization.prompt.md (70/92)
+[2025-10-13 19:58:08] ✓ 读取成功 (11438 字符)
+[2025-10-13 19:58:08] ✓ 分析完成: PostgreSQL-specific development assistant focusing on unique PostgreSQL features, advanced data types, and PostgreSQL-exclusive capabilities. Covers JSONB operations, array types, custom types, range/geometric types, full-text search, window functions, and PostgreSQL extensions ecosystem.
+[2025-10-13 19:58:08] ✓ 生成mindmap内容 (3053 字符)
+[2025-10-13 19:58:08] ✓ 保存成功: postgresql-optimization.prompt.mindmap.md
+[2025-10-13 19:58:08] ✓ 验证通过
+[2025-10-13 19:58:09] ================================================================================
+[2025-10-13 19:58:09] [Prompts] 正在处理: power-apps-code-app-scaffold.prompt.md (71/92)
+[2025-10-13 19:58:09] ✓ 读取成功 (7204 字符)
+[2025-10-13 19:58:09] ✓ 分析完成: Scaffold a complete Power Apps Code App project with PAC CLI setup, SDK integration, and connector configuration
+[2025-10-13 19:58:09] ✓ 生成mindmap内容 (1918 字符)
+[2025-10-13 19:58:09] ✓ 保存成功: power-apps-code-app-scaffold.prompt.mindmap.md
+[2025-10-13 19:58:09] ✓ 验证通过
+[2025-10-13 19:58:09] ================================================================================
+[2025-10-13 19:58:09] [Prompts] 正在处理: power-platform-mcp-connector-suite.prompt.md (72/92)
+[2025-10-13 19:58:09] ✓ 读取成功 (6327 字符)
+[2025-10-13 19:58:09] ✓ 分析完成: Generate complete Power Platform custom connector with MCP integration for Copilot Studio - includes schema generation, troubleshooting, and validation
+[2025-10-13 19:58:09] ✓ 生成mindmap内容 (2460 字符)
+[2025-10-13 19:58:09] ✓ 保存成功: power-platform-mcp-connector-suite.prompt.mindmap.md
+[2025-10-13 19:58:09] ✓ 验证通过
+[2025-10-13 19:58:09] ================================================================================
+[2025-10-13 19:58:09] [Prompts] 正在处理: project-workflow-analysis-blueprint-generator.prompt.md (73/92)
+[2025-10-13 19:58:09] ✓ 读取成功 (10836 字符)
+[2025-10-13 19:58:09] ✓ 分析完成: Comprehensive technology-agnostic prompt generator for documenting end-to-end application workflows. Automatically detects project architecture patterns, technology stacks, and data flow patterns to generate detailed implementation blueprints covering entry points, service layers, data access, error handling, and testing approaches across multiple technologies including .NET, Java/Spring, React, and microservices architectures.
+[2025-10-13 19:58:09] ✓ 生成mindmap内容 (3859 字符)
+[2025-10-13 19:58:09] ✓ 保存成功: project-workflow-analysis-blueprint-generator.prompt.mindmap.md
+[2025-10-13 19:58:09] ✓ 验证通过
+[2025-10-13 19:58:09] ================================================================================
+[2025-10-13 19:58:09] [Prompts] 正在处理: prompt-builder.prompt.md (74/92)
+[2025-10-13 19:58:09] ✓ 读取成功 (6376 字符)
+[2025-10-13 19:58:09] ✓ 分析完成: Guide users through creating high-quality GitHub Copilot prompts with proper structure, tools, and best practices.
+[2025-10-13 19:58:09] ✓ 生成mindmap内容 (2438 字符)
+[2025-10-13 19:58:09] ✓ 保存成功: prompt-builder.prompt.mindmap.md
+[2025-10-13 19:58:09] ✓ 验证通过
+[2025-10-13 19:58:09] ================================================================================
+[2025-10-13 19:58:09] [Prompts] 正在处理: readme-blueprint-generator.prompt.md (75/92)
+[2025-10-13 19:58:09] ✓ 读取成功 (2896 字符)
+[2025-10-13 19:58:09] ✓ 分析完成: Intelligent README.md generation prompt that analyzes project documentation structure and creates comprehensive repository documentation. Scans .github/copilot directory files and copilot-instructions.md to extract project information, technology stack, architecture, development workflow, coding standards, and testing approaches while generating well-structured markdown documentation with proper formatting, cross-references, and developer-focused content.
+[2025-10-13 19:58:09] ✓ 生成mindmap内容 (4088 字符)
+[2025-10-13 19:58:09] ✓ 保存成功: readme-blueprint-generator.prompt.mindmap.md
+[2025-10-13 19:58:09] ✓ 验证通过
+[2025-10-13 19:58:09] ================================================================================
+[2025-10-13 19:58:09] [Prompts] 正在处理: remember-interactive-programming.prompt.md (76/92)
+[2025-10-13 19:58:09] ✓ 读取成功 (882 字符)
+[2025-10-13 19:58:09] ✓ 分析完成: A micro-prompt that reminds the agent that it is an interactive programmer. Works great in Clojure when Copilot has access to the REPL (probably via Backseat Driver). Will work with any system that has a live REPL that the agent can use. Adapt the prompt with any specific reminders in your workflow and/or workspace.
+[2025-10-13 19:58:09] ✓ 生成mindmap内容 (2774 字符)
+[2025-10-13 19:58:09] ✓ 保存成功: remember-interactive-programming.prompt.mindmap.md
+[2025-10-13 19:58:09] ✓ 验证通过
+[2025-10-13 19:58:09] ================================================================================
+[2025-10-13 19:58:09] [Prompts] 正在处理: remember.prompt.md (77/92)
+[2025-10-13 19:58:09] ✓ 读取成功 (6511 字符)
+[2025-10-13 19:58:09] ✓ 分析完成: Transforms lessons learned into domain-organized memory instructions (global or workspace). Syntax: `/remember [>domain [scope]] lesson clue` where scope is `global` (default), `user`, `workspace`, or `ws`.
+[2025-10-13 19:58:09] ✓ 生成mindmap内容 (2474 字符)
+[2025-10-13 19:58:09] ✓ 保存成功: remember.prompt.mindmap.md
+[2025-10-13 19:58:09] ✓ 验证通过
+[2025-10-13 19:58:09] ================================================================================
+[2025-10-13 19:58:09] [Prompts] 正在处理: repo-story-time.prompt.md (78/92)
+[2025-10-13 19:58:09] ✓ 读取成功 (6825 字符)
+[2025-10-13 19:58:09] ✓ 分析完成: Generate a comprehensive repository summary and narrative story from commit history
+[2025-10-13 19:58:09] ✓ 生成mindmap内容 (2045 字符)
+[2025-10-13 19:58:09] ✓ 保存成功: repo-story-time.prompt.mindmap.md
+[2025-10-13 19:58:09] ✓ 验证通过
+[2025-10-13 19:58:09] ================================================================================
+[2025-10-13 19:58:09] [Prompts] 正在处理: review-and-refactor.prompt.md (79/92)
+[2025-10-13 19:58:09] ✓ 读取成功 (758 字符)
+[2025-10-13 19:58:09] ✓ 分析完成: Review and refactor code in your project according to defined instructions
+[2025-10-13 19:58:09] ✓ 生成mindmap内容 (1681 字符)
+[2025-10-13 19:58:09] ✓ 保存成功: review-and-refactor.prompt.mindmap.md
+[2025-10-13 19:58:09] ✓ 验证通过
+[2025-10-13 19:58:10] ================================================================================
+[2025-10-13 19:58:10] [Prompts] 正在处理: sql-code-review.prompt.md (80/92)
+[2025-10-13 19:58:10] ✓ 读取成功 (8988 字符)
+[2025-10-13 19:58:10] ✓ 分析完成: Universal SQL code review assistant that performs comprehensive security, maintainability, and code quality analysis across all SQL databases (MySQL, PostgreSQL, SQL Server, Oracle). Focuses on SQL injection prevention, access control, code standards, and anti-pattern detection. Complements SQL optimization prompt for complete development coverage.
+[2025-10-13 19:58:10] ✓ 生成mindmap内容 (3509 字符)
+[2025-10-13 19:58:10] ✓ 保存成功: sql-code-review.prompt.mindmap.md
+[2025-10-13 19:58:10] ✓ 验证通过
+[2025-10-13 19:58:10] ================================================================================
+[2025-10-13 19:58:10] [Prompts] 正在处理: sql-optimization.prompt.md (81/92)
+[2025-10-13 19:58:10] ✓ 读取成功 (9300 字符)
+[2025-10-13 19:58:10] ✓ 分析完成: Universal SQL performance optimization assistant for comprehensive query tuning, indexing strategies, and database performance analysis across all SQL databases (MySQL, PostgreSQL, SQL Server, Oracle). Provides execution plan analysis, pagination optimization, batch operations, and performance monitoring guidance.
+[2025-10-13 19:58:10] ✓ 生成mindmap内容 (3274 字符)
+[2025-10-13 19:58:10] ✓ 保存成功: sql-optimization.prompt.mindmap.md
+[2025-10-13 19:58:10] ✓ 验证通过
+[2025-10-13 19:58:10] ================================================================================
+[2025-10-13 19:58:10] [Prompts] 正在处理: suggest-awesome-github-copilot-chatmodes.prompt.md (82/92)
+[2025-10-13 19:58:10] ✓ 读取成功 (5076 字符)
+[2025-10-13 19:58:10] ✓ 分析完成: Suggest relevant GitHub Copilot Custom Chat Modes files from the awesome-copilot repository based on current repository context and chat history, avoiding duplicates with existing custom chat modes in this repository.
+[2025-10-13 19:58:10] ✓ 生成mindmap内容 (3412 字符)
+[2025-10-13 19:58:10] ✓ 保存成功: suggest-awesome-github-copilot-chatmodes.prompt.mindmap.md
+[2025-10-13 19:58:10] ✓ 验证通过
+[2025-10-13 19:58:10] ================================================================================
+[2025-10-13 19:58:10] [Prompts] 正在处理: suggest-awesome-github-copilot-collections.prompt.md (83/92)
+[2025-10-13 19:58:10] ✓ 读取成功 (9587 字符)
+[2025-10-13 19:58:10] ✓ 分析完成: Suggest relevant GitHub Copilot collections from the awesome-copilot repository based on current repository context and chat history, providing automatic download and installation of collection assets.
+[2025-10-13 19:58:10] ✓ 生成mindmap内容 (3327 字符)
+[2025-10-13 19:58:10] ✓ 保存成功: suggest-awesome-github-copilot-collections.prompt.mindmap.md
+[2025-10-13 19:58:10] ✓ 验证通过
+[2025-10-13 19:58:10] ================================================================================
+[2025-10-13 19:58:10] [Prompts] 正在处理: suggest-awesome-github-copilot-instructions.prompt.md (84/92)
+[2025-10-13 19:58:10] ✓ 读取成功 (5690 字符)
+[2025-10-13 19:58:10] ✓ 分析完成: Suggest relevant GitHub Copilot instruction files from the awesome-copilot repository based on current repository context and chat history, avoiding duplicates with existing instructions in this repository.
+[2025-10-13 19:58:10] ✓ 生成mindmap内容 (3409 字符)
+[2025-10-13 19:58:10] ✓ 保存成功: suggest-awesome-github-copilot-instructions.prompt.mindmap.md
+[2025-10-13 19:58:10] ✓ 验证通过
+[2025-10-13 19:58:10] ================================================================================
+[2025-10-13 19:58:10] [Prompts] 正在处理: suggest-awesome-github-copilot-prompts.prompt.md (85/92)
+[2025-10-13 19:58:10] ✓ 读取成功 (4579 字符)
+[2025-10-13 19:58:10] ✓ 分析完成: Suggest relevant GitHub Copilot prompt files from the awesome-copilot repository based on current repository context and chat history, avoiding duplicates with existing prompts in this repository.
+[2025-10-13 19:58:10] ✓ 生成mindmap内容 (3213 字符)
+[2025-10-13 19:58:10] ✓ 保存成功: suggest-awesome-github-copilot-prompts.prompt.mindmap.md
+[2025-10-13 19:58:10] ✓ 验证通过
+[2025-10-13 19:58:10] ================================================================================
+[2025-10-13 19:58:10] [Prompts] 正在处理: technology-stack-blueprint-generator.prompt.md (86/92)
+[2025-10-13 19:58:10] ✓ 读取成功 (9814 字符)
+[2025-10-13 19:58:10] ✓ 分析完成: Comprehensive technology stack blueprint generator that analyzes codebases to create detailed architectural documentation. Automatically detects technology stacks, programming languages, and implementation patterns across multiple platforms (.NET, Java, JavaScript, React, Python). Generates configurable blueprints with version information, licensing details, usage patterns, coding conventions, and visual diagrams. Provides implementation-ready templates and maintains architectural consistency for guided development.
+[2025-10-13 19:58:10] ✓ 生成mindmap内容 (4682 字符)
+[2025-10-13 19:58:10] ✓ 保存成功: technology-stack-blueprint-generator.prompt.mindmap.md
+[2025-10-13 19:58:10] ✓ 验证通过
+[2025-10-13 19:58:10] ================================================================================
+[2025-10-13 19:58:10] [Prompts] 正在处理: update-avm-modules-in-bicep.prompt.md (87/92)
+[2025-10-13 19:58:10] ✓ 读取成功 (2387 字符)
+[2025-10-13 19:58:10] ✓ 分析完成: Update Azure Verified Modules (AVM) to latest versions in Bicep files.
+[2025-10-13 19:58:10] ✓ 生成mindmap内容 (2468 字符)
+[2025-10-13 19:58:10] ✓ 保存成功: update-avm-modules-in-bicep.prompt.mindmap.md
+[2025-10-13 19:58:10] ✓ 验证通过
+[2025-10-13 19:58:10] ================================================================================
+[2025-10-13 19:58:10] [Prompts] 正在处理: update-implementation-plan.prompt.md (88/92)
+[2025-10-13 19:58:10] ✓ 读取成功 (6595 字符)
+[2025-10-13 19:58:10] ✓ 分析完成: Update an existing implementation plan file with new or update requirements to provide new features, refactoring existing code or upgrading packages, design, architecture or infrastructure.
+[2025-10-13 19:58:10] ✓ 生成mindmap内容 (2928 字符)
+[2025-10-13 19:58:10] ✓ 保存成功: update-implementation-plan.prompt.mindmap.md
+[2025-10-13 19:58:10] ✓ 验证通过
+[2025-10-13 19:58:11] ================================================================================
+[2025-10-13 19:58:11] [Prompts] 正在处理: update-llms.prompt.md (89/92)
+[2025-10-13 19:58:11] ✓ 读取成功 (8620 字符)
+[2025-10-13 19:58:11] ✓ 分析完成: Update the llms.txt file in the root folder to reflect changes in documentation or specifications following the llms.txt specification at https://llmstxt.org/
+[2025-10-13 19:58:11] ✓ 生成mindmap内容 (2702 字符)
+[2025-10-13 19:58:11] ✓ 保存成功: update-llms.prompt.mindmap.md
+[2025-10-13 19:58:11] ✓ 验证通过
+[2025-10-13 19:58:11] ================================================================================
+[2025-10-13 19:58:11] [Prompts] 正在处理: update-markdown-file-index.prompt.md (90/92)
+[2025-10-13 19:58:11] ✓ 读取成功 (2911 字符)
+[2025-10-13 19:58:11] ✓ 分析完成: Update a markdown file section with an index/table of files from a specified folder.
+[2025-10-13 19:58:11] ✓ 生成mindmap内容 (2454 字符)
+[2025-10-13 19:58:11] ✓ 保存成功: update-markdown-file-index.prompt.mindmap.md
+[2025-10-13 19:58:11] ✓ 验证通过
+[2025-10-13 19:58:11] ================================================================================
+[2025-10-13 19:58:11] [Prompts] 正在处理: update-oo-component-documentation.prompt.md (91/92)
+[2025-10-13 19:58:11] ✓ 读取成功 (7031 字符)
+[2025-10-13 19:58:11] ✓ 分析完成: Update existing object-oriented component documentation following industry best practices and architectural documentation standards.
+[2025-10-13 19:58:11] ✓ 生成mindmap内容 (2121 字符)
+[2025-10-13 19:58:11] ✓ 保存成功: update-oo-component-documentation.prompt.mindmap.md
+[2025-10-13 19:58:11] ✓ 验证通过
+[2025-10-13 19:58:11] ================================================================================
+[2025-10-13 19:58:11] [Prompts] 正在处理: update-specification.prompt.md (92/92)
+[2025-10-13 19:58:11] ✓ 读取成功 (5834 字符)
+[2025-10-13 19:58:11] ✓ 分析完成: Update an existing specification file for the solution, optimized for Generative AI consumption based on new requirements or updates to any existing code.
+[2025-10-13 19:58:11] ✓ 生成mindmap内容 (2342 字符)
+[2025-10-13 19:58:11] ✓ 保存成功: update-specification.prompt.mindmap.md
+[2025-10-13 19:58:11] ✓ 验证通过
+[2025-10-13 19:58:11] 
+================================================================================
+[2025-10-13 19:58:11] 总耗时: 19.66 秒 (0.33 分钟)
+[2025-10-13 19:58:11] ================================================================================
+
+[2025-10-13 19:58:11] 
+
+# Instructions和Prompts Mindmap生成任务完成报告
+
+**执行时间**: 2025-10-13 19:58:11
+
+## 统计数据
+
+### Instructions处理结果
+- 总文件数: 84
+- 成功生成: 84
+- 失败: 0
+- 成功率: 100.0%
+
+### Prompts处理结果
+- 总文件数: 92
+- 成功生成: 92
+- 失败: 0
+- 成功率: 100.0%
+
+### 总计
+- 总文件数: 176
+- 总成功数: 176
+- 总失败数: 0
+- 总成功率: 100.0%
+
+## 失败文件清单
+无失败文件
+
+## 输出位置
+- Instructions Mindmaps: `D:\mycode\awesome-copilot\my-custom\Mind Map\instructions`
+- Prompts Mindmaps: `D:\mycode\awesome-copilot\my-custom\Mind Map\prompts`
+
+## 质量分析
+所有生成的mindmap文件已按照Instructions和Prompts的不同特点进行结构化处理:
+- Instructions: 突出规范性和最佳实践
+- Prompts: 突出工作流程和可执行性
+
+## 建议
+- 建议检查生成的mindmap文件质量
+- 可以根据实际需要调整内容结构
+- Instructions mindmap适合开发规范参考
+- Prompts mindmap适合任务执行指导
+
+[2025-10-13 19:58:11] 
+完整报告已保存到: D:\mycode\awesome-copilot\my-custom\Mind Map\instructions_prompts_generation_report.md

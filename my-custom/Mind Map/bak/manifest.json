@@ -1,0 +1,2216 @@
+[
+  {
+    "id": 1,
+    "srcPath": "prompts\\add-educational-comments.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\add-educational-comments.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:58:25.596Z",
+    "endTime": "2025-10-13T07:58:25.601Z",
+    "error": null
+  },
+  {
+    "id": 3,
+    "srcPath": "prompts\\ai-prompt-engineering-safety-review.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\ai-prompt-engineering-safety-review.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:58:25.603Z",
+    "endTime": "2025-10-13T07:58:25.606Z",
+    "error": null
+  },
+  {
+    "id": 5,
+    "srcPath": "prompts\\architecture-blueprint-generator.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\architecture-blueprint-generator.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:58:25.608Z",
+    "endTime": "2025-10-13T07:58:25.612Z",
+    "error": null
+  },
+  {
+    "id": 7,
+    "srcPath": "prompts\\aspnet-minimal-api-openapi.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\aspnet-minimal-api-openapi.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:58:25.614Z",
+    "endTime": "2025-10-13T07:58:25.619Z",
+    "error": null
+  },
+  {
+    "id": 9,
+    "srcPath": "prompts\\az-cost-optimize.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\az-cost-optimize.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:58:25.620Z",
+    "endTime": "2025-10-13T07:58:25.623Z",
+    "error": null
+  },
+  {
+    "id": 11,
+    "srcPath": "prompts\\azure-resource-health-diagnose.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\azure-resource-health-diagnose.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:58:25.624Z",
+    "endTime": "2025-10-13T07:58:25.627Z",
+    "error": null
+  },
+  {
+    "id": 13,
+    "srcPath": "prompts\\boost-prompt.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\boost-prompt.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:58:25.629Z",
+    "endTime": "2025-10-13T07:58:25.632Z",
+    "error": null
+  },
+  {
+    "id": 15,
+    "srcPath": "prompts\\breakdown-epic-arch.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\breakdown-epic-arch.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:58:25.633Z",
+    "endTime": "2025-10-13T07:58:25.636Z",
+    "error": null
+  },
+  {
+    "id": 17,
+    "srcPath": "prompts\\breakdown-epic-pm.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\breakdown-epic-pm.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:58:25.637Z",
+    "endTime": "2025-10-13T07:58:25.640Z",
+    "error": null
+  },
+  {
+    "id": 19,
+    "srcPath": "prompts\\breakdown-feature-implementation.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\breakdown-feature-implementation.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:58:25.640Z",
+    "endTime": "2025-10-13T07:58:25.643Z",
+    "error": null
+  },
+  {
+    "id": 21,
+    "srcPath": "prompts\\breakdown-feature-prd.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\breakdown-feature-prd.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.535Z",
+    "endTime": "2025-10-13T07:59:44.538Z",
+    "error": null
+  },
+  {
+    "id": 23,
+    "srcPath": "prompts\\breakdown-plan.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\breakdown-plan.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.540Z",
+    "endTime": "2025-10-13T07:59:44.543Z",
+    "error": null
+  },
+  {
+    "id": 25,
+    "srcPath": "prompts\\breakdown-test.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\breakdown-test.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.544Z",
+    "endTime": "2025-10-13T07:59:44.546Z",
+    "error": null
+  },
+  {
+    "id": 27,
+    "srcPath": "prompts\\code-exemplars-blueprint-generator.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\code-exemplars-blueprint-generator.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.548Z",
+    "endTime": "2025-10-13T07:59:44.549Z",
+    "error": null
+  },
+  {
+    "id": 29,
+    "srcPath": "prompts\\comment-code-generate-a-tutorial.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\comment-code-generate-a-tutorial.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.550Z",
+    "endTime": "2025-10-13T07:59:44.553Z",
+    "error": null
+  },
+  {
+    "id": 31,
+    "srcPath": "prompts\\containerize-aspnet-framework.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\containerize-aspnet-framework.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.553Z",
+    "endTime": "2025-10-13T07:59:44.556Z",
+    "error": null
+  },
+  {
+    "id": 33,
+    "srcPath": "prompts\\containerize-aspnetcore.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\containerize-aspnetcore.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.557Z",
+    "endTime": "2025-10-13T07:59:44.559Z",
+    "error": null
+  },
+  {
+    "id": 35,
+    "srcPath": "prompts\\copilot-instructions-blueprint-generator.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\copilot-instructions-blueprint-generator.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.560Z",
+    "endTime": "2025-10-13T07:59:44.563Z",
+    "error": null
+  },
+  {
+    "id": 37,
+    "srcPath": "prompts\\cosmosdb-datamodeling.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\cosmosdb-datamodeling.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.564Z",
+    "endTime": "2025-10-13T07:59:44.567Z",
+    "error": null
+  },
+  {
+    "id": 39,
+    "srcPath": "prompts\\create-agentsmd.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\create-agentsmd.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.568Z",
+    "endTime": "2025-10-13T07:59:44.571Z",
+    "error": null
+  },
+  {
+    "id": 41,
+    "srcPath": "prompts\\create-architectural-decision-record.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\create-architectural-decision-record.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.573Z",
+    "endTime": "2025-10-13T07:59:44.576Z",
+    "error": null
+  },
+  {
+    "id": 43,
+    "srcPath": "prompts\\create-github-action-workflow-specification.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\create-github-action-workflow-specification.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.578Z",
+    "endTime": "2025-10-13T07:59:44.582Z",
+    "error": null
+  },
+  {
+    "id": 45,
+    "srcPath": "prompts\\create-github-issue-feature-from-specification.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\create-github-issue-feature-from-specification.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.583Z",
+    "endTime": "2025-10-13T07:59:44.586Z",
+    "error": null
+  },
+  {
+    "id": 47,
+    "srcPath": "prompts\\create-github-issues-feature-from-implementation-plan.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\create-github-issues-feature-from-implementation-plan.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.587Z",
+    "endTime": "2025-10-13T07:59:44.590Z",
+    "error": null
+  },
+  {
+    "id": 49,
+    "srcPath": "prompts\\create-github-issues-for-unmet-specification-requirements.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\create-github-issues-for-unmet-specification-requirements.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.592Z",
+    "endTime": "2025-10-13T07:59:44.595Z",
+    "error": null
+  },
+  {
+    "id": 51,
+    "srcPath": "prompts\\create-github-pull-request-from-specification.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\create-github-pull-request-from-specification.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.597Z",
+    "endTime": "2025-10-13T07:59:44.599Z",
+    "error": null
+  },
+  {
+    "id": 53,
+    "srcPath": "prompts\\create-implementation-plan.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\create-implementation-plan.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.600Z",
+    "endTime": "2025-10-13T07:59:44.603Z",
+    "error": null
+  },
+  {
+    "id": 55,
+    "srcPath": "prompts\\create-llms.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\create-llms.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.614Z",
+    "endTime": "2025-10-13T07:59:44.623Z",
+    "error": null
+  },
+  {
+    "id": 57,
+    "srcPath": "prompts\\create-oo-component-documentation.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\create-oo-component-documentation.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.625Z",
+    "endTime": "2025-10-13T07:59:44.629Z",
+    "error": null
+  },
+  {
+    "id": 59,
+    "srcPath": "prompts\\create-readme.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\create-readme.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.631Z",
+    "endTime": "2025-10-13T07:59:44.635Z",
+    "error": null
+  },
+  {
+    "id": 61,
+    "srcPath": "prompts\\create-specification.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\create-specification.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.638Z",
+    "endTime": "2025-10-13T07:59:44.642Z",
+    "error": null
+  },
+  {
+    "id": 63,
+    "srcPath": "prompts\\create-spring-boot-java-project.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\create-spring-boot-java-project.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.644Z",
+    "endTime": "2025-10-13T07:59:44.648Z",
+    "error": null
+  },
+  {
+    "id": 65,
+    "srcPath": "prompts\\create-spring-boot-kotlin-project.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\create-spring-boot-kotlin-project.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.649Z",
+    "endTime": "2025-10-13T07:59:44.653Z",
+    "error": null
+  },
+  {
+    "id": 67,
+    "srcPath": "prompts\\create-technical-spike.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\create-technical-spike.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.654Z",
+    "endTime": "2025-10-13T07:59:44.657Z",
+    "error": null
+  },
+  {
+    "id": 69,
+    "srcPath": "prompts\\csharp-async.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\csharp-async.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.658Z",
+    "endTime": "2025-10-13T07:59:44.661Z",
+    "error": null
+  },
+  {
+    "id": 71,
+    "srcPath": "prompts\\csharp-docs.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\csharp-docs.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.662Z",
+    "endTime": "2025-10-13T07:59:44.664Z",
+    "error": null
+  },
+  {
+    "id": 73,
+    "srcPath": "prompts\\csharp-mstest.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\csharp-mstest.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.665Z",
+    "endTime": "2025-10-13T07:59:44.667Z",
+    "error": null
+  },
+  {
+    "id": 75,
+    "srcPath": "prompts\\csharp-nunit.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\csharp-nunit.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.669Z",
+    "endTime": "2025-10-13T07:59:44.675Z",
+    "error": null
+  },
+  {
+    "id": 77,
+    "srcPath": "prompts\\csharp-tunit.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\csharp-tunit.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.676Z",
+    "endTime": "2025-10-13T07:59:44.681Z",
+    "error": null
+  },
+  {
+    "id": 79,
+    "srcPath": "prompts\\csharp-xunit.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\csharp-xunit.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.682Z",
+    "endTime": "2025-10-13T07:59:44.685Z",
+    "error": null
+  },
+  {
+    "id": 81,
+    "srcPath": "prompts\\declarative-agents.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\declarative-agents.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.686Z",
+    "endTime": "2025-10-13T07:59:44.687Z",
+    "error": null
+  },
+  {
+    "id": 83,
+    "srcPath": "prompts\\documentation-writer.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\documentation-writer.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.688Z",
+    "endTime": "2025-10-13T07:59:44.690Z",
+    "error": null
+  },
+  {
+    "id": 85,
+    "srcPath": "prompts\\dotnet-best-practices.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\dotnet-best-practices.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.690Z",
+    "endTime": "2025-10-13T07:59:44.692Z",
+    "error": null
+  },
+  {
+    "id": 87,
+    "srcPath": "prompts\\dotnet-design-pattern-review.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\dotnet-design-pattern-review.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.693Z",
+    "endTime": "2025-10-13T07:59:44.695Z",
+    "error": null
+  },
+  {
+    "id": 89,
+    "srcPath": "prompts\\editorconfig.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\editorconfig.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.697Z",
+    "endTime": "2025-10-13T07:59:44.699Z",
+    "error": null
+  },
+  {
+    "id": 91,
+    "srcPath": "prompts\\ef-core.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\ef-core.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.700Z",
+    "endTime": "2025-10-13T07:59:44.702Z",
+    "error": null
+  },
+  {
+    "id": 93,
+    "srcPath": "prompts\\first-ask.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\first-ask.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.703Z",
+    "endTime": "2025-10-13T07:59:44.704Z",
+    "error": null
+  },
+  {
+    "id": 95,
+    "srcPath": "prompts\\folder-structure-blueprint-generator.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\folder-structure-blueprint-generator.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.705Z",
+    "endTime": "2025-10-13T07:59:44.707Z",
+    "error": null
+  },
+  {
+    "id": 97,
+    "srcPath": "prompts\\gen-specs-as-issues.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\gen-specs-as-issues.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.707Z",
+    "endTime": "2025-10-13T07:59:44.709Z",
+    "error": null
+  },
+  {
+    "id": 99,
+    "srcPath": "prompts\\generate-custom-instructions-from-codebase.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\generate-custom-instructions-from-codebase.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.710Z",
+    "endTime": "2025-10-13T07:59:44.712Z",
+    "error": null
+  },
+  {
+    "id": 101,
+    "srcPath": "prompts\\git-flow-branch-creator.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\git-flow-branch-creator.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.713Z",
+    "endTime": "2025-10-13T07:59:44.715Z",
+    "error": null
+  },
+  {
+    "id": 103,
+    "srcPath": "prompts\\github-copilot-starter.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\github-copilot-starter.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.716Z",
+    "endTime": "2025-10-13T07:59:44.718Z",
+    "error": null
+  },
+  {
+    "id": 105,
+    "srcPath": "prompts\\java-docs.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\java-docs.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.719Z",
+    "endTime": "2025-10-13T07:59:44.721Z",
+    "error": null
+  },
+  {
+    "id": 107,
+    "srcPath": "prompts\\java-junit.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\java-junit.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.722Z",
+    "endTime": "2025-10-13T07:59:44.724Z",
+    "error": null
+  },
+  {
+    "id": 109,
+    "srcPath": "prompts\\java-refactoring-extract-method.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\java-refactoring-extract-method.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.725Z",
+    "endTime": "2025-10-13T07:59:44.727Z",
+    "error": null
+  },
+  {
+    "id": 111,
+    "srcPath": "prompts\\java-springboot.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\java-springboot.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.728Z",
+    "endTime": "2025-10-13T07:59:44.731Z",
+    "error": null
+  },
+  {
+    "id": 113,
+    "srcPath": "prompts\\javascript-typescript-jest.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\javascript-typescript-jest.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.732Z",
+    "endTime": "2025-10-13T07:59:44.734Z",
+    "error": null
+  },
+  {
+    "id": 115,
+    "srcPath": "prompts\\kotlin-springboot.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\kotlin-springboot.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.734Z",
+    "endTime": "2025-10-13T07:59:44.736Z",
+    "error": null
+  },
+  {
+    "id": 117,
+    "srcPath": "prompts\\mcp-copilot-studio-server-generator.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\mcp-copilot-studio-server-generator.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.737Z",
+    "endTime": "2025-10-13T07:59:44.738Z",
+    "error": null
+  },
+  {
+    "id": 119,
+    "srcPath": "prompts\\memory-merger.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\memory-merger.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T07:59:44.739Z",
+    "endTime": "2025-10-13T07:59:44.740Z",
+    "error": null
+  },
+  {
+    "id": 121,
+    "srcPath": "prompts\\mkdocs-translations.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\mkdocs-translations.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.182Z",
+    "endTime": "2025-10-13T08:02:07.191Z",
+    "error": null
+  },
+  {
+    "id": 123,
+    "srcPath": "prompts\\multi-stage-dockerfile.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\multi-stage-dockerfile.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.193Z",
+    "endTime": "2025-10-13T08:02:07.198Z",
+    "error": null
+  },
+  {
+    "id": 125,
+    "srcPath": "prompts\\my-issues.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\my-issues.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.199Z",
+    "endTime": "2025-10-13T08:02:07.203Z",
+    "error": null
+  },
+  {
+    "id": 127,
+    "srcPath": "prompts\\my-pull-requests.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\my-pull-requests.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.204Z",
+    "endTime": "2025-10-13T08:02:07.217Z",
+    "error": null
+  },
+  {
+    "id": 129,
+    "srcPath": "prompts\\next-intl-add-language.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\next-intl-add-language.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.220Z",
+    "endTime": "2025-10-13T08:02:07.226Z",
+    "error": null
+  },
+  {
+    "id": 131,
+    "srcPath": "prompts\\playwright-automation-fill-in-form.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\playwright-automation-fill-in-form.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.229Z",
+    "endTime": "2025-10-13T08:02:07.235Z",
+    "error": null
+  },
+  {
+    "id": 133,
+    "srcPath": "prompts\\playwright-explore-website.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\playwright-explore-website.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.237Z",
+    "endTime": "2025-10-13T08:02:07.240Z",
+    "error": null
+  },
+  {
+    "id": 135,
+    "srcPath": "prompts\\playwright-generate-test.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\playwright-generate-test.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.243Z",
+    "endTime": "2025-10-13T08:02:07.248Z",
+    "error": null
+  },
+  {
+    "id": 137,
+    "srcPath": "prompts\\postgresql-code-review.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\postgresql-code-review.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.250Z",
+    "endTime": "2025-10-13T08:02:07.254Z",
+    "error": null
+  },
+  {
+    "id": 139,
+    "srcPath": "prompts\\postgresql-optimization.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\postgresql-optimization.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.256Z",
+    "endTime": "2025-10-13T08:02:07.265Z",
+    "error": null
+  },
+  {
+    "id": 141,
+    "srcPath": "prompts\\power-apps-code-app-scaffold.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\power-apps-code-app-scaffold.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.266Z",
+    "endTime": "2025-10-13T08:02:07.270Z",
+    "error": null
+  },
+  {
+    "id": 143,
+    "srcPath": "prompts\\power-platform-mcp-connector-suite.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\power-platform-mcp-connector-suite.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.271Z",
+    "endTime": "2025-10-13T08:02:07.274Z",
+    "error": null
+  },
+  {
+    "id": 145,
+    "srcPath": "prompts\\project-workflow-analysis-blueprint-generator.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\project-workflow-analysis-blueprint-generator.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.276Z",
+    "endTime": "2025-10-13T08:02:07.287Z",
+    "error": null
+  },
+  {
+    "id": 147,
+    "srcPath": "prompts\\prompt-builder.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\prompt-builder.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.290Z",
+    "endTime": "2025-10-13T08:02:07.293Z",
+    "error": null
+  },
+  {
+    "id": 149,
+    "srcPath": "prompts\\readme-blueprint-generator.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\readme-blueprint-generator.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.295Z",
+    "endTime": "2025-10-13T08:02:07.298Z",
+    "error": null
+  },
+  {
+    "id": 151,
+    "srcPath": "prompts\\remember-interactive-programming.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\remember-interactive-programming.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.300Z",
+    "endTime": "2025-10-13T08:02:07.303Z",
+    "error": null
+  },
+  {
+    "id": 153,
+    "srcPath": "prompts\\remember.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\remember.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.304Z",
+    "endTime": "2025-10-13T08:02:07.306Z",
+    "error": null
+  },
+  {
+    "id": 155,
+    "srcPath": "prompts\\repo-story-time.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\repo-story-time.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.307Z",
+    "endTime": "2025-10-13T08:02:07.310Z",
+    "error": null
+  },
+  {
+    "id": 157,
+    "srcPath": "prompts\\review-and-refactor.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\review-and-refactor.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.311Z",
+    "endTime": "2025-10-13T08:02:07.316Z",
+    "error": null
+  },
+  {
+    "id": 159,
+    "srcPath": "prompts\\sql-code-review.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\sql-code-review.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.317Z",
+    "endTime": "2025-10-13T08:02:07.320Z",
+    "error": null
+  },
+  {
+    "id": 161,
+    "srcPath": "prompts\\sql-optimization.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\sql-optimization.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.321Z",
+    "endTime": "2025-10-13T08:02:07.324Z",
+    "error": null
+  },
+  {
+    "id": 163,
+    "srcPath": "prompts\\suggest-awesome-github-copilot-chatmodes.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\suggest-awesome-github-copilot-chatmodes.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.325Z",
+    "endTime": "2025-10-13T08:02:07.328Z",
+    "error": null
+  },
+  {
+    "id": 165,
+    "srcPath": "prompts\\suggest-awesome-github-copilot-collections.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\suggest-awesome-github-copilot-collections.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.330Z",
+    "endTime": "2025-10-13T08:02:07.334Z",
+    "error": null
+  },
+  {
+    "id": 167,
+    "srcPath": "prompts\\suggest-awesome-github-copilot-instructions.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\suggest-awesome-github-copilot-instructions.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.335Z",
+    "endTime": "2025-10-13T08:02:07.338Z",
+    "error": null
+  },
+  {
+    "id": 169,
+    "srcPath": "prompts\\suggest-awesome-github-copilot-prompts.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\suggest-awesome-github-copilot-prompts.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.339Z",
+    "endTime": "2025-10-13T08:02:07.341Z",
+    "error": null
+  },
+  {
+    "id": 171,
+    "srcPath": "prompts\\technology-stack-blueprint-generator.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\technology-stack-blueprint-generator.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.342Z",
+    "endTime": "2025-10-13T08:02:07.348Z",
+    "error": null
+  },
+  {
+    "id": 173,
+    "srcPath": "prompts\\update-avm-modules-in-bicep.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\update-avm-modules-in-bicep.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.349Z",
+    "endTime": "2025-10-13T08:02:07.352Z",
+    "error": null
+  },
+  {
+    "id": 175,
+    "srcPath": "prompts\\update-implementation-plan.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\update-implementation-plan.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.354Z",
+    "endTime": "2025-10-13T08:02:07.356Z",
+    "error": null
+  },
+  {
+    "id": 177,
+    "srcPath": "prompts\\update-llms.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\update-llms.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.357Z",
+    "endTime": "2025-10-13T08:02:07.360Z",
+    "error": null
+  },
+  {
+    "id": 179,
+    "srcPath": "prompts\\update-markdown-file-index.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\update-markdown-file-index.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.362Z",
+    "endTime": "2025-10-13T08:02:07.366Z",
+    "error": null
+  },
+  {
+    "id": 181,
+    "srcPath": "prompts\\update-oo-component-documentation.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\update-oo-component-documentation.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.367Z",
+    "endTime": "2025-10-13T08:02:07.369Z",
+    "error": null
+  },
+  {
+    "id": 183,
+    "srcPath": "prompts\\update-specification.prompt.md",
+    "outPath": "my-custom\\Mind Map\\prompts\\update-specification.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.370Z",
+    "endTime": "2025-10-13T08:02:07.373Z",
+    "error": null
+  },
+  {
+    "id": 185,
+    "srcPath": "chatmodes\\4.1-Beast.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\4.1-Beast.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.374Z",
+    "endTime": "2025-10-13T08:02:07.377Z",
+    "error": null
+  },
+  {
+    "id": 187,
+    "srcPath": "chatmodes\\accesibility.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\accesibility.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.379Z",
+    "endTime": "2025-10-13T08:02:07.382Z",
+    "error": null
+  },
+  {
+    "id": 189,
+    "srcPath": "chatmodes\\address-comments.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\address-comments.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.383Z",
+    "endTime": "2025-10-13T08:02:07.387Z",
+    "error": null
+  },
+  {
+    "id": 191,
+    "srcPath": "chatmodes\\api-architect.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\api-architect.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.388Z",
+    "endTime": "2025-10-13T08:02:07.391Z",
+    "error": null
+  },
+  {
+    "id": 193,
+    "srcPath": "chatmodes\\atlassian-requirements-to-jira.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\atlassian-requirements-to-jira.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.392Z",
+    "endTime": "2025-10-13T08:02:07.394Z",
+    "error": null
+  },
+  {
+    "id": 195,
+    "srcPath": "chatmodes\\azure-logic-apps-expert.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\azure-logic-apps-expert.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.396Z",
+    "endTime": "2025-10-13T08:02:07.399Z",
+    "error": null
+  },
+  {
+    "id": 197,
+    "srcPath": "chatmodes\\azure-principal-architect.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\azure-principal-architect.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.401Z",
+    "endTime": "2025-10-13T08:02:07.403Z",
+    "error": null
+  },
+  {
+    "id": 199,
+    "srcPath": "chatmodes\\azure-saas-architect.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\azure-saas-architect.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.404Z",
+    "endTime": "2025-10-13T08:02:07.407Z",
+    "error": null
+  },
+  {
+    "id": 201,
+    "srcPath": "chatmodes\\azure-verified-modules-bicep.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\azure-verified-modules-bicep.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.408Z",
+    "endTime": "2025-10-13T08:02:07.410Z",
+    "error": null
+  },
+  {
+    "id": 203,
+    "srcPath": "chatmodes\\azure-verified-modules-terraform.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\azure-verified-modules-terraform.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.411Z",
+    "endTime": "2025-10-13T08:02:07.416Z",
+    "error": null
+  },
+  {
+    "id": 205,
+    "srcPath": "chatmodes\\bicep-implement.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\bicep-implement.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.417Z",
+    "endTime": "2025-10-13T08:02:07.420Z",
+    "error": null
+  },
+  {
+    "id": 207,
+    "srcPath": "chatmodes\\bicep-plan.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\bicep-plan.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.421Z",
+    "endTime": "2025-10-13T08:02:07.423Z",
+    "error": null
+  },
+  {
+    "id": 209,
+    "srcPath": "chatmodes\\blueprint-mode-codex.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\blueprint-mode-codex.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.423Z",
+    "endTime": "2025-10-13T08:02:07.426Z",
+    "error": null
+  },
+  {
+    "id": 211,
+    "srcPath": "chatmodes\\blueprint-mode.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\blueprint-mode.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.427Z",
+    "endTime": "2025-10-13T08:02:07.432Z",
+    "error": null
+  },
+  {
+    "id": 213,
+    "srcPath": "chatmodes\\clojure-interactive-programming.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\clojure-interactive-programming.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.433Z",
+    "endTime": "2025-10-13T08:02:07.436Z",
+    "error": null
+  },
+  {
+    "id": 215,
+    "srcPath": "chatmodes\\code-tour.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\code-tour.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.439Z",
+    "endTime": "2025-10-13T08:02:07.442Z",
+    "error": null
+  },
+  {
+    "id": 217,
+    "srcPath": "chatmodes\\critical-thinking.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\critical-thinking.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.443Z",
+    "endTime": "2025-10-13T08:02:07.446Z",
+    "error": null
+  },
+  {
+    "id": 219,
+    "srcPath": "chatmodes\\csharp-dotnet-janitor.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\csharp-dotnet-janitor.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:02:07.448Z",
+    "endTime": "2025-10-13T08:02:07.451Z",
+    "error": null
+  },
+  {
+    "id": 221,
+    "srcPath": "chatmodes\\debug.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\debug.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.843Z",
+    "endTime": "2025-10-13T08:04:51.852Z",
+    "error": null
+  },
+  {
+    "id": 223,
+    "srcPath": "chatmodes\\declarative-agents-architect.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\declarative-agents-architect.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.856Z",
+    "endTime": "2025-10-13T08:04:51.866Z",
+    "error": null
+  },
+  {
+    "id": 225,
+    "srcPath": "chatmodes\\demonstrate-understanding.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\demonstrate-understanding.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.869Z",
+    "endTime": "2025-10-13T08:04:51.881Z",
+    "error": null
+  },
+  {
+    "id": 227,
+    "srcPath": "chatmodes\\electron-angular-native.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\electron-angular-native.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.884Z",
+    "endTime": "2025-10-13T08:04:51.890Z",
+    "error": null
+  },
+  {
+    "id": 229,
+    "srcPath": "chatmodes\\expert-cpp-software-engineer.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\expert-cpp-software-engineer.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.891Z",
+    "endTime": "2025-10-13T08:04:51.896Z",
+    "error": null
+  },
+  {
+    "id": 231,
+    "srcPath": "chatmodes\\expert-dotnet-software-engineer.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\expert-dotnet-software-engineer.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.898Z",
+    "endTime": "2025-10-13T08:04:51.904Z",
+    "error": null
+  },
+  {
+    "id": 233,
+    "srcPath": "chatmodes\\expert-react-frontend-engineer.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\expert-react-frontend-engineer.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.906Z",
+    "endTime": "2025-10-13T08:04:51.910Z",
+    "error": null
+  },
+  {
+    "id": 235,
+    "srcPath": "chatmodes\\gilfoyle.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\gilfoyle.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.911Z",
+    "endTime": "2025-10-13T08:04:51.917Z",
+    "error": null
+  },
+  {
+    "id": 237,
+    "srcPath": "chatmodes\\hlbpa.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\hlbpa.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.918Z",
+    "endTime": "2025-10-13T08:04:51.926Z",
+    "error": null
+  },
+  {
+    "id": 239,
+    "srcPath": "chatmodes\\implementation-plan.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\implementation-plan.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.927Z",
+    "endTime": "2025-10-13T08:04:51.931Z",
+    "error": null
+  },
+  {
+    "id": 241,
+    "srcPath": "chatmodes\\janitor.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\janitor.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.932Z",
+    "endTime": "2025-10-13T08:04:51.935Z",
+    "error": null
+  },
+  {
+    "id": 243,
+    "srcPath": "chatmodes\\kusto-assistant.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\kusto-assistant.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.935Z",
+    "endTime": "2025-10-13T08:04:51.939Z",
+    "error": null
+  },
+  {
+    "id": 245,
+    "srcPath": "chatmodes\\mentor.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\mentor.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.940Z",
+    "endTime": "2025-10-13T08:04:51.943Z",
+    "error": null
+  },
+  {
+    "id": 247,
+    "srcPath": "chatmodes\\meta-agentic-project-scaffold.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\meta-agentic-project-scaffold.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.944Z",
+    "endTime": "2025-10-13T08:04:51.947Z",
+    "error": null
+  },
+  {
+    "id": 249,
+    "srcPath": "chatmodes\\microsoft-study-mode.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\microsoft-study-mode.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.948Z",
+    "endTime": "2025-10-13T08:04:51.951Z",
+    "error": null
+  },
+  {
+    "id": 251,
+    "srcPath": "chatmodes\\microsoft_learn_contributor.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\microsoft_learn_contributor.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.952Z",
+    "endTime": "2025-10-13T08:04:51.954Z",
+    "error": null
+  },
+  {
+    "id": 253,
+    "srcPath": "chatmodes\\ms-sql-dba.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\ms-sql-dba.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.955Z",
+    "endTime": "2025-10-13T08:04:51.957Z",
+    "error": null
+  },
+  {
+    "id": 255,
+    "srcPath": "chatmodes\\plan.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\plan.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.958Z",
+    "endTime": "2025-10-13T08:04:51.960Z",
+    "error": null
+  },
+  {
+    "id": 257,
+    "srcPath": "chatmodes\\planner.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\planner.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.961Z",
+    "endTime": "2025-10-13T08:04:51.965Z",
+    "error": null
+  },
+  {
+    "id": 259,
+    "srcPath": "chatmodes\\playwright-tester.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\playwright-tester.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.966Z",
+    "endTime": "2025-10-13T08:04:51.969Z",
+    "error": null
+  },
+  {
+    "id": 261,
+    "srcPath": "chatmodes\\postgresql-dba.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\postgresql-dba.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.970Z",
+    "endTime": "2025-10-13T08:04:51.975Z",
+    "error": null
+  },
+  {
+    "id": 263,
+    "srcPath": "chatmodes\\power-platform-expert.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\power-platform-expert.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.976Z",
+    "endTime": "2025-10-13T08:04:51.983Z",
+    "error": null
+  },
+  {
+    "id": 265,
+    "srcPath": "chatmodes\\power-platform-mcp-integration-expert.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\power-platform-mcp-integration-expert.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.984Z",
+    "endTime": "2025-10-13T08:04:51.987Z",
+    "error": null
+  },
+  {
+    "id": 267,
+    "srcPath": "chatmodes\\prd.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\prd.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.988Z",
+    "endTime": "2025-10-13T08:04:51.990Z",
+    "error": null
+  },
+  {
+    "id": 269,
+    "srcPath": "chatmodes\\principal-software-engineer.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\principal-software-engineer.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.991Z",
+    "endTime": "2025-10-13T08:04:51.995Z",
+    "error": null
+  },
+  {
+    "id": 271,
+    "srcPath": "chatmodes\\prompt-builder.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\prompt-builder.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:51.996Z",
+    "endTime": "2025-10-13T08:04:51.999Z",
+    "error": null
+  },
+  {
+    "id": 273,
+    "srcPath": "chatmodes\\prompt-engineer.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\prompt-engineer.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:52.000Z",
+    "endTime": "2025-10-13T08:04:52.003Z",
+    "error": null
+  },
+  {
+    "id": 275,
+    "srcPath": "chatmodes\\refine-issue.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\refine-issue.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:52.004Z",
+    "endTime": "2025-10-13T08:04:52.007Z",
+    "error": null
+  },
+  {
+    "id": 277,
+    "srcPath": "chatmodes\\research-technical-spike.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\research-technical-spike.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:52.007Z",
+    "endTime": "2025-10-13T08:04:52.010Z",
+    "error": null
+  },
+  {
+    "id": 279,
+    "srcPath": "chatmodes\\rust-gpt-4.1-beast-mode.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\rust-gpt-4.1-beast-mode.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:52.010Z",
+    "endTime": "2025-10-13T08:04:52.018Z",
+    "error": null
+  },
+  {
+    "id": 281,
+    "srcPath": "chatmodes\\semantic-kernel-dotnet.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\semantic-kernel-dotnet.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:52.019Z",
+    "endTime": "2025-10-13T08:04:52.024Z",
+    "error": null
+  },
+  {
+    "id": 283,
+    "srcPath": "chatmodes\\semantic-kernel-python.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\semantic-kernel-python.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:52.024Z",
+    "endTime": "2025-10-13T08:04:52.031Z",
+    "error": null
+  },
+  {
+    "id": 285,
+    "srcPath": "chatmodes\\simple-app-idea-generator.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\simple-app-idea-generator.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:52.032Z",
+    "endTime": "2025-10-13T08:04:52.038Z",
+    "error": null
+  },
+  {
+    "id": 287,
+    "srcPath": "chatmodes\\software-engineer-agent-v1.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\software-engineer-agent-v1.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:52.039Z",
+    "endTime": "2025-10-13T08:04:52.047Z",
+    "error": null
+  },
+  {
+    "id": 289,
+    "srcPath": "chatmodes\\specification.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\specification.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:52.048Z",
+    "endTime": "2025-10-13T08:04:52.051Z",
+    "error": null
+  },
+  {
+    "id": 291,
+    "srcPath": "chatmodes\\task-planner.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\task-planner.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:52.052Z",
+    "endTime": "2025-10-13T08:04:52.056Z",
+    "error": null
+  },
+  {
+    "id": 293,
+    "srcPath": "chatmodes\\task-researcher.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\task-researcher.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:52.057Z",
+    "endTime": "2025-10-13T08:04:52.061Z",
+    "error": null
+  },
+  {
+    "id": 295,
+    "srcPath": "chatmodes\\tdd-green.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\tdd-green.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:52.061Z",
+    "endTime": "2025-10-13T08:04:52.070Z",
+    "error": null
+  },
+  {
+    "id": 297,
+    "srcPath": "chatmodes\\tdd-red.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\tdd-red.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:52.071Z",
+    "endTime": "2025-10-13T08:04:52.076Z",
+    "error": null
+  },
+  {
+    "id": 299,
+    "srcPath": "chatmodes\\tdd-refactor.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\tdd-refactor.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:52.077Z",
+    "endTime": "2025-10-13T08:04:52.083Z",
+    "error": null
+  },
+  {
+    "id": 301,
+    "srcPath": "chatmodes\\tech-debt-remediation-plan.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\tech-debt-remediation-plan.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:52.083Z",
+    "endTime": "2025-10-13T08:04:52.090Z",
+    "error": null
+  },
+  {
+    "id": 303,
+    "srcPath": "chatmodes\\terraform-azure-implement.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\terraform-azure-implement.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:52.092Z",
+    "endTime": "2025-10-13T08:04:52.097Z",
+    "error": null
+  },
+  {
+    "id": 305,
+    "srcPath": "chatmodes\\terraform-azure-planning.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\terraform-azure-planning.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:52.098Z",
+    "endTime": "2025-10-13T08:04:52.101Z",
+    "error": null
+  },
+  {
+    "id": 307,
+    "srcPath": "chatmodes\\Thinking-Beast-Mode.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\Thinking-Beast-Mode.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:52.102Z",
+    "endTime": "2025-10-13T08:04:52.109Z",
+    "error": null
+  },
+  {
+    "id": 309,
+    "srcPath": "chatmodes\\Ultimate-Transparent-Thinking-Beast-Mode.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\Ultimate-Transparent-Thinking-Beast-Mode.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:52.110Z",
+    "endTime": "2025-10-13T08:04:52.118Z",
+    "error": null
+  },
+  {
+    "id": 311,
+    "srcPath": "chatmodes\\voidbeast-gpt41enhanced.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\voidbeast-gpt41enhanced.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:52.118Z",
+    "endTime": "2025-10-13T08:04:52.122Z",
+    "error": null
+  },
+  {
+    "id": 313,
+    "srcPath": "chatmodes\\wg-code-alchemist.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\wg-code-alchemist.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:52.123Z",
+    "endTime": "2025-10-13T08:04:52.127Z",
+    "error": null
+  },
+  {
+    "id": 315,
+    "srcPath": "chatmodes\\wg-code-sentinel.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\wg-code-sentinel.chatmode.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:52.129Z",
+    "endTime": "2025-10-13T08:04:52.137Z",
+    "error": null
+  },
+  {
+    "id": 317,
+    "srcPath": "instructions\\a11y.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\a11y.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:52.138Z",
+    "endTime": "2025-10-13T08:04:52.143Z",
+    "error": null
+  },
+  {
+    "id": 319,
+    "srcPath": "instructions\\ai-prompt-engineering-safety-best-practices.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\ai-prompt-engineering-safety-best-practices.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:04:52.144Z",
+    "endTime": "2025-10-13T08:04:52.150Z",
+    "error": null
+  },
+  {
+    "id": 321,
+    "srcPath": "instructions\\angular.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\angular.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.280Z",
+    "endTime": "2025-10-13T08:08:02.284Z",
+    "error": null
+  },
+  {
+    "id": 323,
+    "srcPath": "instructions\\ansible.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\ansible.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.285Z",
+    "endTime": "2025-10-13T08:08:02.287Z",
+    "error": null
+  },
+  {
+    "id": 325,
+    "srcPath": "instructions\\aspnet-rest-apis.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\aspnet-rest-apis.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.288Z",
+    "endTime": "2025-10-13T08:08:02.290Z",
+    "error": null
+  },
+  {
+    "id": 327,
+    "srcPath": "instructions\\astro.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\astro.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.291Z",
+    "endTime": "2025-10-13T08:08:02.294Z",
+    "error": null
+  },
+  {
+    "id": 329,
+    "srcPath": "instructions\\azure-devops-pipelines.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\azure-devops-pipelines.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.295Z",
+    "endTime": "2025-10-13T08:08:02.297Z",
+    "error": null
+  },
+  {
+    "id": 331,
+    "srcPath": "instructions\\azure-functions-typescript.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\azure-functions-typescript.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.297Z",
+    "endTime": "2025-10-13T08:08:02.300Z",
+    "error": null
+  },
+  {
+    "id": 333,
+    "srcPath": "instructions\\azure-logic-apps-power-automate.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\azure-logic-apps-power-automate.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.301Z",
+    "endTime": "2025-10-13T08:08:02.304Z",
+    "error": null
+  },
+  {
+    "id": 335,
+    "srcPath": "instructions\\azure-verified-modules-terraform.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\azure-verified-modules-terraform.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.304Z",
+    "endTime": "2025-10-13T08:08:02.306Z",
+    "error": null
+  },
+  {
+    "id": 337,
+    "srcPath": "instructions\\bicep-code-best-practices.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\bicep-code-best-practices.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.307Z",
+    "endTime": "2025-10-13T08:08:02.310Z",
+    "error": null
+  },
+  {
+    "id": 339,
+    "srcPath": "instructions\\blazor.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\blazor.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.311Z",
+    "endTime": "2025-10-13T08:08:02.313Z",
+    "error": null
+  },
+  {
+    "id": 341,
+    "srcPath": "instructions\\clojure.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\clojure.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.314Z",
+    "endTime": "2025-10-13T08:08:02.317Z",
+    "error": null
+  },
+  {
+    "id": 343,
+    "srcPath": "instructions\\cmake-vcpkg.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\cmake-vcpkg.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.318Z",
+    "endTime": "2025-10-13T08:08:02.320Z",
+    "error": null
+  },
+  {
+    "id": 345,
+    "srcPath": "instructions\\coldfusion-cfc.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\coldfusion-cfc.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.321Z",
+    "endTime": "2025-10-13T08:08:02.323Z",
+    "error": null
+  },
+  {
+    "id": 347,
+    "srcPath": "instructions\\coldfusion-cfm.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\coldfusion-cfm.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.323Z",
+    "endTime": "2025-10-13T08:08:02.326Z",
+    "error": null
+  },
+  {
+    "id": 349,
+    "srcPath": "instructions\\collections.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\collections.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.327Z",
+    "endTime": "2025-10-13T08:08:02.329Z",
+    "error": null
+  },
+  {
+    "id": 351,
+    "srcPath": "instructions\\containerization-docker-best-practices.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\containerization-docker-best-practices.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.330Z",
+    "endTime": "2025-10-13T08:08:02.333Z",
+    "error": null
+  },
+  {
+    "id": 353,
+    "srcPath": "instructions\\conventional-commit.prompt.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\conventional-commit.prompt.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.334Z",
+    "endTime": "2025-10-13T08:08:02.336Z",
+    "error": null
+  },
+  {
+    "id": 355,
+    "srcPath": "instructions\\convert-jpa-to-spring-data-cosmos.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\convert-jpa-to-spring-data-cosmos.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.338Z",
+    "endTime": "2025-10-13T08:08:02.340Z",
+    "error": null
+  },
+  {
+    "id": 357,
+    "srcPath": "instructions\\copilot-thought-logging.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\copilot-thought-logging.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.342Z",
+    "endTime": "2025-10-13T08:08:02.344Z",
+    "error": null
+  },
+  {
+    "id": 359,
+    "srcPath": "instructions\\csharp-ja.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\csharp-ja.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.345Z",
+    "endTime": "2025-10-13T08:08:02.348Z",
+    "error": null
+  },
+  {
+    "id": 361,
+    "srcPath": "instructions\\csharp-ko.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\csharp-ko.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.349Z",
+    "endTime": "2025-10-13T08:08:02.352Z",
+    "error": null
+  },
+  {
+    "id": 363,
+    "srcPath": "instructions\\csharp.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\csharp.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.353Z",
+    "endTime": "2025-10-13T08:08:02.355Z",
+    "error": null
+  },
+  {
+    "id": 365,
+    "srcPath": "instructions\\dart-n-flutter.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\dart-n-flutter.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.356Z",
+    "endTime": "2025-10-13T08:08:02.359Z",
+    "error": null
+  },
+  {
+    "id": 367,
+    "srcPath": "instructions\\declarative-agents-microsoft365.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\declarative-agents-microsoft365.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.359Z",
+    "endTime": "2025-10-13T08:08:02.361Z",
+    "error": null
+  },
+  {
+    "id": 369,
+    "srcPath": "instructions\\devbox-image-definition.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\devbox-image-definition.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.362Z",
+    "endTime": "2025-10-13T08:08:02.364Z",
+    "error": null
+  },
+  {
+    "id": 371,
+    "srcPath": "instructions\\devops-core-principles.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\devops-core-principles.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.365Z",
+    "endTime": "2025-10-13T08:08:02.368Z",
+    "error": null
+  },
+  {
+    "id": 373,
+    "srcPath": "instructions\\dotnet-architecture-good-practices.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\dotnet-architecture-good-practices.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.369Z",
+    "endTime": "2025-10-13T08:08:02.371Z",
+    "error": null
+  },
+  {
+    "id": 375,
+    "srcPath": "instructions\\dotnet-framework.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\dotnet-framework.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.372Z",
+    "endTime": "2025-10-13T08:08:02.375Z",
+    "error": null
+  },
+  {
+    "id": 377,
+    "srcPath": "instructions\\dotnet-maui.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\dotnet-maui.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.376Z",
+    "endTime": "2025-10-13T08:08:02.378Z",
+    "error": null
+  },
+  {
+    "id": 379,
+    "srcPath": "instructions\\dotnet-wpf.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\dotnet-wpf.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.379Z",
+    "endTime": "2025-10-13T08:08:02.381Z",
+    "error": null
+  },
+  {
+    "id": 381,
+    "srcPath": "instructions\\genaiscript.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\genaiscript.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.382Z",
+    "endTime": "2025-10-13T08:08:02.384Z",
+    "error": null
+  },
+  {
+    "id": 383,
+    "srcPath": "instructions\\generate-modern-terraform-code-for-azure.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\generate-modern-terraform-code-for-azure.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.385Z",
+    "endTime": "2025-10-13T08:08:02.387Z",
+    "error": null
+  },
+  {
+    "id": 385,
+    "srcPath": "instructions\\gilfoyle-code-review.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\gilfoyle-code-review.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.388Z",
+    "endTime": "2025-10-13T08:08:02.390Z",
+    "error": null
+  },
+  {
+    "id": 387,
+    "srcPath": "instructions\\github-actions-ci-cd-best-practices.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\github-actions-ci-cd-best-practices.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.394Z",
+    "endTime": "2025-10-13T08:08:02.397Z",
+    "error": null
+  },
+  {
+    "id": 389,
+    "srcPath": "instructions\\go.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\go.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.398Z",
+    "endTime": "2025-10-13T08:08:02.400Z",
+    "error": null
+  },
+  {
+    "id": 391,
+    "srcPath": "instructions\\java-11-to-java-17-upgrade.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\java-11-to-java-17-upgrade.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.401Z",
+    "endTime": "2025-10-13T08:08:02.403Z",
+    "error": null
+  },
+  {
+    "id": 393,
+    "srcPath": "instructions\\java-17-to-java-21-upgrade.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\java-17-to-java-21-upgrade.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.404Z",
+    "endTime": "2025-10-13T08:08:02.406Z",
+    "error": null
+  },
+  {
+    "id": 395,
+    "srcPath": "instructions\\java-21-to-java-25-upgrade.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\java-21-to-java-25-upgrade.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.408Z",
+    "endTime": "2025-10-13T08:08:02.412Z",
+    "error": null
+  },
+  {
+    "id": 397,
+    "srcPath": "instructions\\java.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\java.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.413Z",
+    "endTime": "2025-10-13T08:08:02.415Z",
+    "error": null
+  },
+  {
+    "id": 399,
+    "srcPath": "instructions\\joyride-user-project.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\joyride-user-project.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.416Z",
+    "endTime": "2025-10-13T08:08:02.418Z",
+    "error": null
+  },
+  {
+    "id": 401,
+    "srcPath": "instructions\\joyride-workspace-automation.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\joyride-workspace-automation.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.419Z",
+    "endTime": "2025-10-13T08:08:02.420Z",
+    "error": null
+  },
+  {
+    "id": 403,
+    "srcPath": "instructions\\kubernetes-deployment-best-practices.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\kubernetes-deployment-best-practices.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.421Z",
+    "endTime": "2025-10-13T08:08:02.422Z",
+    "error": null
+  },
+  {
+    "id": 405,
+    "srcPath": "instructions\\langchain-python.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\langchain-python.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.424Z",
+    "endTime": "2025-10-13T08:08:02.428Z",
+    "error": null
+  },
+  {
+    "id": 407,
+    "srcPath": "instructions\\localization.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\localization.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.429Z",
+    "endTime": "2025-10-13T08:08:02.432Z",
+    "error": null
+  },
+  {
+    "id": 409,
+    "srcPath": "instructions\\markdown.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\markdown.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.432Z",
+    "endTime": "2025-10-13T08:08:02.434Z",
+    "error": null
+  },
+  {
+    "id": 411,
+    "srcPath": "instructions\\memory-bank.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\memory-bank.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.435Z",
+    "endTime": "2025-10-13T08:08:02.436Z",
+    "error": null
+  },
+  {
+    "id": 413,
+    "srcPath": "instructions\\ms-sql-dba.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\ms-sql-dba.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.437Z",
+    "endTime": "2025-10-13T08:08:02.439Z",
+    "error": null
+  },
+  {
+    "id": 415,
+    "srcPath": "instructions\\nestjs.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\nestjs.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.440Z",
+    "endTime": "2025-10-13T08:08:02.443Z",
+    "error": null
+  },
+  {
+    "id": 417,
+    "srcPath": "instructions\\nextjs-tailwind.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\nextjs-tailwind.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.444Z",
+    "endTime": "2025-10-13T08:08:02.446Z",
+    "error": null
+  },
+  {
+    "id": 419,
+    "srcPath": "instructions\\nextjs.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\nextjs.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": "2025-10-13T08:08:02.447Z",
+    "endTime": "2025-10-13T08:08:02.449Z",
+    "error": null
+  },
+  {
+    "id": 421,
+    "srcPath": "instructions\\nodejs-javascript-vitest.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\nodejs-javascript-vitest.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 423,
+    "srcPath": "instructions\\object-calisthenics.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\object-calisthenics.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 425,
+    "srcPath": "instructions\\oqtane.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\oqtane.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 427,
+    "srcPath": "instructions\\performance-optimization.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\performance-optimization.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 429,
+    "srcPath": "instructions\\playwright-python.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\playwright-python.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 431,
+    "srcPath": "instructions\\playwright-typescript.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\playwright-typescript.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 433,
+    "srcPath": "instructions\\power-apps-canvas-yaml.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\power-apps-canvas-yaml.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 435,
+    "srcPath": "instructions\\power-apps-code-apps.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\power-apps-code-apps.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 437,
+    "srcPath": "instructions\\power-platform-connector.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\power-platform-connector.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 439,
+    "srcPath": "instructions\\power-platform-mcp-development.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\power-platform-mcp-development.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 441,
+    "srcPath": "instructions\\powershell-pester-5.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\powershell-pester-5.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 443,
+    "srcPath": "instructions\\powershell.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\powershell.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 445,
+    "srcPath": "instructions\\python.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\python.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 447,
+    "srcPath": "instructions\\quarkus-mcp-server-sse.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\quarkus-mcp-server-sse.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 449,
+    "srcPath": "instructions\\quarkus.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\quarkus.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 451,
+    "srcPath": "instructions\\reactjs.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\reactjs.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 453,
+    "srcPath": "instructions\\ruby-on-rails.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\ruby-on-rails.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 455,
+    "srcPath": "instructions\\rust.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\rust.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 457,
+    "srcPath": "instructions\\security-and-owasp.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\security-and-owasp.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 459,
+    "srcPath": "instructions\\self-explanatory-code-commenting.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\self-explanatory-code-commenting.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 461,
+    "srcPath": "instructions\\spec-driven-workflow-v1.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\spec-driven-workflow-v1.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 463,
+    "srcPath": "instructions\\springboot.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\springboot.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 465,
+    "srcPath": "instructions\\sql-sp-generation.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\sql-sp-generation.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 467,
+    "srcPath": "instructions\\svelte.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\svelte.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 469,
+    "srcPath": "instructions\\taming-copilot.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\taming-copilot.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 471,
+    "srcPath": "instructions\\tanstack-start-shadcn-tailwind.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\tanstack-start-shadcn-tailwind.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 473,
+    "srcPath": "instructions\\task-implementation.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\task-implementation.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 475,
+    "srcPath": "instructions\\tasksync.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\tasksync.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 477,
+    "srcPath": "instructions\\terraform-azure.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\terraform-azure.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 479,
+    "srcPath": "instructions\\terraform.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\terraform.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 481,
+    "srcPath": "instructions\\typescript-5-es2022.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\typescript-5-es2022.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 483,
+    "srcPath": "instructions\\vuejs3.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\vuejs3.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 485,
+    "srcPath": "instructions\\wordpress.instructions.md",
+    "outPath": "my-custom\\Mind Map\\instructions\\wordpress.instructions.mindmap.md",
+    "status": "pending",
+    "startTime": null,
+    "endTime": null,
+    "error": null
+  },
+  {
+    "id": 244,
+    "srcPath": "chatmodes\\4.1-Beast.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\4.1-Beast.chatmode.mindmap.md",
+    "status": "failed",
+    "startTime": "2025-10-13T08:38:33.781Z",
+    "endTime": "2025-10-13T08:38:33.786Z",
+    "error": "OPENAI_API_KEY not set in environment"
+  },
+  {
+    "id": 245,
+    "srcPath": "chatmodes\\accesibility.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\accesibility.chatmode.mindmap.md",
+    "status": "failed",
+    "startTime": "2025-10-13T08:38:33.795Z",
+    "endTime": "2025-10-13T08:38:33.798Z",
+    "error": "OPENAI_API_KEY not set in environment"
+  },
+  {
+    "id": 246,
+    "srcPath": "chatmodes\\address-comments.chatmode.md",
+    "outPath": "my-custom\\Mind Map\\chatmodes\\address-comments.chatmode.mindmap.md",
+    "status": "failed",
+    "startTime": "2025-10-13T08:38:33.813Z",
+    "endTime": "2025-10-13T08:38:33.817Z",
+    "error": "OPENAI_API_KEY not set in environment"
+  }
+]
