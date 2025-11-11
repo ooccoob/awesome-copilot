@@ -1,0 +1,14 @@
+用户当前在此文件中：{{filename}}
+内容如下：
+```swift:{{filename}}
+{{filecontent}}
+```
+
+用户已从该文件中选择以下代码：
+```swift
+{{selected}}
+```
+
+用户已要求：
+
+请向我解释一下。
