@@ -2,10 +2,10 @@
 
 [![Powered by Awesome Copilot](https://img.shields.io/badge/Powered_by-Awesome_Copilot-blue?logo=githubcopilot)](https://aka.ms/awesome-github-copilot)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-91-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-92-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-A curated collection of prompts, instructions, and chat modes to supercharge your GitHub Copilot experience across different domains, languages, and use cases.
+A community created collection of custom agents, prompts, and instructions to supercharge your GitHub Copilot experience across different domains, languages, and use cases.
 
 ## 🚀 What is Awesome GitHub Copilot?
 
@@ -77,6 +77,13 @@ Instructions automatically apply to files based on their patterns and provide co
 
 Activate chat modes to get specialized assistance from AI personas tailored for specific roles like architects, DBAs, or security experts.
 
+## 🎯 Why Use Awesome GitHub Copilot?
+
+- **Productivity**: Pre-built agents, prompts and instructions save time and provide consistent results.
+- **Best Practices**: Benefit from community-curated coding standards and patterns.
+- **Specialized Assistance**: Access expert-level guidance through specialized custom agents.
+- **Continuous Learning**: Stay updated with the latest patterns and practices across technologies.
+
 ## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on how to:
@@ -102,12 +109,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 └── scripts/          # Utility scripts for maintenance
 ```
 
-## 🌟 Getting Started
-
-1. **Browse the Collections**: Check out our comprehensive lists of [prompts](docs/README.prompts.md), [instructions](docs/README.instructions.md), [chat modes](docs/README.chatmodes.md), and [collections](docs/README.collections.md).
-2. **Add to your editor**: Click the "Install" button to install to VS Code, or copy the file contents for other editors.
-3. **Start Using**: Copy prompts to use with `/` commands, let instructions enhance your coding experience, or activate chat modes for specialized assistance.
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -118,12 +119,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Support**: Check our [Support Guide](SUPPORT.md) for getting help
 - **Code of Conduct**: We follow the [Contributor Covenant](CODE_OF_CONDUCT.md)
 
-## 🎯 Why Use Awesome GitHub Copilot?
+## ℹ️ Disclaimer
 
-- **Productivity**: Pre-built prompts and instructions save time and provide consistent results
-- **Best Practices**: Benefit from community-curated coding standards and patterns
-- **Specialized Assistance**: Access expert-level guidance through specialized chat modes
-- **Continuous Learning**: Stay updated with the latest patterns and practices across technologies
+The customizations in this repository are sourced from and created by third-party developers. GitHub does not verify, endorse, or guarantee the functionality or security of these agents. Please carefully inspect any agent and its documentation before installing to understand permissions it may require and actions it may perform.
 
 ---
 
@@ -254,6 +252,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jeremiah-snee-openx"><img src="https://avatars.githubusercontent.com/u/113928685?v=4?s=100" width="100px;" alt="Jeremiah Snee"/><br /><sub><b>Jeremiah Snee</b></sub></a><br /><a href="https://github.com/github/awesome-copilot/commits?author=jeremiah-snee-openx" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/spectatora"><img src="https://avatars.githubusercontent.com/u/1385755?v=4?s=100" width="100px;" alt="spectatora"/><br /><sub><b>spectatora</b></sub></a><br /><a href="https://github.com/github/awesome-copilot/commits?author=spectatora" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Mike-Hanna"><img src="https://avatars.githubusercontent.com/u/50142889?v=4?s=100" width="100px;" alt="Michael"/><br /><sub><b>Michael</b></sub></a><br /><a href="https://github.com/github/awesome-copilot/commits?author=Mike-Hanna" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/lechnerc77"><img src="https://avatars.githubusercontent.com/u/22294087?v=4?s=100" width="100px;" alt="Christian Lechner"/><br /><sub><b>Christian Lechner</b></sub></a><br /><a href="https://github.com/github/awesome-copilot/commits?author=lechnerc77" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
