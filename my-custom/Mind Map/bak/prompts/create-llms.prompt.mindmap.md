@@ -1,0 +1,36 @@
+## 摘要
+
+**来源文件**: prompts\create-llms.prompt.md
+
+**标题**: Create LLMs.txt File from Repository Structure
+
+**简介**: ---
+
+## 结构化要点
+
+- Create LLMs.txt File from Repository Structure
+- Primary Directive
+- Analysis and Planning Phase
+- Implementation Requirements
+- Execution Steps
+
+## 思维导图格式
+
+- Create LLMs.txt File from Repository Structure
+  - Create LLMs.txt File from Repository Structure
+  - Primary Directive
+  - Analysis and Planning Phase
+  - Implementation Requirements
+  - Execution Steps
+
+## 典型示例问题（自动生成，示例5条）
+
+- 如何在项目中实现 "Create LLMs.txt File from Repository Structure" 的关键部分？
+- 关于 Create LLMs.txt File from Repository Structure，有哪些常见的实现陷阱和规避策略？
+- 为确保 Primary Directive 的健壮性，应考虑哪些测试与监控措施？
+- 在部署或运维层面，需要注意哪些与 Create LLMs.txt File from Repository Structure 相关的风险？
+- 如果要扩展 Create LLMs.txt File from Repository Structure 的能力，下一步可以优先实现哪些功能？
+
+## 生成说明
+
+本文件由脚本自动生成，使用转换规则： my-custom\prompts\my-copilot-mindmap.prompt.md

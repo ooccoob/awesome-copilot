@@ -1,0 +1,633 @@
+[2025-10-13T07:58:25.598Z] 开始处理 prompts\add-educational-comments.prompt.md
+[2025-10-13T07:58:25.601Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\add-educational-comments.prompt.mindmap.md
+[2025-10-13T07:58:25.602Z] 完成 prompts\add-educational-comments.prompt.md
+[2025-10-13T07:58:25.604Z] 开始处理 prompts\ai-prompt-engineering-safety-review.prompt.md
+[2025-10-13T07:58:25.606Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\ai-prompt-engineering-safety-review.prompt.mindmap.md
+[2025-10-13T07:58:25.607Z] 完成 prompts\ai-prompt-engineering-safety-review.prompt.md
+[2025-10-13T07:58:25.608Z] 开始处理 prompts\architecture-blueprint-generator.prompt.md
+[2025-10-13T07:58:25.611Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\architecture-blueprint-generator.prompt.mindmap.md
+[2025-10-13T07:58:25.614Z] 完成 prompts\architecture-blueprint-generator.prompt.md
+[2025-10-13T07:58:25.615Z] 开始处理 prompts\aspnet-minimal-api-openapi.prompt.md
+[2025-10-13T07:58:25.618Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\aspnet-minimal-api-openapi.prompt.mindmap.md
+[2025-10-13T07:58:25.620Z] 完成 prompts\aspnet-minimal-api-openapi.prompt.md
+[2025-10-13T07:58:25.621Z] 开始处理 prompts\az-cost-optimize.prompt.md
+[2025-10-13T07:58:25.623Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\az-cost-optimize.prompt.mindmap.md
+[2025-10-13T07:58:25.624Z] 完成 prompts\az-cost-optimize.prompt.md
+[2025-10-13T07:58:25.624Z] 开始处理 prompts\azure-resource-health-diagnose.prompt.md
+[2025-10-13T07:58:25.626Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\azure-resource-health-diagnose.prompt.mindmap.md
+[2025-10-13T07:58:25.628Z] 完成 prompts\azure-resource-health-diagnose.prompt.md
+[2025-10-13T07:58:25.630Z] 开始处理 prompts\boost-prompt.prompt.md
+[2025-10-13T07:58:25.631Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\boost-prompt.prompt.mindmap.md
+[2025-10-13T07:58:25.633Z] 完成 prompts\boost-prompt.prompt.md
+[2025-10-13T07:58:25.634Z] 开始处理 prompts\breakdown-epic-arch.prompt.md
+[2025-10-13T07:58:25.636Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\breakdown-epic-arch.prompt.mindmap.md
+[2025-10-13T07:58:25.637Z] 完成 prompts\breakdown-epic-arch.prompt.md
+[2025-10-13T07:58:25.638Z] 开始处理 prompts\breakdown-epic-pm.prompt.md
+[2025-10-13T07:58:25.639Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\breakdown-epic-pm.prompt.mindmap.md
+[2025-10-13T07:58:25.640Z] 完成 prompts\breakdown-epic-pm.prompt.md
+[2025-10-13T07:58:25.641Z] 开始处理 prompts\breakdown-feature-implementation.prompt.md
+[2025-10-13T07:58:25.642Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\breakdown-feature-implementation.prompt.mindmap.md
+[2025-10-13T07:58:25.644Z] 完成 prompts\breakdown-feature-implementation.prompt.md
+[2025-10-13T07:59:44.536Z] 开始处理 prompts\breakdown-feature-prd.prompt.md
+[2025-10-13T07:59:44.538Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\breakdown-feature-prd.prompt.mindmap.md
+[2025-10-13T07:59:44.540Z] 完成 prompts\breakdown-feature-prd.prompt.md
+[2025-10-13T07:59:44.541Z] 开始处理 prompts\breakdown-plan.prompt.md
+[2025-10-13T07:59:44.543Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\breakdown-plan.prompt.mindmap.md
+[2025-10-13T07:59:44.543Z] 完成 prompts\breakdown-plan.prompt.md
+[2025-10-13T07:59:44.544Z] 开始处理 prompts\breakdown-test.prompt.md
+[2025-10-13T07:59:44.546Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\breakdown-test.prompt.mindmap.md
+[2025-10-13T07:59:44.547Z] 完成 prompts\breakdown-test.prompt.md
+[2025-10-13T07:59:44.548Z] 开始处理 prompts\code-exemplars-blueprint-generator.prompt.md
+[2025-10-13T07:59:44.549Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\code-exemplars-blueprint-generator.prompt.mindmap.md
+[2025-10-13T07:59:44.550Z] 完成 prompts\code-exemplars-blueprint-generator.prompt.md
+[2025-10-13T07:59:44.551Z] 开始处理 prompts\comment-code-generate-a-tutorial.prompt.md
+[2025-10-13T07:59:44.553Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\comment-code-generate-a-tutorial.prompt.mindmap.md
+[2025-10-13T07:59:44.553Z] 完成 prompts\comment-code-generate-a-tutorial.prompt.md
+[2025-10-13T07:59:44.554Z] 开始处理 prompts\containerize-aspnet-framework.prompt.md
+[2025-10-13T07:59:44.556Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\containerize-aspnet-framework.prompt.mindmap.md
+[2025-10-13T07:59:44.556Z] 完成 prompts\containerize-aspnet-framework.prompt.md
+[2025-10-13T07:59:44.557Z] 开始处理 prompts\containerize-aspnetcore.prompt.md
+[2025-10-13T07:59:44.559Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\containerize-aspnetcore.prompt.mindmap.md
+[2025-10-13T07:59:44.560Z] 完成 prompts\containerize-aspnetcore.prompt.md
+[2025-10-13T07:59:44.560Z] 开始处理 prompts\copilot-instructions-blueprint-generator.prompt.md
+[2025-10-13T07:59:44.562Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\copilot-instructions-blueprint-generator.prompt.mindmap.md
+[2025-10-13T07:59:44.564Z] 完成 prompts\copilot-instructions-blueprint-generator.prompt.md
+[2025-10-13T07:59:44.565Z] 开始处理 prompts\cosmosdb-datamodeling.prompt.md
+[2025-10-13T07:59:44.567Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\cosmosdb-datamodeling.prompt.mindmap.md
+[2025-10-13T07:59:44.568Z] 完成 prompts\cosmosdb-datamodeling.prompt.md
+[2025-10-13T07:59:44.569Z] 开始处理 prompts\create-agentsmd.prompt.md
+[2025-10-13T07:59:44.571Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\create-agentsmd.prompt.mindmap.md
+[2025-10-13T07:59:44.572Z] 完成 prompts\create-agentsmd.prompt.md
+[2025-10-13T07:59:44.574Z] 开始处理 prompts\create-architectural-decision-record.prompt.md
+[2025-10-13T07:59:44.575Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\create-architectural-decision-record.prompt.mindmap.md
+[2025-10-13T07:59:44.578Z] 完成 prompts\create-architectural-decision-record.prompt.md
+[2025-10-13T07:59:44.579Z] 开始处理 prompts\create-github-action-workflow-specification.prompt.md
+[2025-10-13T07:59:44.581Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\create-github-action-workflow-specification.prompt.mindmap.md
+[2025-10-13T07:59:44.583Z] 完成 prompts\create-github-action-workflow-specification.prompt.md
+[2025-10-13T07:59:44.584Z] 开始处理 prompts\create-github-issue-feature-from-specification.prompt.md
+[2025-10-13T07:59:44.586Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\create-github-issue-feature-from-specification.prompt.mindmap.md
+[2025-10-13T07:59:44.587Z] 完成 prompts\create-github-issue-feature-from-specification.prompt.md
+[2025-10-13T07:59:44.588Z] 开始处理 prompts\create-github-issues-feature-from-implementation-plan.prompt.md
+[2025-10-13T07:59:44.590Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\create-github-issues-feature-from-implementation-plan.prompt.mindmap.md
+[2025-10-13T07:59:44.591Z] 完成 prompts\create-github-issues-feature-from-implementation-plan.prompt.md
+[2025-10-13T07:59:44.592Z] 开始处理 prompts\create-github-issues-for-unmet-specification-requirements.prompt.md
+[2025-10-13T07:59:44.594Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\create-github-issues-for-unmet-specification-requirements.prompt.mindmap.md
+[2025-10-13T07:59:44.596Z] 完成 prompts\create-github-issues-for-unmet-specification-requirements.prompt.md
+[2025-10-13T07:59:44.598Z] 开始处理 prompts\create-github-pull-request-from-specification.prompt.md
+[2025-10-13T07:59:44.599Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\create-github-pull-request-from-specification.prompt.mindmap.md
+[2025-10-13T07:59:44.600Z] 完成 prompts\create-github-pull-request-from-specification.prompt.md
+[2025-10-13T07:59:44.601Z] 开始处理 prompts\create-implementation-plan.prompt.md
+[2025-10-13T07:59:44.603Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\create-implementation-plan.prompt.mindmap.md
+[2025-10-13T07:59:44.614Z] 完成 prompts\create-implementation-plan.prompt.md
+[2025-10-13T07:59:44.617Z] 开始处理 prompts\create-llms.prompt.md
+[2025-10-13T07:59:44.622Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\create-llms.prompt.mindmap.md
+[2025-10-13T07:59:44.624Z] 完成 prompts\create-llms.prompt.md
+[2025-10-13T07:59:44.626Z] 开始处理 prompts\create-oo-component-documentation.prompt.md
+[2025-10-13T07:59:44.628Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\create-oo-component-documentation.prompt.mindmap.md
+[2025-10-13T07:59:44.630Z] 完成 prompts\create-oo-component-documentation.prompt.md
+[2025-10-13T07:59:44.633Z] 开始处理 prompts\create-readme.prompt.md
+[2025-10-13T07:59:44.635Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\create-readme.prompt.mindmap.md
+[2025-10-13T07:59:44.637Z] 完成 prompts\create-readme.prompt.md
+[2025-10-13T07:59:44.639Z] 开始处理 prompts\create-specification.prompt.md
+[2025-10-13T07:59:44.642Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\create-specification.prompt.mindmap.md
+[2025-10-13T07:59:44.643Z] 完成 prompts\create-specification.prompt.md
+[2025-10-13T07:59:44.645Z] 开始处理 prompts\create-spring-boot-java-project.prompt.md
+[2025-10-13T07:59:44.648Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\create-spring-boot-java-project.prompt.mindmap.md
+[2025-10-13T07:59:44.649Z] 完成 prompts\create-spring-boot-java-project.prompt.md
+[2025-10-13T07:59:44.651Z] 开始处理 prompts\create-spring-boot-kotlin-project.prompt.md
+[2025-10-13T07:59:44.653Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\create-spring-boot-kotlin-project.prompt.mindmap.md
+[2025-10-13T07:59:44.654Z] 完成 prompts\create-spring-boot-kotlin-project.prompt.md
+[2025-10-13T07:59:44.655Z] 开始处理 prompts\create-technical-spike.prompt.md
+[2025-10-13T07:59:44.657Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\create-technical-spike.prompt.mindmap.md
+[2025-10-13T07:59:44.658Z] 完成 prompts\create-technical-spike.prompt.md
+[2025-10-13T07:59:44.659Z] 开始处理 prompts\csharp-async.prompt.md
+[2025-10-13T07:59:44.660Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\csharp-async.prompt.mindmap.md
+[2025-10-13T07:59:44.662Z] 完成 prompts\csharp-async.prompt.md
+[2025-10-13T07:59:44.663Z] 开始处理 prompts\csharp-docs.prompt.md
+[2025-10-13T07:59:44.664Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\csharp-docs.prompt.mindmap.md
+[2025-10-13T07:59:44.665Z] 完成 prompts\csharp-docs.prompt.md
+[2025-10-13T07:59:44.666Z] 开始处理 prompts\csharp-mstest.prompt.md
+[2025-10-13T07:59:44.667Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\csharp-mstest.prompt.mindmap.md
+[2025-10-13T07:59:44.669Z] 完成 prompts\csharp-mstest.prompt.md
+[2025-10-13T07:59:44.671Z] 开始处理 prompts\csharp-nunit.prompt.md
+[2025-10-13T07:59:44.674Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\csharp-nunit.prompt.mindmap.md
+[2025-10-13T07:59:44.676Z] 完成 prompts\csharp-nunit.prompt.md
+[2025-10-13T07:59:44.678Z] 开始处理 prompts\csharp-tunit.prompt.md
+[2025-10-13T07:59:44.681Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\csharp-tunit.prompt.mindmap.md
+[2025-10-13T07:59:44.682Z] 完成 prompts\csharp-tunit.prompt.md
+[2025-10-13T07:59:44.683Z] 开始处理 prompts\csharp-xunit.prompt.md
+[2025-10-13T07:59:44.684Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\csharp-xunit.prompt.mindmap.md
+[2025-10-13T07:59:44.686Z] 完成 prompts\csharp-xunit.prompt.md
+[2025-10-13T07:59:44.686Z] 开始处理 prompts\declarative-agents.prompt.md
+[2025-10-13T07:59:44.687Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\declarative-agents.prompt.mindmap.md
+[2025-10-13T07:59:44.688Z] 完成 prompts\declarative-agents.prompt.md
+[2025-10-13T07:59:44.688Z] 开始处理 prompts\documentation-writer.prompt.md
+[2025-10-13T07:59:44.690Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\documentation-writer.prompt.mindmap.md
+[2025-10-13T07:59:44.690Z] 完成 prompts\documentation-writer.prompt.md
+[2025-10-13T07:59:44.691Z] 开始处理 prompts\dotnet-best-practices.prompt.md
+[2025-10-13T07:59:44.692Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\dotnet-best-practices.prompt.mindmap.md
+[2025-10-13T07:59:44.693Z] 完成 prompts\dotnet-best-practices.prompt.md
+[2025-10-13T07:59:44.693Z] 开始处理 prompts\dotnet-design-pattern-review.prompt.md
+[2025-10-13T07:59:44.695Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\dotnet-design-pattern-review.prompt.mindmap.md
+[2025-10-13T07:59:44.696Z] 完成 prompts\dotnet-design-pattern-review.prompt.md
+[2025-10-13T07:59:44.697Z] 开始处理 prompts\editorconfig.prompt.md
+[2025-10-13T07:59:44.698Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\editorconfig.prompt.mindmap.md
+[2025-10-13T07:59:44.700Z] 完成 prompts\editorconfig.prompt.md
+[2025-10-13T07:59:44.700Z] 开始处理 prompts\ef-core.prompt.md
+[2025-10-13T07:59:44.701Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\ef-core.prompt.mindmap.md
+[2025-10-13T07:59:44.702Z] 完成 prompts\ef-core.prompt.md
+[2025-10-13T07:59:44.703Z] 开始处理 prompts\first-ask.prompt.md
+[2025-10-13T07:59:44.704Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\first-ask.prompt.mindmap.md
+[2025-10-13T07:59:44.705Z] 完成 prompts\first-ask.prompt.md
+[2025-10-13T07:59:44.705Z] 开始处理 prompts\folder-structure-blueprint-generator.prompt.md
+[2025-10-13T07:59:44.707Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\folder-structure-blueprint-generator.prompt.mindmap.md
+[2025-10-13T07:59:44.707Z] 完成 prompts\folder-structure-blueprint-generator.prompt.md
+[2025-10-13T07:59:44.708Z] 开始处理 prompts\gen-specs-as-issues.prompt.md
+[2025-10-13T07:59:44.709Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\gen-specs-as-issues.prompt.mindmap.md
+[2025-10-13T07:59:44.710Z] 完成 prompts\gen-specs-as-issues.prompt.md
+[2025-10-13T07:59:44.710Z] 开始处理 prompts\generate-custom-instructions-from-codebase.prompt.md
+[2025-10-13T07:59:44.712Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\generate-custom-instructions-from-codebase.prompt.mindmap.md
+[2025-10-13T07:59:44.713Z] 完成 prompts\generate-custom-instructions-from-codebase.prompt.md
+[2025-10-13T07:59:44.714Z] 开始处理 prompts\git-flow-branch-creator.prompt.md
+[2025-10-13T07:59:44.715Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\git-flow-branch-creator.prompt.mindmap.md
+[2025-10-13T07:59:44.716Z] 完成 prompts\git-flow-branch-creator.prompt.md
+[2025-10-13T07:59:44.717Z] 开始处理 prompts\github-copilot-starter.prompt.md
+[2025-10-13T07:59:44.718Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\github-copilot-starter.prompt.mindmap.md
+[2025-10-13T07:59:44.719Z] 完成 prompts\github-copilot-starter.prompt.md
+[2025-10-13T07:59:44.720Z] 开始处理 prompts\java-docs.prompt.md
+[2025-10-13T07:59:44.721Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\java-docs.prompt.mindmap.md
+[2025-10-13T07:59:44.722Z] 完成 prompts\java-docs.prompt.md
+[2025-10-13T07:59:44.723Z] 开始处理 prompts\java-junit.prompt.md
+[2025-10-13T07:59:44.724Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\java-junit.prompt.mindmap.md
+[2025-10-13T07:59:44.725Z] 完成 prompts\java-junit.prompt.md
+[2025-10-13T07:59:44.726Z] 开始处理 prompts\java-refactoring-extract-method.prompt.md
+[2025-10-13T07:59:44.727Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\java-refactoring-extract-method.prompt.mindmap.md
+[2025-10-13T07:59:44.728Z] 完成 prompts\java-refactoring-extract-method.prompt.md
+[2025-10-13T07:59:44.729Z] 开始处理 prompts\java-springboot.prompt.md
+[2025-10-13T07:59:44.731Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\java-springboot.prompt.mindmap.md
+[2025-10-13T07:59:44.732Z] 完成 prompts\java-springboot.prompt.md
+[2025-10-13T07:59:44.733Z] 开始处理 prompts\javascript-typescript-jest.prompt.md
+[2025-10-13T07:59:44.734Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\javascript-typescript-jest.prompt.mindmap.md
+[2025-10-13T07:59:44.734Z] 完成 prompts\javascript-typescript-jest.prompt.md
+[2025-10-13T07:59:44.735Z] 开始处理 prompts\kotlin-springboot.prompt.md
+[2025-10-13T07:59:44.736Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\kotlin-springboot.prompt.mindmap.md
+[2025-10-13T07:59:44.736Z] 完成 prompts\kotlin-springboot.prompt.md
+[2025-10-13T07:59:44.737Z] 开始处理 prompts\mcp-copilot-studio-server-generator.prompt.md
+[2025-10-13T07:59:44.738Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\mcp-copilot-studio-server-generator.prompt.mindmap.md
+[2025-10-13T07:59:44.738Z] 完成 prompts\mcp-copilot-studio-server-generator.prompt.md
+[2025-10-13T07:59:44.739Z] 开始处理 prompts\memory-merger.prompt.md
+[2025-10-13T07:59:44.740Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\memory-merger.prompt.mindmap.md
+[2025-10-13T07:59:44.741Z] 完成 prompts\memory-merger.prompt.md
+[2025-10-13T08:02:07.186Z] 开始处理 prompts\mkdocs-translations.prompt.md
+[2025-10-13T08:02:07.191Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\mkdocs-translations.prompt.mindmap.md
+[2025-10-13T08:02:07.192Z] 完成 prompts\mkdocs-translations.prompt.md
+[2025-10-13T08:02:07.194Z] 开始处理 prompts\multi-stage-dockerfile.prompt.md
+[2025-10-13T08:02:07.197Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\multi-stage-dockerfile.prompt.mindmap.md
+[2025-10-13T08:02:07.199Z] 完成 prompts\multi-stage-dockerfile.prompt.md
+[2025-10-13T08:02:07.200Z] 开始处理 prompts\my-issues.prompt.md
+[2025-10-13T08:02:07.202Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\my-issues.prompt.mindmap.md
+[2025-10-13T08:02:07.204Z] 完成 prompts\my-issues.prompt.md
+[2025-10-13T08:02:07.205Z] 开始处理 prompts\my-pull-requests.prompt.md
+[2025-10-13T08:02:07.217Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\my-pull-requests.prompt.mindmap.md
+[2025-10-13T08:02:07.219Z] 完成 prompts\my-pull-requests.prompt.md
+[2025-10-13T08:02:07.221Z] 开始处理 prompts\next-intl-add-language.prompt.md
+[2025-10-13T08:02:07.225Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\next-intl-add-language.prompt.mindmap.md
+[2025-10-13T08:02:07.229Z] 完成 prompts\next-intl-add-language.prompt.md
+[2025-10-13T08:02:07.231Z] 开始处理 prompts\playwright-automation-fill-in-form.prompt.md
+[2025-10-13T08:02:07.235Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\playwright-automation-fill-in-form.prompt.mindmap.md
+[2025-10-13T08:02:07.237Z] 完成 prompts\playwright-automation-fill-in-form.prompt.md
+[2025-10-13T08:02:07.238Z] 开始处理 prompts\playwright-explore-website.prompt.md
+[2025-10-13T08:02:07.240Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\playwright-explore-website.prompt.mindmap.md
+[2025-10-13T08:02:07.241Z] 完成 prompts\playwright-explore-website.prompt.md
+[2025-10-13T08:02:07.244Z] 开始处理 prompts\playwright-generate-test.prompt.md
+[2025-10-13T08:02:07.248Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\playwright-generate-test.prompt.mindmap.md
+[2025-10-13T08:02:07.250Z] 完成 prompts\playwright-generate-test.prompt.md
+[2025-10-13T08:02:07.251Z] 开始处理 prompts\postgresql-code-review.prompt.md
+[2025-10-13T08:02:07.254Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\postgresql-code-review.prompt.mindmap.md
+[2025-10-13T08:02:07.255Z] 完成 prompts\postgresql-code-review.prompt.md
+[2025-10-13T08:02:07.257Z] 开始处理 prompts\postgresql-optimization.prompt.md
+[2025-10-13T08:02:07.265Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\postgresql-optimization.prompt.mindmap.md
+[2025-10-13T08:02:07.266Z] 完成 prompts\postgresql-optimization.prompt.md
+[2025-10-13T08:02:07.267Z] 开始处理 prompts\power-apps-code-app-scaffold.prompt.md
+[2025-10-13T08:02:07.269Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\power-apps-code-app-scaffold.prompt.mindmap.md
+[2025-10-13T08:02:07.271Z] 完成 prompts\power-apps-code-app-scaffold.prompt.md
+[2025-10-13T08:02:07.272Z] 开始处理 prompts\power-platform-mcp-connector-suite.prompt.md
+[2025-10-13T08:02:07.274Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\power-platform-mcp-connector-suite.prompt.mindmap.md
+[2025-10-13T08:02:07.275Z] 完成 prompts\power-platform-mcp-connector-suite.prompt.md
+[2025-10-13T08:02:07.277Z] 开始处理 prompts\project-workflow-analysis-blueprint-generator.prompt.md
+[2025-10-13T08:02:07.287Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\project-workflow-analysis-blueprint-generator.prompt.mindmap.md
+[2025-10-13T08:02:07.289Z] 完成 prompts\project-workflow-analysis-blueprint-generator.prompt.md
+[2025-10-13T08:02:07.291Z] 开始处理 prompts\prompt-builder.prompt.md
+[2025-10-13T08:02:07.293Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\prompt-builder.prompt.mindmap.md
+[2025-10-13T08:02:07.294Z] 完成 prompts\prompt-builder.prompt.md
+[2025-10-13T08:02:07.296Z] 开始处理 prompts\readme-blueprint-generator.prompt.md
+[2025-10-13T08:02:07.298Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\readme-blueprint-generator.prompt.mindmap.md
+[2025-10-13T08:02:07.299Z] 完成 prompts\readme-blueprint-generator.prompt.md
+[2025-10-13T08:02:07.301Z] 开始处理 prompts\remember-interactive-programming.prompt.md
+[2025-10-13T08:02:07.303Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\remember-interactive-programming.prompt.mindmap.md
+[2025-10-13T08:02:07.304Z] 完成 prompts\remember-interactive-programming.prompt.md
+[2025-10-13T08:02:07.304Z] 开始处理 prompts\remember.prompt.md
+[2025-10-13T08:02:07.306Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\remember.prompt.mindmap.md
+[2025-10-13T08:02:07.307Z] 完成 prompts\remember.prompt.md
+[2025-10-13T08:02:07.308Z] 开始处理 prompts\repo-story-time.prompt.md
+[2025-10-13T08:02:07.310Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\repo-story-time.prompt.mindmap.md
+[2025-10-13T08:02:07.311Z] 完成 prompts\repo-story-time.prompt.md
+[2025-10-13T08:02:07.313Z] 开始处理 prompts\review-and-refactor.prompt.md
+[2025-10-13T08:02:07.315Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\review-and-refactor.prompt.mindmap.md
+[2025-10-13T08:02:07.317Z] 完成 prompts\review-and-refactor.prompt.md
+[2025-10-13T08:02:07.318Z] 开始处理 prompts\sql-code-review.prompt.md
+[2025-10-13T08:02:07.320Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\sql-code-review.prompt.mindmap.md
+[2025-10-13T08:02:07.321Z] 完成 prompts\sql-code-review.prompt.md
+[2025-10-13T08:02:07.322Z] 开始处理 prompts\sql-optimization.prompt.md
+[2025-10-13T08:02:07.324Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\sql-optimization.prompt.mindmap.md
+[2025-10-13T08:02:07.325Z] 完成 prompts\sql-optimization.prompt.md
+[2025-10-13T08:02:07.326Z] 开始处理 prompts\suggest-awesome-github-copilot-chatmodes.prompt.md
+[2025-10-13T08:02:07.328Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\suggest-awesome-github-copilot-chatmodes.prompt.mindmap.md
+[2025-10-13T08:02:07.330Z] 完成 prompts\suggest-awesome-github-copilot-chatmodes.prompt.md
+[2025-10-13T08:02:07.331Z] 开始处理 prompts\suggest-awesome-github-copilot-collections.prompt.md
+[2025-10-13T08:02:07.333Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\suggest-awesome-github-copilot-collections.prompt.mindmap.md
+[2025-10-13T08:02:07.335Z] 完成 prompts\suggest-awesome-github-copilot-collections.prompt.md
+[2025-10-13T08:02:07.336Z] 开始处理 prompts\suggest-awesome-github-copilot-instructions.prompt.md
+[2025-10-13T08:02:07.338Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\suggest-awesome-github-copilot-instructions.prompt.mindmap.md
+[2025-10-13T08:02:07.339Z] 完成 prompts\suggest-awesome-github-copilot-instructions.prompt.md
+[2025-10-13T08:02:07.340Z] 开始处理 prompts\suggest-awesome-github-copilot-prompts.prompt.md
+[2025-10-13T08:02:07.341Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\suggest-awesome-github-copilot-prompts.prompt.mindmap.md
+[2025-10-13T08:02:07.342Z] 完成 prompts\suggest-awesome-github-copilot-prompts.prompt.md
+[2025-10-13T08:02:07.343Z] 开始处理 prompts\technology-stack-blueprint-generator.prompt.md
+[2025-10-13T08:02:07.348Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\technology-stack-blueprint-generator.prompt.mindmap.md
+[2025-10-13T08:02:07.349Z] 完成 prompts\technology-stack-blueprint-generator.prompt.md
+[2025-10-13T08:02:07.350Z] 开始处理 prompts\update-avm-modules-in-bicep.prompt.md
+[2025-10-13T08:02:07.352Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\update-avm-modules-in-bicep.prompt.mindmap.md
+[2025-10-13T08:02:07.353Z] 完成 prompts\update-avm-modules-in-bicep.prompt.md
+[2025-10-13T08:02:07.355Z] 开始处理 prompts\update-implementation-plan.prompt.md
+[2025-10-13T08:02:07.356Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\update-implementation-plan.prompt.mindmap.md
+[2025-10-13T08:02:07.357Z] 完成 prompts\update-implementation-plan.prompt.md
+[2025-10-13T08:02:07.358Z] 开始处理 prompts\update-llms.prompt.md
+[2025-10-13T08:02:07.359Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\update-llms.prompt.mindmap.md
+[2025-10-13T08:02:07.361Z] 完成 prompts\update-llms.prompt.md
+[2025-10-13T08:02:07.363Z] 开始处理 prompts\update-markdown-file-index.prompt.md
+[2025-10-13T08:02:07.365Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\update-markdown-file-index.prompt.mindmap.md
+[2025-10-13T08:02:07.366Z] 完成 prompts\update-markdown-file-index.prompt.md
+[2025-10-13T08:02:07.367Z] 开始处理 prompts\update-oo-component-documentation.prompt.md
+[2025-10-13T08:02:07.369Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\update-oo-component-documentation.prompt.mindmap.md
+[2025-10-13T08:02:07.370Z] 完成 prompts\update-oo-component-documentation.prompt.md
+[2025-10-13T08:02:07.371Z] 开始处理 prompts\update-specification.prompt.md
+[2025-10-13T08:02:07.373Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\prompts\update-specification.prompt.mindmap.md
+[2025-10-13T08:02:07.374Z] 完成 prompts\update-specification.prompt.md
+[2025-10-13T08:02:07.374Z] 开始处理 chatmodes\4.1-Beast.chatmode.md
+[2025-10-13T08:02:07.376Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\4.1-Beast.chatmode.mindmap.md
+[2025-10-13T08:02:07.379Z] 完成 chatmodes\4.1-Beast.chatmode.md
+[2025-10-13T08:02:07.380Z] 开始处理 chatmodes\accesibility.chatmode.md
+[2025-10-13T08:02:07.382Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\accesibility.chatmode.mindmap.md
+[2025-10-13T08:02:07.383Z] 完成 chatmodes\accesibility.chatmode.md
+[2025-10-13T08:02:07.384Z] 开始处理 chatmodes\address-comments.chatmode.md
+[2025-10-13T08:02:07.387Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\address-comments.chatmode.mindmap.md
+[2025-10-13T08:02:07.388Z] 完成 chatmodes\address-comments.chatmode.md
+[2025-10-13T08:02:07.389Z] 开始处理 chatmodes\api-architect.chatmode.md
+[2025-10-13T08:02:07.391Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\api-architect.chatmode.mindmap.md
+[2025-10-13T08:02:07.392Z] 完成 chatmodes\api-architect.chatmode.md
+[2025-10-13T08:02:07.392Z] 开始处理 chatmodes\atlassian-requirements-to-jira.chatmode.md
+[2025-10-13T08:02:07.394Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\atlassian-requirements-to-jira.chatmode.mindmap.md
+[2025-10-13T08:02:07.396Z] 完成 chatmodes\atlassian-requirements-to-jira.chatmode.md
+[2025-10-13T08:02:07.397Z] 开始处理 chatmodes\azure-logic-apps-expert.chatmode.md
+[2025-10-13T08:02:07.399Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\azure-logic-apps-expert.chatmode.mindmap.md
+[2025-10-13T08:02:07.400Z] 完成 chatmodes\azure-logic-apps-expert.chatmode.md
+[2025-10-13T08:02:07.401Z] 开始处理 chatmodes\azure-principal-architect.chatmode.md
+[2025-10-13T08:02:07.403Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\azure-principal-architect.chatmode.mindmap.md
+[2025-10-13T08:02:07.404Z] 完成 chatmodes\azure-principal-architect.chatmode.md
+[2025-10-13T08:02:07.405Z] 开始处理 chatmodes\azure-saas-architect.chatmode.md
+[2025-10-13T08:02:07.407Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\azure-saas-architect.chatmode.mindmap.md
+[2025-10-13T08:02:07.407Z] 完成 chatmodes\azure-saas-architect.chatmode.md
+[2025-10-13T08:02:07.408Z] 开始处理 chatmodes\azure-verified-modules-bicep.chatmode.md
+[2025-10-13T08:02:07.410Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\azure-verified-modules-bicep.chatmode.mindmap.md
+[2025-10-13T08:02:07.411Z] 完成 chatmodes\azure-verified-modules-bicep.chatmode.md
+[2025-10-13T08:02:07.413Z] 开始处理 chatmodes\azure-verified-modules-terraform.chatmode.md
+[2025-10-13T08:02:07.415Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\azure-verified-modules-terraform.chatmode.mindmap.md
+[2025-10-13T08:02:07.416Z] 完成 chatmodes\azure-verified-modules-terraform.chatmode.md
+[2025-10-13T08:02:07.418Z] 开始处理 chatmodes\bicep-implement.chatmode.md
+[2025-10-13T08:02:07.419Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\bicep-implement.chatmode.mindmap.md
+[2025-10-13T08:02:07.420Z] 完成 chatmodes\bicep-implement.chatmode.md
+[2025-10-13T08:02:07.421Z] 开始处理 chatmodes\bicep-plan.chatmode.md
+[2025-10-13T08:02:07.422Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\bicep-plan.chatmode.mindmap.md
+[2025-10-13T08:02:07.423Z] 完成 chatmodes\bicep-plan.chatmode.md
+[2025-10-13T08:02:07.424Z] 开始处理 chatmodes\blueprint-mode-codex.chatmode.md
+[2025-10-13T08:02:07.426Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\blueprint-mode-codex.chatmode.mindmap.md
+[2025-10-13T08:02:07.427Z] 完成 chatmodes\blueprint-mode-codex.chatmode.md
+[2025-10-13T08:02:07.428Z] 开始处理 chatmodes\blueprint-mode.chatmode.md
+[2025-10-13T08:02:07.431Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\blueprint-mode.chatmode.mindmap.md
+[2025-10-13T08:02:07.433Z] 完成 chatmodes\blueprint-mode.chatmode.md
+[2025-10-13T08:02:07.434Z] 开始处理 chatmodes\clojure-interactive-programming.chatmode.md
+[2025-10-13T08:02:07.436Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\clojure-interactive-programming.chatmode.mindmap.md
+[2025-10-13T08:02:07.438Z] 完成 chatmodes\clojure-interactive-programming.chatmode.md
+[2025-10-13T08:02:07.440Z] 开始处理 chatmodes\code-tour.chatmode.md
+[2025-10-13T08:02:07.441Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\code-tour.chatmode.mindmap.md
+[2025-10-13T08:02:07.443Z] 完成 chatmodes\code-tour.chatmode.md
+[2025-10-13T08:02:07.444Z] 开始处理 chatmodes\critical-thinking.chatmode.md
+[2025-10-13T08:02:07.446Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\critical-thinking.chatmode.mindmap.md
+[2025-10-13T08:02:07.448Z] 完成 chatmodes\critical-thinking.chatmode.md
+[2025-10-13T08:02:07.449Z] 开始处理 chatmodes\csharp-dotnet-janitor.chatmode.md
+[2025-10-13T08:02:07.450Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\csharp-dotnet-janitor.chatmode.mindmap.md
+[2025-10-13T08:02:07.451Z] 完成 chatmodes\csharp-dotnet-janitor.chatmode.md
+[2025-10-13T08:04:51.846Z] 开始处理 chatmodes\debug.chatmode.md
+[2025-10-13T08:04:51.852Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\debug.chatmode.mindmap.md
+[2025-10-13T08:04:51.856Z] 完成 chatmodes\debug.chatmode.md
+[2025-10-13T08:04:51.858Z] 开始处理 chatmodes\declarative-agents-architect.chatmode.md
+[2025-10-13T08:04:51.865Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\declarative-agents-architect.chatmode.mindmap.md
+[2025-10-13T08:04:51.868Z] 完成 chatmodes\declarative-agents-architect.chatmode.md
+[2025-10-13T08:04:51.871Z] 开始处理 chatmodes\demonstrate-understanding.chatmode.md
+[2025-10-13T08:04:51.880Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\demonstrate-understanding.chatmode.mindmap.md
+[2025-10-13T08:04:51.883Z] 完成 chatmodes\demonstrate-understanding.chatmode.md
+[2025-10-13T08:04:51.885Z] 开始处理 chatmodes\electron-angular-native.chatmode.md
+[2025-10-13T08:04:51.889Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\electron-angular-native.chatmode.mindmap.md
+[2025-10-13T08:04:51.890Z] 完成 chatmodes\electron-angular-native.chatmode.md
+[2025-10-13T08:04:51.892Z] 开始处理 chatmodes\expert-cpp-software-engineer.chatmode.md
+[2025-10-13T08:04:51.896Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\expert-cpp-software-engineer.chatmode.mindmap.md
+[2025-10-13T08:04:51.898Z] 完成 chatmodes\expert-cpp-software-engineer.chatmode.md
+[2025-10-13T08:04:51.900Z] 开始处理 chatmodes\expert-dotnet-software-engineer.chatmode.md
+[2025-10-13T08:04:51.904Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\expert-dotnet-software-engineer.chatmode.mindmap.md
+[2025-10-13T08:04:51.905Z] 完成 chatmodes\expert-dotnet-software-engineer.chatmode.md
+[2025-10-13T08:04:51.907Z] 开始处理 chatmodes\expert-react-frontend-engineer.chatmode.md
+[2025-10-13T08:04:51.909Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\expert-react-frontend-engineer.chatmode.mindmap.md
+[2025-10-13T08:04:51.910Z] 完成 chatmodes\expert-react-frontend-engineer.chatmode.md
+[2025-10-13T08:04:51.912Z] 开始处理 chatmodes\gilfoyle.chatmode.md
+[2025-10-13T08:04:51.916Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\gilfoyle.chatmode.mindmap.md
+[2025-10-13T08:04:51.917Z] 完成 chatmodes\gilfoyle.chatmode.md
+[2025-10-13T08:04:51.918Z] 开始处理 chatmodes\hlbpa.chatmode.md
+[2025-10-13T08:04:51.926Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\hlbpa.chatmode.mindmap.md
+[2025-10-13T08:04:51.927Z] 完成 chatmodes\hlbpa.chatmode.md
+[2025-10-13T08:04:51.928Z] 开始处理 chatmodes\implementation-plan.chatmode.md
+[2025-10-13T08:04:51.931Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\implementation-plan.chatmode.mindmap.md
+[2025-10-13T08:04:51.932Z] 完成 chatmodes\implementation-plan.chatmode.md
+[2025-10-13T08:04:51.933Z] 开始处理 chatmodes\janitor.chatmode.md
+[2025-10-13T08:04:51.935Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\janitor.chatmode.mindmap.md
+[2025-10-13T08:04:51.935Z] 完成 chatmodes\janitor.chatmode.md
+[2025-10-13T08:04:51.936Z] 开始处理 chatmodes\kusto-assistant.chatmode.md
+[2025-10-13T08:04:51.938Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\kusto-assistant.chatmode.mindmap.md
+[2025-10-13T08:04:51.940Z] 完成 chatmodes\kusto-assistant.chatmode.md
+[2025-10-13T08:04:51.941Z] 开始处理 chatmodes\mentor.chatmode.md
+[2025-10-13T08:04:51.943Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\mentor.chatmode.mindmap.md
+[2025-10-13T08:04:51.943Z] 完成 chatmodes\mentor.chatmode.md
+[2025-10-13T08:04:51.944Z] 开始处理 chatmodes\meta-agentic-project-scaffold.chatmode.md
+[2025-10-13T08:04:51.947Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\meta-agentic-project-scaffold.chatmode.mindmap.md
+[2025-10-13T08:04:51.948Z] 完成 chatmodes\meta-agentic-project-scaffold.chatmode.md
+[2025-10-13T08:04:51.949Z] 开始处理 chatmodes\microsoft-study-mode.chatmode.md
+[2025-10-13T08:04:51.950Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\microsoft-study-mode.chatmode.mindmap.md
+[2025-10-13T08:04:51.951Z] 完成 chatmodes\microsoft-study-mode.chatmode.md
+[2025-10-13T08:04:51.952Z] 开始处理 chatmodes\microsoft_learn_contributor.chatmode.md
+[2025-10-13T08:04:51.954Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\microsoft_learn_contributor.chatmode.mindmap.md
+[2025-10-13T08:04:51.955Z] 完成 chatmodes\microsoft_learn_contributor.chatmode.md
+[2025-10-13T08:04:51.956Z] 开始处理 chatmodes\ms-sql-dba.chatmode.md
+[2025-10-13T08:04:51.957Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\ms-sql-dba.chatmode.mindmap.md
+[2025-10-13T08:04:51.958Z] 完成 chatmodes\ms-sql-dba.chatmode.md
+[2025-10-13T08:04:51.958Z] 开始处理 chatmodes\plan.chatmode.md
+[2025-10-13T08:04:51.960Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\plan.chatmode.mindmap.md
+[2025-10-13T08:04:51.961Z] 完成 chatmodes\plan.chatmode.md
+[2025-10-13T08:04:51.961Z] 开始处理 chatmodes\planner.chatmode.md
+[2025-10-13T08:04:51.964Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\planner.chatmode.mindmap.md
+[2025-10-13T08:04:51.966Z] 完成 chatmodes\planner.chatmode.md
+[2025-10-13T08:04:51.967Z] 开始处理 chatmodes\playwright-tester.chatmode.md
+[2025-10-13T08:04:51.969Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\playwright-tester.chatmode.mindmap.md
+[2025-10-13T08:04:51.970Z] 完成 chatmodes\playwright-tester.chatmode.md
+[2025-10-13T08:04:51.971Z] 开始处理 chatmodes\postgresql-dba.chatmode.md
+[2025-10-13T08:04:51.975Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\postgresql-dba.chatmode.mindmap.md
+[2025-10-13T08:04:51.976Z] 完成 chatmodes\postgresql-dba.chatmode.md
+[2025-10-13T08:04:51.977Z] 开始处理 chatmodes\power-platform-expert.chatmode.md
+[2025-10-13T08:04:51.983Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\power-platform-expert.chatmode.mindmap.md
+[2025-10-13T08:04:51.984Z] 完成 chatmodes\power-platform-expert.chatmode.md
+[2025-10-13T08:04:51.985Z] 开始处理 chatmodes\power-platform-mcp-integration-expert.chatmode.md
+[2025-10-13T08:04:51.987Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\power-platform-mcp-integration-expert.chatmode.mindmap.md
+[2025-10-13T08:04:51.988Z] 完成 chatmodes\power-platform-mcp-integration-expert.chatmode.md
+[2025-10-13T08:04:51.988Z] 开始处理 chatmodes\prd.chatmode.md
+[2025-10-13T08:04:51.990Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\prd.chatmode.mindmap.md
+[2025-10-13T08:04:51.991Z] 完成 chatmodes\prd.chatmode.md
+[2025-10-13T08:04:51.992Z] 开始处理 chatmodes\principal-software-engineer.chatmode.md
+[2025-10-13T08:04:51.995Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\principal-software-engineer.chatmode.mindmap.md
+[2025-10-13T08:04:51.996Z] 完成 chatmodes\principal-software-engineer.chatmode.md
+[2025-10-13T08:04:51.997Z] 开始处理 chatmodes\prompt-builder.chatmode.md
+[2025-10-13T08:04:51.999Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\prompt-builder.chatmode.mindmap.md
+[2025-10-13T08:04:52.000Z] 完成 chatmodes\prompt-builder.chatmode.md
+[2025-10-13T08:04:52.000Z] 开始处理 chatmodes\prompt-engineer.chatmode.md
+[2025-10-13T08:04:52.003Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\prompt-engineer.chatmode.mindmap.md
+[2025-10-13T08:04:52.004Z] 完成 chatmodes\prompt-engineer.chatmode.md
+[2025-10-13T08:04:52.005Z] 开始处理 chatmodes\refine-issue.chatmode.md
+[2025-10-13T08:04:52.006Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\refine-issue.chatmode.mindmap.md
+[2025-10-13T08:04:52.007Z] 完成 chatmodes\refine-issue.chatmode.md
+[2025-10-13T08:04:52.008Z] 开始处理 chatmodes\research-technical-spike.chatmode.md
+[2025-10-13T08:04:52.009Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\research-technical-spike.chatmode.mindmap.md
+[2025-10-13T08:04:52.010Z] 完成 chatmodes\research-technical-spike.chatmode.md
+[2025-10-13T08:04:52.011Z] 开始处理 chatmodes\rust-gpt-4.1-beast-mode.chatmode.md
+[2025-10-13T08:04:52.017Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\rust-gpt-4.1-beast-mode.chatmode.mindmap.md
+[2025-10-13T08:04:52.019Z] 完成 chatmodes\rust-gpt-4.1-beast-mode.chatmode.md
+[2025-10-13T08:04:52.019Z] 开始处理 chatmodes\semantic-kernel-dotnet.chatmode.md
+[2025-10-13T08:04:52.023Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\semantic-kernel-dotnet.chatmode.mindmap.md
+[2025-10-13T08:04:52.024Z] 完成 chatmodes\semantic-kernel-dotnet.chatmode.md
+[2025-10-13T08:04:52.025Z] 开始处理 chatmodes\semantic-kernel-python.chatmode.md
+[2025-10-13T08:04:52.031Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\semantic-kernel-python.chatmode.mindmap.md
+[2025-10-13T08:04:52.032Z] 完成 chatmodes\semantic-kernel-python.chatmode.md
+[2025-10-13T08:04:52.033Z] 开始处理 chatmodes\simple-app-idea-generator.chatmode.md
+[2025-10-13T08:04:52.038Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\simple-app-idea-generator.chatmode.mindmap.md
+[2025-10-13T08:04:52.039Z] 完成 chatmodes\simple-app-idea-generator.chatmode.md
+[2025-10-13T08:04:52.040Z] 开始处理 chatmodes\software-engineer-agent-v1.chatmode.md
+[2025-10-13T08:04:52.046Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\software-engineer-agent-v1.chatmode.mindmap.md
+[2025-10-13T08:04:52.048Z] 完成 chatmodes\software-engineer-agent-v1.chatmode.md
+[2025-10-13T08:04:52.048Z] 开始处理 chatmodes\specification.chatmode.md
+[2025-10-13T08:04:52.051Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\specification.chatmode.mindmap.md
+[2025-10-13T08:04:52.052Z] 完成 chatmodes\specification.chatmode.md
+[2025-10-13T08:04:52.053Z] 开始处理 chatmodes\task-planner.chatmode.md
+[2025-10-13T08:04:52.056Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\task-planner.chatmode.mindmap.md
+[2025-10-13T08:04:52.057Z] 完成 chatmodes\task-planner.chatmode.md
+[2025-10-13T08:04:52.058Z] 开始处理 chatmodes\task-researcher.chatmode.md
+[2025-10-13T08:04:52.060Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\task-researcher.chatmode.mindmap.md
+[2025-10-13T08:04:52.061Z] 完成 chatmodes\task-researcher.chatmode.md
+[2025-10-13T08:04:52.062Z] 开始处理 chatmodes\tdd-green.chatmode.md
+[2025-10-13T08:04:52.070Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\tdd-green.chatmode.mindmap.md
+[2025-10-13T08:04:52.071Z] 完成 chatmodes\tdd-green.chatmode.md
+[2025-10-13T08:04:52.072Z] 开始处理 chatmodes\tdd-red.chatmode.md
+[2025-10-13T08:04:52.076Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\tdd-red.chatmode.mindmap.md
+[2025-10-13T08:04:52.077Z] 完成 chatmodes\tdd-red.chatmode.md
+[2025-10-13T08:04:52.078Z] 开始处理 chatmodes\tdd-refactor.chatmode.md
+[2025-10-13T08:04:52.082Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\tdd-refactor.chatmode.mindmap.md
+[2025-10-13T08:04:52.083Z] 完成 chatmodes\tdd-refactor.chatmode.md
+[2025-10-13T08:04:52.084Z] 开始处理 chatmodes\tech-debt-remediation-plan.chatmode.md
+[2025-10-13T08:04:52.090Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\tech-debt-remediation-plan.chatmode.mindmap.md
+[2025-10-13T08:04:52.091Z] 完成 chatmodes\tech-debt-remediation-plan.chatmode.md
+[2025-10-13T08:04:52.092Z] 开始处理 chatmodes\terraform-azure-implement.chatmode.md
+[2025-10-13T08:04:52.096Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\terraform-azure-implement.chatmode.mindmap.md
+[2025-10-13T08:04:52.097Z] 完成 chatmodes\terraform-azure-implement.chatmode.md
+[2025-10-13T08:04:52.098Z] 开始处理 chatmodes\terraform-azure-planning.chatmode.md
+[2025-10-13T08:04:52.101Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\terraform-azure-planning.chatmode.mindmap.md
+[2025-10-13T08:04:52.102Z] 完成 chatmodes\terraform-azure-planning.chatmode.md
+[2025-10-13T08:04:52.103Z] 开始处理 chatmodes\Thinking-Beast-Mode.chatmode.md
+[2025-10-13T08:04:52.109Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\Thinking-Beast-Mode.chatmode.mindmap.md
+[2025-10-13T08:04:52.110Z] 完成 chatmodes\Thinking-Beast-Mode.chatmode.md
+[2025-10-13T08:04:52.110Z] 开始处理 chatmodes\Ultimate-Transparent-Thinking-Beast-Mode.chatmode.md
+[2025-10-13T08:04:52.117Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\Ultimate-Transparent-Thinking-Beast-Mode.chatmode.mindmap.md
+[2025-10-13T08:04:52.118Z] 完成 chatmodes\Ultimate-Transparent-Thinking-Beast-Mode.chatmode.md
+[2025-10-13T08:04:52.119Z] 开始处理 chatmodes\voidbeast-gpt41enhanced.chatmode.md
+[2025-10-13T08:04:52.122Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\voidbeast-gpt41enhanced.chatmode.mindmap.md
+[2025-10-13T08:04:52.123Z] 完成 chatmodes\voidbeast-gpt41enhanced.chatmode.md
+[2025-10-13T08:04:52.124Z] 开始处理 chatmodes\wg-code-alchemist.chatmode.md
+[2025-10-13T08:04:52.127Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\wg-code-alchemist.chatmode.mindmap.md
+[2025-10-13T08:04:52.128Z] 完成 chatmodes\wg-code-alchemist.chatmode.md
+[2025-10-13T08:04:52.132Z] 开始处理 chatmodes\wg-code-sentinel.chatmode.md
+[2025-10-13T08:04:52.136Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\chatmodes\wg-code-sentinel.chatmode.mindmap.md
+[2025-10-13T08:04:52.138Z] 完成 chatmodes\wg-code-sentinel.chatmode.md
+[2025-10-13T08:04:52.139Z] 开始处理 instructions\a11y.instructions.md
+[2025-10-13T08:04:52.143Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\a11y.instructions.mindmap.md
+[2025-10-13T08:04:52.144Z] 完成 instructions\a11y.instructions.md
+[2025-10-13T08:04:52.145Z] 开始处理 instructions\ai-prompt-engineering-safety-best-practices.instructions.md
+[2025-10-13T08:04:52.149Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\ai-prompt-engineering-safety-best-practices.instructions.mindmap.md
+[2025-10-13T08:04:52.150Z] 完成 instructions\ai-prompt-engineering-safety-best-practices.instructions.md
+[2025-10-13T08:08:02.282Z] 开始处理 instructions\angular.instructions.md
+[2025-10-13T08:08:02.284Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\angular.instructions.mindmap.md
+[2025-10-13T08:08:02.285Z] 完成 instructions\angular.instructions.md
+[2025-10-13T08:08:02.286Z] 开始处理 instructions\ansible.instructions.md
+[2025-10-13T08:08:02.287Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\ansible.instructions.mindmap.md
+[2025-10-13T08:08:02.288Z] 完成 instructions\ansible.instructions.md
+[2025-10-13T08:08:02.289Z] 开始处理 instructions\aspnet-rest-apis.instructions.md
+[2025-10-13T08:08:02.290Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\aspnet-rest-apis.instructions.mindmap.md
+[2025-10-13T08:08:02.291Z] 完成 instructions\aspnet-rest-apis.instructions.md
+[2025-10-13T08:08:02.292Z] 开始处理 instructions\astro.instructions.md
+[2025-10-13T08:08:02.294Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\astro.instructions.mindmap.md
+[2025-10-13T08:08:02.294Z] 完成 instructions\astro.instructions.md
+[2025-10-13T08:08:02.295Z] 开始处理 instructions\azure-devops-pipelines.instructions.md
+[2025-10-13T08:08:02.296Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\azure-devops-pipelines.instructions.mindmap.md
+[2025-10-13T08:08:02.297Z] 完成 instructions\azure-devops-pipelines.instructions.md
+[2025-10-13T08:08:02.299Z] 开始处理 instructions\azure-functions-typescript.instructions.md
+[2025-10-13T08:08:02.300Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\azure-functions-typescript.instructions.mindmap.md
+[2025-10-13T08:08:02.301Z] 完成 instructions\azure-functions-typescript.instructions.md
+[2025-10-13T08:08:02.302Z] 开始处理 instructions\azure-logic-apps-power-automate.instructions.md
+[2025-10-13T08:08:02.303Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\azure-logic-apps-power-automate.instructions.mindmap.md
+[2025-10-13T08:08:02.304Z] 完成 instructions\azure-logic-apps-power-automate.instructions.md
+[2025-10-13T08:08:02.305Z] 开始处理 instructions\azure-verified-modules-terraform.instructions.md
+[2025-10-13T08:08:02.306Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\azure-verified-modules-terraform.instructions.mindmap.md
+[2025-10-13T08:08:02.307Z] 完成 instructions\azure-verified-modules-terraform.instructions.md
+[2025-10-13T08:08:02.308Z] 开始处理 instructions\bicep-code-best-practices.instructions.md
+[2025-10-13T08:08:02.309Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\bicep-code-best-practices.instructions.mindmap.md
+[2025-10-13T08:08:02.311Z] 完成 instructions\bicep-code-best-practices.instructions.md
+[2025-10-13T08:08:02.312Z] 开始处理 instructions\blazor.instructions.md
+[2025-10-13T08:08:02.313Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\blazor.instructions.mindmap.md
+[2025-10-13T08:08:02.314Z] 完成 instructions\blazor.instructions.md
+[2025-10-13T08:08:02.315Z] 开始处理 instructions\clojure.instructions.md
+[2025-10-13T08:08:02.317Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\clojure.instructions.mindmap.md
+[2025-10-13T08:08:02.318Z] 完成 instructions\clojure.instructions.md
+[2025-10-13T08:08:02.319Z] 开始处理 instructions\cmake-vcpkg.instructions.md
+[2025-10-13T08:08:02.320Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\cmake-vcpkg.instructions.mindmap.md
+[2025-10-13T08:08:02.321Z] 完成 instructions\cmake-vcpkg.instructions.md
+[2025-10-13T08:08:02.322Z] 开始处理 instructions\coldfusion-cfc.instructions.md
+[2025-10-13T08:08:02.322Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\coldfusion-cfc.instructions.mindmap.md
+[2025-10-13T08:08:02.323Z] 完成 instructions\coldfusion-cfc.instructions.md
+[2025-10-13T08:08:02.324Z] 开始处理 instructions\coldfusion-cfm.instructions.md
+[2025-10-13T08:08:02.326Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\coldfusion-cfm.instructions.mindmap.md
+[2025-10-13T08:08:02.327Z] 完成 instructions\coldfusion-cfm.instructions.md
+[2025-10-13T08:08:02.328Z] 开始处理 instructions\collections.instructions.md
+[2025-10-13T08:08:02.329Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\collections.instructions.mindmap.md
+[2025-10-13T08:08:02.330Z] 完成 instructions\collections.instructions.md
+[2025-10-13T08:08:02.331Z] 开始处理 instructions\containerization-docker-best-practices.instructions.md
+[2025-10-13T08:08:02.332Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\containerization-docker-best-practices.instructions.mindmap.md
+[2025-10-13T08:08:02.333Z] 完成 instructions\containerization-docker-best-practices.instructions.md
+[2025-10-13T08:08:02.334Z] 开始处理 instructions\conventional-commit.prompt.md
+[2025-10-13T08:08:02.336Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\conventional-commit.prompt.mindmap.md
+[2025-10-13T08:08:02.337Z] 完成 instructions\conventional-commit.prompt.md
+[2025-10-13T08:08:02.338Z] 开始处理 instructions\convert-jpa-to-spring-data-cosmos.instructions.md
+[2025-10-13T08:08:02.340Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\convert-jpa-to-spring-data-cosmos.instructions.mindmap.md
+[2025-10-13T08:08:02.342Z] 完成 instructions\convert-jpa-to-spring-data-cosmos.instructions.md
+[2025-10-13T08:08:02.343Z] 开始处理 instructions\copilot-thought-logging.instructions.md
+[2025-10-13T08:08:02.344Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\copilot-thought-logging.instructions.mindmap.md
+[2025-10-13T08:08:02.345Z] 完成 instructions\copilot-thought-logging.instructions.md
+[2025-10-13T08:08:02.346Z] 开始处理 instructions\csharp-ja.instructions.md
+[2025-10-13T08:08:02.348Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\csharp-ja.instructions.mindmap.md
+[2025-10-13T08:08:02.349Z] 完成 instructions\csharp-ja.instructions.md
+[2025-10-13T08:08:02.350Z] 开始处理 instructions\csharp-ko.instructions.md
+[2025-10-13T08:08:02.352Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\csharp-ko.instructions.mindmap.md
+[2025-10-13T08:08:02.353Z] 完成 instructions\csharp-ko.instructions.md
+[2025-10-13T08:08:02.354Z] 开始处理 instructions\csharp.instructions.md
+[2025-10-13T08:08:02.355Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\csharp.instructions.mindmap.md
+[2025-10-13T08:08:02.356Z] 完成 instructions\csharp.instructions.md
+[2025-10-13T08:08:02.357Z] 开始处理 instructions\dart-n-flutter.instructions.md
+[2025-10-13T08:08:02.358Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\dart-n-flutter.instructions.mindmap.md
+[2025-10-13T08:08:02.359Z] 完成 instructions\dart-n-flutter.instructions.md
+[2025-10-13T08:08:02.360Z] 开始处理 instructions\declarative-agents-microsoft365.instructions.md
+[2025-10-13T08:08:02.361Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\declarative-agents-microsoft365.instructions.mindmap.md
+[2025-10-13T08:08:02.362Z] 完成 instructions\declarative-agents-microsoft365.instructions.md
+[2025-10-13T08:08:02.362Z] 开始处理 instructions\devbox-image-definition.instructions.md
+[2025-10-13T08:08:02.364Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\devbox-image-definition.instructions.mindmap.md
+[2025-10-13T08:08:02.364Z] 完成 instructions\devbox-image-definition.instructions.md
+[2025-10-13T08:08:02.365Z] 开始处理 instructions\devops-core-principles.instructions.md
+[2025-10-13T08:08:02.368Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\devops-core-principles.instructions.mindmap.md
+[2025-10-13T08:08:02.369Z] 完成 instructions\devops-core-principles.instructions.md
+[2025-10-13T08:08:02.369Z] 开始处理 instructions\dotnet-architecture-good-practices.instructions.md
+[2025-10-13T08:08:02.371Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\dotnet-architecture-good-practices.instructions.mindmap.md
+[2025-10-13T08:08:02.372Z] 完成 instructions\dotnet-architecture-good-practices.instructions.md
+[2025-10-13T08:08:02.373Z] 开始处理 instructions\dotnet-framework.instructions.md
+[2025-10-13T08:08:02.374Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\dotnet-framework.instructions.mindmap.md
+[2025-10-13T08:08:02.376Z] 完成 instructions\dotnet-framework.instructions.md
+[2025-10-13T08:08:02.377Z] 开始处理 instructions\dotnet-maui.instructions.md
+[2025-10-13T08:08:02.378Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\dotnet-maui.instructions.mindmap.md
+[2025-10-13T08:08:02.379Z] 完成 instructions\dotnet-maui.instructions.md
+[2025-10-13T08:08:02.380Z] 开始处理 instructions\dotnet-wpf.instructions.md
+[2025-10-13T08:08:02.381Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\dotnet-wpf.instructions.mindmap.md
+[2025-10-13T08:08:02.382Z] 完成 instructions\dotnet-wpf.instructions.md
+[2025-10-13T08:08:02.382Z] 开始处理 instructions\genaiscript.instructions.md
+[2025-10-13T08:08:02.383Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\genaiscript.instructions.mindmap.md
+[2025-10-13T08:08:02.384Z] 完成 instructions\genaiscript.instructions.md
+[2025-10-13T08:08:02.386Z] 开始处理 instructions\generate-modern-terraform-code-for-azure.instructions.md
+[2025-10-13T08:08:02.387Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\generate-modern-terraform-code-for-azure.instructions.mindmap.md
+[2025-10-13T08:08:02.388Z] 完成 instructions\generate-modern-terraform-code-for-azure.instructions.md
+[2025-10-13T08:08:02.389Z] 开始处理 instructions\gilfoyle-code-review.instructions.md
+[2025-10-13T08:08:02.390Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\gilfoyle-code-review.instructions.mindmap.md
+[2025-10-13T08:08:02.393Z] 完成 instructions\gilfoyle-code-review.instructions.md
+[2025-10-13T08:08:02.395Z] 开始处理 instructions\github-actions-ci-cd-best-practices.instructions.md
+[2025-10-13T08:08:02.397Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\github-actions-ci-cd-best-practices.instructions.mindmap.md
+[2025-10-13T08:08:02.398Z] 完成 instructions\github-actions-ci-cd-best-practices.instructions.md
+[2025-10-13T08:08:02.399Z] 开始处理 instructions\go.instructions.md
+[2025-10-13T08:08:02.400Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\go.instructions.mindmap.md
+[2025-10-13T08:08:02.400Z] 完成 instructions\go.instructions.md
+[2025-10-13T08:08:02.401Z] 开始处理 instructions\java-11-to-java-17-upgrade.instructions.md
+[2025-10-13T08:08:02.403Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\java-11-to-java-17-upgrade.instructions.mindmap.md
+[2025-10-13T08:08:02.404Z] 完成 instructions\java-11-to-java-17-upgrade.instructions.md
+[2025-10-13T08:08:02.405Z] 开始处理 instructions\java-17-to-java-21-upgrade.instructions.md
+[2025-10-13T08:08:02.406Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\java-17-to-java-21-upgrade.instructions.mindmap.md
+[2025-10-13T08:08:02.407Z] 完成 instructions\java-17-to-java-21-upgrade.instructions.md
+[2025-10-13T08:08:02.410Z] 开始处理 instructions\java-21-to-java-25-upgrade.instructions.md
+[2025-10-13T08:08:02.411Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\java-21-to-java-25-upgrade.instructions.mindmap.md
+[2025-10-13T08:08:02.413Z] 完成 instructions\java-21-to-java-25-upgrade.instructions.md
+[2025-10-13T08:08:02.414Z] 开始处理 instructions\java.instructions.md
+[2025-10-13T08:08:02.415Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\java.instructions.mindmap.md
+[2025-10-13T08:08:02.416Z] 完成 instructions\java.instructions.md
+[2025-10-13T08:08:02.416Z] 开始处理 instructions\joyride-user-project.instructions.md
+[2025-10-13T08:08:02.418Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\joyride-user-project.instructions.mindmap.md
+[2025-10-13T08:08:02.418Z] 完成 instructions\joyride-user-project.instructions.md
+[2025-10-13T08:08:02.419Z] 开始处理 instructions\joyride-workspace-automation.instructions.md
+[2025-10-13T08:08:02.420Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\joyride-workspace-automation.instructions.mindmap.md
+[2025-10-13T08:08:02.421Z] 完成 instructions\joyride-workspace-automation.instructions.md
+[2025-10-13T08:08:02.421Z] 开始处理 instructions\kubernetes-deployment-best-practices.instructions.md
+[2025-10-13T08:08:02.422Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\kubernetes-deployment-best-practices.instructions.mindmap.md
+[2025-10-13T08:08:02.423Z] 完成 instructions\kubernetes-deployment-best-practices.instructions.md
+[2025-10-13T08:08:02.425Z] 开始处理 instructions\langchain-python.instructions.md
+[2025-10-13T08:08:02.427Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\langchain-python.instructions.mindmap.md
+[2025-10-13T08:08:02.429Z] 完成 instructions\langchain-python.instructions.md
+[2025-10-13T08:08:02.430Z] 开始处理 instructions\localization.instructions.md
+[2025-10-13T08:08:02.431Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\localization.instructions.mindmap.md
+[2025-10-13T08:08:02.432Z] 完成 instructions\localization.instructions.md
+[2025-10-13T08:08:02.433Z] 开始处理 instructions\markdown.instructions.md
+[2025-10-13T08:08:02.434Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\markdown.instructions.mindmap.md
+[2025-10-13T08:08:02.435Z] 完成 instructions\markdown.instructions.md
+[2025-10-13T08:08:02.435Z] 开始处理 instructions\memory-bank.instructions.md
+[2025-10-13T08:08:02.436Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\memory-bank.instructions.mindmap.md
+[2025-10-13T08:08:02.437Z] 完成 instructions\memory-bank.instructions.md
+[2025-10-13T08:08:02.438Z] 开始处理 instructions\ms-sql-dba.instructions.md
+[2025-10-13T08:08:02.439Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\ms-sql-dba.instructions.mindmap.md
+[2025-10-13T08:08:02.440Z] 完成 instructions\ms-sql-dba.instructions.md
+[2025-10-13T08:08:02.441Z] 开始处理 instructions\nestjs.instructions.md
+[2025-10-13T08:08:02.443Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\nestjs.instructions.mindmap.md
+[2025-10-13T08:08:02.444Z] 完成 instructions\nestjs.instructions.md
+[2025-10-13T08:08:02.445Z] 开始处理 instructions\nextjs-tailwind.instructions.md
+[2025-10-13T08:08:02.446Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\nextjs-tailwind.instructions.mindmap.md
+[2025-10-13T08:08:02.447Z] 完成 instructions\nextjs-tailwind.instructions.md
+[2025-10-13T08:08:02.448Z] 开始处理 instructions\nextjs.instructions.md
+[2025-10-13T08:08:02.449Z] 生成: d:\mycode\awesome-copilot\my-custom\Mind Map\instructions\nextjs.instructions.mindmap.md
+[2025-10-13T08:08:02.450Z] 完成 instructions\nextjs.instructions.md
+{"ts":"2025-10-13T08:38:33.786Z","id":244,"src":"chatmodes\\4.1-Beast.chatmode.md","out":"my-custom\\Mind Map\\chatmodes\\4.1-Beast.chatmode.mindmap.md","status":"failed","error":"OPENAI_API_KEY not set in environment"}
+{"ts":"2025-10-13T08:38:33.798Z","id":245,"src":"chatmodes\\accesibility.chatmode.md","out":"my-custom\\Mind Map\\chatmodes\\accesibility.chatmode.mindmap.md","status":"failed","error":"OPENAI_API_KEY not set in environment"}
+{"ts":"2025-10-13T08:38:33.817Z","id":246,"src":"chatmodes\\address-comments.chatmode.md","out":"my-custom\\Mind Map\\chatmodes\\address-comments.chatmode.mindmap.md","status":"failed","error":"OPENAI_API_KEY not set in environment"}
