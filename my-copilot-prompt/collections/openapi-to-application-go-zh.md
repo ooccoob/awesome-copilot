@@ -1,0 +1,13 @@
+# OpenAPI 到应用程序 - Go
+
+根据 OpenAPI 规范生成生产就绪的 Go 应用程序。包括项目脚手架、处理程序生成、中间件设置和 REST API 的 Go 最佳实践。
+
+**标签：** openapi、代码生成、api、go、golang
+
+## 该系列中的项目
+
+|标题 |类型 |描述 | MCP 服务器 |
+| ----- | ---- | ----------- | ----------- |
+| [OpenAPI 到应用程序生成器](../agents/openapi-to-application.agent-zh.md)<br />[![在 VS 中安装代码](https://img.shields.io/badge/VS_Code-Install-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://aka.ms/awesome-copilot/install/agent?url=vscode%3Achat-agent%2Finstall%3Furl%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fawesome-copilot%2Fmain%2Fagents%2Fopenapi-to-application.agent.md)<br />[![在 VS Code 中安装内部人员](https://img.shields.io/badge/VS_Code_Insiders-Install-24bfa5?style=flat-square&logo=visualstudiocode&logoColor=white)](https://aka.ms/awesome-copilot/install/agent?url=vscode-insiders%3Achat-agent%2Finstall%3Furl%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fawesome-copilot%2Fmain%2Fagents%2Fopenapi-to-application.agent.md) |代理|根据 OpenAPI 规范生成工作应用程序的专家助手 |  |
+| [Go开发说明](../instructions/go.instructions-zh.md)<br />[![在VS中安装代码](https://img.shields.io/badge/VS_Code-Install-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://aka.ms/awesome-copilot/install/instructions?url=vscode%3Achat-instructions%2Finstall%3Furl%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fawesome-copilot%2Fmain%2Finstructions%2Fgo.instructions.md)<br />[![在 VS Code 中安装业内人士](https://img.shields.io/badge/VS_Code_Insiders-Install-24bfa5?style=flat-square&logo=visualstudiocode&logoColor=white)](https://aka.ms/awesome-copilot/install/instructions?url=vscode-insiders%3Achat-instructions%2Finstall%3Furl%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fawesome-copilot%2Fmain%2Finstructions%2Fgo.instructions.md) |说明 |遵循惯用的 Go 实践和社区标准编写 Go 代码的说明 |  |
+| [根据 OpenAPI 规范生成应用程序](../prompts/openapi-to-application-code.prompt-zh.md)<br />[![在 VS 中安装代码](https://img.shields.io/badge/VS_Code-Install-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://aka.ms/awesome-copilot/install/prompt?url=vscode%3Achat-prompt%2Finstall%3Furl%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fawesome-copilot%2Fmain%2Fprompts%2Fopenapi-to-application-code.prompt.md)<br />[![在 VS Code 中安装内部人员](https://img.shields.io/badge/VS_Code_Insiders-Install-24bfa5?style=flat-square&logo=visualstudiocode&logoColor=white)](https://aka.ms/awesome-copilot/install/prompt?url=vscode-insiders%3Achat-prompt%2Finstall%3Furl%3Dht tps%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fawesome-copilot%2Fmain%2Fprompts%2Fopenapi-to-application-code.prompt.md) |提示|根据 OpenAPI 规范生成完整的、可用于生产的应用程序 |  |
