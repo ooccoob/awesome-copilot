@@ -1,0 +1,126 @@
+---
+description: 'Technology-agnostic prompt generator that creates customizable AI prompts for scanning codebases and identifying high-quality code exemplars. Supports multiple programming languages (.NET, Java, JavaScript, TypeScript, React, Angular, Python) with configurable analysis depth, categorization methods, and documentation formats to establish coding standards and maintain consistency across development teams.'
+agent: 'agent'
+---
+
+# 代码示例蓝图生成器
+
+## 配置变量
+${PROJECT_TYPE="Auto-detect|.NET|Java|JavaScript|TypeScript|React|Angular|Python|Other"} <!-- 主要技术 -->
+${SCAN_DEPTH="Basic|Standard|Compressive"} <!-- 分析代码库的深度 -->
+${INCLUDE_CODE_SNIPPETS=true|false} <!-- 除了文件引用之外还包括实际的代码片段 -->
+${CATEGORIZATION="模式类型|架构层|文件类型"} <!-- 如何组织范例 -->
+${MAX_EXAMPLES_PER_CATEGORY=3} <!-- 每个类别的最大示例数 -->
+${INCLUDE_COMMENTS=true|false} <!-- 包含每个示例的解释性注释 -->
+
+## 生成的提示
+
+“扫描此代码库并生成 exemplars.md 文件，该文件可识别高质量、有代表性的代码示例。示例应演示我们的编码标准和模式，以帮助保持一致性。使用以下方法：
+
+### 1. 代码库分析阶段
+- ${PROJECT_TYPE == “自动检测”？ “通过扫描文件扩展名和配置文件自动检测主要编程语言和框架”：`Focus on ${PROJECT_TYPE} code files`}
+- 识别具有高质量实施、良好文档和清晰结构的文件
+- 寻找常用的模式、架构组件和结构良好的实现
+- 优先考虑展示我们技术堆栈最佳实践的文件
+- 仅引用代码库中存在的实际文件 - 没有假设的示例
+
+### 2. 范例识别标准
+- 结构良好、可读的代码，具有清晰的命名约定
+- 综合评论和文档
+- 正确的错误处理和验证
+- 遵守设计模式和架构原则
+- 关注点分离和单一职责原则
+- 高效实施，无代码异味
+- 我们标准方法的代表
+
+### 3. 核心模式类别
+
+${PROJECT_TYPE == ".NET" || PROJECT_TYPE ==“自动检测”？ `#### .NET 示例（如果检测到）
+- **领域模型**：查找正确实现封装和领域逻辑的实体
+- **存储库实现**：我们的数据访问方法的示例
+- **服务层组件**：结构良好的业务逻辑实现
+- **控制器模式**：通过适当的验证和响应来清洁 API 控制器
+- **依赖注入用法**：DI 配置和使用的好示例
+- **中间件组件**：自定义中间件实现
+- **单元测试模式**：具有适当安排和断言的结构良好的测试`：“”}
+
+${(PROJECT_TYPE == "JavaScript" || PROJECT_TYPE == "TypeScript" || PROJECT_TYPE == "React" || PROJECT_TYPE == "Angular" || PROJECT_TYPE == "自动检测") ? `#### 前端示例（如果检测到）
+- **组件结构**：干净、结构良好的组件
+- **状态管理**：状态处理的好例子
+- **API集成**：实施良好的服务调用和数据处理
+- **表单处理**：验证和提交模式
+- **路由实现**：导航和路线配置
+- **UI 组件**：可重用、结构良好的 UI 元素
+- **单元测试示例**：组件和服务测试`: ""}
+
+${PROJECT_TYPE == "Java" || PROJECT_TYPE ==“自动检测”？ `#### Java 示例（如果检测到）
+- **实体类**：精心设计的 JPA 实体或域模型
+- **服务实现**：清理服务层组件
+- **存储库模式**：数据访问实现
+- **控制器/资源类**：API端点实现
+- **配置类**：应用程序配置
+- **单元测试**：结构良好的 JUnit 测试`：“”}
+
+${PROJECT_TYPE == "Python" || PROJECT_TYPE ==“自动检测”？ `#### Python 示例（如果检测到）
+- **类定义**：具有适当文档的结构良好的类
+- **API 路由/视图**：干净的 API 实现
+- **数据模型**：ORM 模型定义
+- **服务功能**：业务逻辑实现
+- **实用模块**：帮助程序和实用功能
+- **测试用例**：结构良好的单元测试`：“”}
+
+### 4. 架构层示例
+
+- **表示层**：
+  - 用户界面组件
+  - 控制器/API端点
+  - 查看模型/DTO
+  
+- **业务逻辑层**：
+  - 服务实施
+  - 业务逻辑组件
+  - 工作流程编排
+  
+- **数据访问层**：
+  - 存储库实现
+  - 数据模型
+  - 查询模式
+  
+- **交叉问题**：
+  - 日志记录实现
+  - 错误处理
+  - 认证/授权
+  - 验证
+
+### 5. 文档格式范例
+
+对于每个确定的范例，记录：
+- 文件路径（相对于存储库根目录）
+- 简要描述其堪称典范的原因
+- 它代表的模式或组件类型
+${INCLUDE_COMMENTS ？ "- 演示了关键实现细节和编码原则" : ""}
+${INCLUDE_CODE_SNIPPETS ？ "- 小的、有代表性的代码片段（如果适用）" : ""}
+
+${SCAN_DEPTH ==“全面”？ `### 6. 附加文档
+
+- **一致性模式**：注意在代码库中观察到的一致模式
+- **架构观察**：记录代码中明显的架构模式
+- **实现约定**：确定命名和结构约定
+- **要避免的反模式**：注意代码库偏离最佳实践的任何区域`：“”}
+
+### ${SCAN_DEPTH ==“全面”？ “7”：“6”}。输出格式
+
+使用以下命令创建 exemplars.md：
+1. 简介解释文档的目的
+2. 包含类别链接的目录
+3. 根据 ${CATEGORIZATION} 组织部分
+4. 每个类别最多 ${MAX_EXAMPLES_PER_CATEGORY} 个示例
+5. 结论以及维护代码质量的建议
+
+该文档对于需要指导来实现与现有模式一致的新功能的开发人员来说应该是可操作的。
+
+重要提示：仅包含代码库中的实际文件。验证所有文件路径是否存在。请勿包含占位符或假设示例。
+"
+
+## 预期输出
+运行此提示后，GitHub Copilot 将扫描您的代码库并生成一个 exemplars.md 文件，其中包含对存储库中高质量代码示例的真实引用，并根据您选择的参数进行组织。
