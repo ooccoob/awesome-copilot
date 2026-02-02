@@ -27,29 +27,29 @@ Generate the following project structure using Microsoft 365 Agents Toolkit:
 **appPackage/manifest.json** - Teams app manifest with plugin reference:
 ```json
 {
-"$schema": "https://developer.microsoft.com/json-schemas/teams/vDevPreview/MicrosoftTeams.schema.json",
+  "$schema": "https://developer.microsoft.com/json-schemas/teams/vDevPreview/MicrosoftTeams.schema.json",
   "manifestVersion": "devPreview",
-  “版本”：“1.0.0”，
+  "version": "1.0.0",
   "id": "...",
-  “开发人员”：{
-    “名称”：“...”，
-    "网站网址": "...",
+  "developer": {
+    "name": "...",
+    "websiteUrl": "...",
     "privacyUrl": "...",
     "termsOfUseUrl": "..."
   },
-  “姓名”：{
-    "short": "代理名称",
-    "full": "代理全名"
+  "name": {
+    "short": "Agent Name",
+    "full": "Full Agent Name"
   },
-  “描述”：{
-    "short": "简短描述",
-    "full": "完整描述"
+  "description": {
+    "short": "Short description",
+    "full": "Full description"
   },
-  “副驾驶代理”：{
-    “声明性代理”：[
+  "copilotAgents": {
+    "declarativeAgents": [
       {
-        "id": "声明性代理",
-        “文件”：“声明性Agent.json”
+        "id": "declarativeAgent",
+        "file": "declarativeAgent.json"
       }
     ]
   }
@@ -60,22 +60,22 @@ Generate the following project structure using Microsoft 365 Agents Toolkit:
 ```json
 {
   "$schema": "https://aka.ms/json-schemas/copilot/declarative-agent/v1.0/schema.json",
-  “版本”：“v1.0”，
-  "name": "代理人姓名",
-  "description": "代理描述",
-  "instructions": "您是一名帮助[特定领域]的助手。使用可用的工具来[功能]。",
-  “能力”：[
+  "version": "v1.0",
+  "name": "Agent Name",
+  "description": "Agent description",
+  "instructions": "You are an assistant that helps with [specific domain]. Use the available tools to [capabilities].",
+  "capabilities": [
     {
-      "name": "网络搜索",
-      “网站”：[
+      "name": "WebSearch",
+      "websites": [
         {
-          “url”：“https://learn.microsoft.com”
+          "url": "https://learn.microsoft.com"
         }
       ]
     },
     {
-      “名称”：“MCP”，
-      “文件”：“ai-plugin.json”
+      "name": "MCP",
+      "file": "ai-plugin.json"
     }
   ]
 }
@@ -84,44 +84,44 @@ Generate the following project structure using Microsoft 365 Agents Toolkit:
 **appPackage/ai-plugin.json** - MCP plugin manifest:
 ```json
 {
-  “schema_version”：“v2.1”，
-  "name_for_ human": "服务名称",
-  "description_for_ human": "用户描述",
-  "description_for_model": "AI 模型的描述",
+  "schema_version": "v2.1",
+  "name_for_human": "Service Name",
+  "description_for_human": "Description for users",
+  "description_for_model": "Description for AI model",
   "contact_email": "support@company.com",
-  "命名空间": "服务名称",
-  “能力”：{
-    “conversation_starters”：[
+  "namespace": "serviceName",
+  "capabilities": {
+    "conversation_starters": [
       {
-        "text": "示例查询 1"
+        "text": "Example query 1"
       }
     ]
   },
-  “功能”：[
+  "functions": [
     {
-      "name": "函数名称",
-      "description": "功能描述",
-      “能力”：{
-        “响应语义”：{
-          “数据路径”：“$”，
-          “属性”：{
-            "标题": "$.标题",
-            "副标题": "$.描述"
+      "name": "functionName",
+      "description": "Function description",
+      "capabilities": {
+        "response_semantics": {
+          "data_path": "$",
+          "properties": {
+            "title": "$.title",
+            "subtitle": "$.description"
           }
         }
       }
     }
   ],
-  “运行时”：[
+  "runtimes": [
     {
-      “类型”：“MCP”，
-      “规格”：{
-        “url”：“https://api.service.com/mcp/”
+      "type": "MCP",
+      "spec": {
+        "url": "https://api.service.com/mcp/"
       },
-      "run_for_functions": ["函数名称"],
-      “授权”：{
-        “类型”：“OAuthPluginVault”，
-        “reference_id”：“${{OAUTH_REFERENCE_ID}}”
+      "run_for_functions": ["functionName"],
+      "auth": {
+        "type": "OAuthPluginVault",
+        "reference_id": "${{OAUTH_REFERENCE_ID}}"
       }
     }
   ]
@@ -154,20 +154,20 @@ When importing from MCP:
 
 **OAuth 2.0 (Static Registration)**
 ```json
-“授权”：{
-  “类型”：“OAuthPluginVault”，
+"auth": {
+  "type": "OAuthPluginVault",
   "reference_id": "${{OAUTH_REFERENCE_ID}}",
   "authorization_url": "https://auth.service.com/authorize",
   "client_id": "${{CLIENT_ID}}",
   "client_secret": "${{CLIENT_SECRET}}",
-  “范围”：“读写”
+  "scope": "read write"
 }
 ```
 
 **Single Sign-On (SSO)**
 ```json
-“授权”：{
-  “类型”：“单点登录”
+"auth": {
+  "type": "SSO"
 }
 ```
 
@@ -177,12 +177,12 @@ When importing from MCP:
 Use `response_semantics` to extract relevant fields from API responses:
 
 ```json
-“能力”：{
-  “响应语义”：{
-    "data_path": "$.结果",
-    “属性”：{
-      "标题": "$.name",
-      "副标题": "$.描述",
+"capabilities": {
+  "response_semantics": {
+    "data_path": "$.results",
+    "properties": {
+      "title": "$.name",
+      "subtitle": "$.description",
       "url": "$.link"
     }
   }
@@ -197,9 +197,9 @@ See the `mcp-create-adaptive-cards` prompt for adding visual card templates.
 Create `.env.local` or `.env.dev` for credentials:
 
 ```env
-OAUTH_REFERENCE_ID=您的 oauth-reference-id
-CLIENT_ID=您的客户 ID
-CLIENT_SECRET=您的客户秘密
+OAUTH_REFERENCE_ID=your-oauth-reference-id
+CLIENT_ID=your-client-id
+CLIENT_SECRET=your-client-secret
 ```
 
 ## Testing & Deployment
@@ -248,23 +248,23 @@ CLIENT_SECRET=您的客户秘密
 
 ### GitHub MCP Server
 ```
-网址：https://api.githubcopilot.com/mcp/
-工具：search_repositories、search_users、get_repository
-验证：OAuth 2.0
+URL: https://api.githubcopilot.com/mcp/
+Tools: search_repositories, search_users, get_repository
+Auth: OAuth 2.0
 ```
 
 ### Jira MCP Server
 ```
-网址：https://your-domain.atlassian.net/mcp/
-工具：search_issues、create_issue、update_issue
-验证：OAuth 2.0
+URL: https://your-domain.atlassian.net/mcp/
+Tools: search_issues, create_issue, update_issue
+Auth: OAuth 2.0
 ```
 
 ### Custom Service
 ```
-网址：https://api.your-service.com/mcp/
-工具：您的服务公开的自定义工具
-身份验证：OAuth 2.0 或 SSO
+URL: https://api.your-service.com/mcp/
+Tools: Custom tools exposed by your service
+Auth: OAuth 2.0 or SSO
 ```
 
 ## Workflow

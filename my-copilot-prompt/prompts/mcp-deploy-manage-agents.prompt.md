@@ -120,14 +120,14 @@ Options for distribution:
 
 **Admin Deployment Options:**
 ```
-组织范围内：
-- 所有员工均持有副驾驶执照
-- 在 Copilot 中自动可用
+Organization-wide:
+- All employees with Copilot license
+- Automatically available in Copilot
 
-以团体为基础：
-- 特定部门或团队
-- 安全组分配
-- 基于角色的访问控制
+Group-based:
+- Specific departments or teams
+- Security group assignments
+- Role-based access control
 ```
 
 **Configuration Steps:**

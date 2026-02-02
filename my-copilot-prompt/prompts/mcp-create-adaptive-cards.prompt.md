@@ -20,35 +20,35 @@ Define in `response_semantics.static_template` in ai-plugin.json:
 
 ```json
 {
-  “功能”：[
+  "functions": [
     {
-      "name": "获取预算",
-      "description": "返回预算详细信息，包括名称和可用资金",
-      “能力”：{
-        “响应语义”：{
-          “数据路径”：“$”，
-          “属性”：{
-            "标题": "$.name",
-            "副标题": "$.availableFunds"
+      "name": "GetBudgets",
+      "description": "Returns budget details including name and available funds",
+      "capabilities": {
+        "response_semantics": {
+          "data_path": "$",
+          "properties": {
+            "title": "$.name",
+            "subtitle": "$.availableFunds"
           },
-          “静态模板”：{
-            “类型”：“自适应卡”，
-            “$schema”：“http://adaptivecards.io/schemas/adaptive-card.json”，
-            “版本”：“1.5”，
-            “身体”：[
+          "static_template": {
+            "type": "AdaptiveCard",
+            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+            "version": "1.5",
+            "body": [
               {
-                “类型”：“容器”，
+                "type": "Container",
                 "$data": "${$root}",
-                “项目”：[
+                "items": [
                   {
-                    “类型”：“文本块”，
-                    "text": "姓名：${if(name, name, 'N/A')}",
-                    “换行”：正确
+                    "type": "TextBlock",
+                    "text": "Name: ${if(name, name, 'N/A')}",
+                    "wrap": true
                   },
                   {
-                    “类型”：“文本块”，
-                    "text": "可用资金：${if(availableFunds, formatNumber(availableFunds, 2), 'N/A')}",
-                    “换行”：正确
+                    "type": "TextBlock",
+                    "text": "Available funds: ${if(availableFunds, formatNumber(availableFunds, 2), 'N/A')}",
+                    "wrap": true
                   }
                 ]
               }
@@ -67,12 +67,12 @@ Use when API returns multiple types and each item needs a different template.
 **ai-plugin.json configuration:**
 ```json
 {
-  "name": "获取交易",
-  "description": "使用动态模板返回交易详细信息",
-  “能力”：{
-    “响应语义”：{
+  "name": "GetTransactions",
+  "description": "Returns transaction details with dynamic templates",
+  "capabilities": {
+    "response_semantics": {
       "data_path": "$.transactions",
-      “属性”：{
+      "properties": {
         "template_selector": "$.displayTemplate"
       }
     }
@@ -83,88 +83,88 @@ Use when API returns multiple types and each item needs a different template.
 **API Response with Embedded Templates:**
 ```json
 {
-  “交易”：[
+  "transactions": [
     {
-      "budgetName": "第四咖啡大堂装修",
-      “金额”：-2000，
-      "description": "申请许可证所需的财产调查",
-      "expenseCategory": "许可",
+      "budgetName": "Fourth Coffee lobby renovation",
+      "amount": -2000,
+      "description": "Property survey for permit application",
+      "expenseCategory": "permits",
       "displayTemplate": "$.templates.debit"
     },
     {
-      "budgetName": "第四咖啡大堂装修",
-      “金额”：5000，
-      "description": "额外资金以弥补成本超支",
-      “费用类别”：空，
+      "budgetName": "Fourth Coffee lobby renovation",
+      "amount": 5000,
+      "description": "Additional funds to cover cost overruns",
+      "expenseCategory": null,
       "displayTemplate": "$.templates.credit"
     }
   ],
-  “模板”：{
-    “借方”：{
-      “类型”：“自适应卡”，
-      “版本”：“1.5”，
-      “身体”：[
+  "templates": {
+    "debit": {
+      "type": "AdaptiveCard",
+      "version": "1.5",
+      "body": [
         {
-          “类型”：“文本块”，
-“尺寸”：“中”，
-          “重量”：“更大胆”，
-          “颜色”：“注意”，
-          “文本”：“借方”
+          "type": "TextBlock",
+          "size": "medium",
+          "weight": "bolder",
+          "color": "attention",
+          "text": "Debit"
         },
         {
-          “类型”：“事实集”，
-          “事实”：[
+          "type": "FactSet",
+          "facts": [
             {
-              "title": "预算",
-              “值”：“${预算名称}”
+              "title": "Budget",
+              "value": "${budgetName}"
             },
             {
-              "title": "金额",
-              "值": "${formatNumber(金额, 2)}"
+              "title": "Amount",
+              "value": "${formatNumber(amount, 2)}"
             },
             {
-              "标题": "类别",
-              “价值”：“$ {if（费用类别，费用类别，'不适用'）}”
+              "title": "Category",
+              "value": "${if(expenseCategory, expenseCategory, 'N/A')}"
             },
             {
-              "标题": "描述",
-              "值": "${if(描述, 描述, 'N/A')}"
+              "title": "Description",
+              "value": "${if(description, description, 'N/A')}"
             }
           ]
         }
       ],
-      “$schema”：“http://adaptivecards.io/schemas/adaptive-card.json”
+      "$schema": "http://adaptivecards.io/schemas/adaptive-card.json"
     },
-    “信用”：{
-      “类型”：“自适应卡”，
-      “版本”：“1.5”，
-      “身体”：[
+    "credit": {
+      "type": "AdaptiveCard",
+      "version": "1.5",
+      "body": [
         {
-          “类型”：“文本块”，
-“尺寸”：“中”，
-          “重量”：“更大胆”，
-          “颜色”：“好”，
-          “文本”：“信用”
+          "type": "TextBlock",
+          "size": "medium",
+          "weight": "bolder",
+          "color": "good",
+          "text": "Credit"
         },
         {
-          “类型”：“事实集”，
-          “事实”：[
+          "type": "FactSet",
+          "facts": [
             {
-              "title": "预算",
-              “值”：“${预算名称}”
+              "title": "Budget",
+              "value": "${budgetName}"
             },
             {
-              "title": "金额",
-              "值": "${formatNumber(金额, 2)}"
+              "title": "Amount",
+              "value": "${formatNumber(amount, 2)}"
             },
             {
-              "标题": "描述",
-              "值": "${if(描述, 描述, 'N/A')}"
+              "title": "Description",
+              "value": "${if(description, description, 'N/A')}"
             }
           ]
         }
       ],
-      “$schema”：“http://adaptivecards.io/schemas/adaptive-card.json”
+      "$schema": "http://adaptivecards.io/schemas/adaptive-card.json"
     }
   }
 }
@@ -175,21 +175,21 @@ Use static template as default when item doesn't have template_selector or when 
 
 ```json
 {
-  “能力”：{
-    “响应语义”：{
+  "capabilities": {
+    "response_semantics": {
       "data_path": "$.items",
-      “属性”：{
-        "标题": "$.name",
+      "properties": {
+        "title": "$.name",
         "template_selector": "$.templateId"
       },
-      “静态模板”：{
-        “类型”：“自适应卡”，
-        “版本”：“1.5”，
-        “身体”：[
+      "static_template": {
+        "type": "AdaptiveCard",
+        "version": "1.5",
+        "body": [
           {
-            “类型”：“文本块”，
-            "text": "默认值：${name}",
-            “换行”：正确
+            "type": "TextBlock",
+            "text": "Default: ${name}",
+            "wrap": true
           }
         ]
       }
@@ -203,18 +203,18 @@ Use static template as default when item doesn't have template_selector or when 
 ### data_path
 JSONPath query indicating where data resides in API response:
 ```json
-"data_path": "$" // 响应根
-"data_path": "$.results" // 在结果属性中
-"data_path": "$.data.items"//嵌套路径
+"data_path": "$"           // Root of response
+"data_path": "$.results"   // In results property
+"data_path": "$.data.items"// Nested path
 ```
 
 ### properties
 Map response fields for Copilot citations:
 ```json
-“属性”：{
-  "title": "$.name", // 引文标题
-  "subtitle": "$.description", // 引文副标题
-  "url": "$.link" // 引用链接
+"properties": {
+  "title": "$.name",            // Citation title
+  "subtitle": "$.description",  // Citation subtitle
+  "url": "$.link"               // Citation link
 }
 ```
 
@@ -229,34 +229,34 @@ Property on each item indicating which template to use:
 ### Conditional Rendering
 ```json
 {
-  “类型”：“文本块”，
-  "text": "${if(field, field, 'N/A')}" // 显示字段或 'N/A'
+  "type": "TextBlock",
+  "text": "${if(field, field, 'N/A')}"  // Show field or 'N/A'
 }
 ```
 
 ### Number Formatting
 ```json
 {
-  “类型”：“文本块”，
-  "text": "${formatNumber(amount, 2)}" // 两位小数
+  "type": "TextBlock",
+  "text": "${formatNumber(amount, 2)}"  // Two decimal places
 }
 ```
 
 ### Data Binding
 ```json
 {
-  “类型”：“容器”，
-  "$data": "${$root}", // 中断到根上下文
-  “项目”：[...]
+  "type": "Container",
+  "$data": "${$root}",  // Break to root context
+  "items": [ ... ]
 }
 ```
 
 ### Conditional Display
 ```json
 {
-  “类型”：“图像”，
+  "type": "Image",
   "url": "${imageUrl}",
-  "$when": "${imageUrl != null}" // 仅显示 imageUrl 是否存在
+  "$when": "${imageUrl != null}"  // Only show if imageUrl exists
 }
 ```
 
@@ -265,23 +265,23 @@ Property on each item indicating which template to use:
 ### TextBlock
 ```json
 {
-  “类型”：“文本块”，
-  "text": "文本内容",
-  "size": "medium", // 小、默认、中、大、超大
-  "weight": "bolder", // 更轻，默认，更粗
-  "color": "attention", // 默认、深色、浅色、重音、良好、警告、注意
-  “换行”：正确
+  "type": "TextBlock",
+  "text": "Text content",
+  "size": "medium",      // small, default, medium, large, extraLarge
+  "weight": "bolder",    // lighter, default, bolder
+  "color": "attention",  // default, dark, light, accent, good, warning, attention
+  "wrap": true
 }
 ```
 
 ### FactSet
 ```json
 {
-  “类型”：“事实集”，
-  “事实”：[
+  "type": "FactSet",
+  "facts": [
     {
-      “标题”：“标签”，
-      “价值”：“价值”
+      "title": "Label",
+      "value": "Value"
     }
   ]
 }
@@ -290,22 +290,22 @@ Property on each item indicating which template to use:
 ### Image
 ```json
 {
-  “类型”：“图像”，
+  "type": "Image",
   "url": "https://example.com/image.png",
-  "size": "medium", // 自动、拉伸、小、中、大
-  "style": "default" // 默认，人物
+  "size": "medium",  // auto, stretch, small, medium, large
+  "style": "default" // default, person
 }
 ```
 
 ### Container
 ```json
 {
-  “类型”：“容器”，
-  "$data": "${items}", // 迭代数组
-  “项目”：[
+  "type": "Container",
+  "$data": "${items}",  // Iterate over array
+  "items": [
     {
-      “类型”：“文本块”，
-      “文本”：“${名称}”
+      "type": "TextBlock",
+      "text": "${name}"
     }
   ]
 }
@@ -314,17 +314,17 @@ Property on each item indicating which template to use:
 ### ColumnSet
 ```json
 {
-  "type": "列集",
-  “列”：[
+  "type": "ColumnSet",
+  "columns": [
     {
-      “类型”：“列”，
-      “宽度”：“自动”，
-      “项目”：[...]
+      "type": "Column",
+      "width": "auto",
+      "items": [ ... ]
     },
     {
-      “类型”：“列”，
-      “宽度”：“拉伸”，
-      “项目”：[...]
+      "type": "Column",
+      "width": "stretch",
+      "items": [ ... ]
     }
   ]
 }
@@ -334,8 +334,8 @@ Property on each item indicating which template to use:
 ```json
 {
   "type": "Action.OpenUrl",
-  "title": "查看详情",
-“url”：“https://example.com/item/${id}”
+  "title": "View Details",
+  "url": "https://example.com/item/${id}"
 }
 ```
 
@@ -370,68 +370,68 @@ Validate cards in:
 **ai-plugin.json:**
 ```json
 {
-  “功能”：[
+  "functions": [
     {
-      "name": "搜索项目",
-      "description": "搜索具有状态和详细信息的项目",
-      “能力”：{
-        “响应语义”：{
+      "name": "SearchProjects",
+      "description": "Search for projects with status and details",
+      "capabilities": {
+        "response_semantics": {
           "data_path": "$.projects",
-          “属性”：{
-            "标题": "$.name",
-            "副标题": "$.status",
+          "properties": {
+            "title": "$.name",
+            "subtitle": "$.status",
             "url": "$.projectUrl"
           },
-          “静态模板”：{
-            “类型”：“自适应卡”，
-            “$schema”：“http://adaptivecards.io/schemas/adaptive-card.json”，
-            “版本”：“1.5”，
-            “身体”：[
+          "static_template": {
+            "type": "AdaptiveCard",
+            "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+            "version": "1.5",
+            "body": [
               {
-                “类型”：“容器”，
+                "type": "Container",
                 "$data": "${$root}",
-                “项目”：[
+                "items": [
                   {
-                    “类型”：“文本块”，
-                    “尺寸”：“中”，
-                    “重量”：“更大胆”，
-                    "text": "${if(name, name, '无标题项目')}",
-                    “换行”：正确
+                    "type": "TextBlock",
+                    "size": "medium",
+                    "weight": "bolder",
+                    "text": "${if(name, name, 'Untitled Project')}",
+                    "wrap": true
                   },
                   {
-                    “类型”：“事实集”，
-                    “事实”：[
+                    "type": "FactSet",
+                    "facts": [
                       {
-                        "标题": "状态",
-                        “值”：“${状态}”
+                        "title": "Status",
+                        "value": "${status}"
                       },
                       {
-                        “标题”：“所有者”，
-                        "value": "${if(所有者, 所有者, '未分配')}"
+                        "title": "Owner",
+                        "value": "${if(owner, owner, 'Unassigned')}"
                       },
                       {
-                        "title": "截止日期",
-                        "value": "${if(dueDate, dueDate, '未设置')}"
+                        "title": "Due Date",
+                        "value": "${if(dueDate, dueDate, 'Not set')}"
                       },
                       {
-                        "title": "预算",
-                        "value": "${if(预算, formatNumber(预算, 2), 'N/A')}"
+                        "title": "Budget",
+                        "value": "${if(budget, formatNumber(budget, 2), 'N/A')}"
                       }
                     ]
                   },
                   {
-                    “类型”：“文本块”，
-                    "text": "${if(描述, 描述, '无描述')}",
-                    “包裹”：真实，
-                    “分隔符”：正确
+                    "type": "TextBlock",
+                    "text": "${if(description, description, 'No description')}",
+                    "wrap": true,
+                    "separator": true
                   }
                 ]
               }
             ],
-            “行动”：[
+            "actions": [
               {
                 "type": "Action.OpenUrl",
-                "title": "查看项目",
+                "title": "View Project",
                 "url": "${projectUrl}"
               }
             ]
@@ -471,33 +471,33 @@ Then generate:
 ### List with Images
 ```json
 {
-  “类型”：“容器”，
+  "type": "Container",
   "$data": "${items}",
-  “项目”：[
+  "items": [
     {
-      "type": "列集",
-      “列”：[
+      "type": "ColumnSet",
+      "columns": [
         {
-          “类型”：“列”，
-          “宽度”：“自动”，
-          “项目”：[
+          "type": "Column",
+          "width": "auto",
+          "items": [
             {
-              “类型”：“图像”，
+              "type": "Image",
               "url": "${thumbnailUrl}",
-              “尺寸”：“小”，
+              "size": "small",
               "$when": "${thumbnailUrl != null}"
             }
           ]
         },
         {
-          “类型”：“列”，
-          “宽度”：“拉伸”，
-          “项目”：[
+          "type": "Column",
+          "width": "stretch",
+          "items": [
             {
-              “类型”：“文本块”，
-              "文本": "${标题}",
-              “重量”：“更大胆”，
-              “换行”：正确
+              "type": "TextBlock",
+              "text": "${title}",
+              "weight": "bolder",
+              "wrap": true
             }
           ]
         }
@@ -510,17 +510,17 @@ Then generate:
 ### Status Indicators
 ```json
 {
-  “类型”：“文本块”，
-  "文本": "${状态}",
-  "color": "${if(status == '已完成', '良好', if(status == '进行中', '注意', '默认'))}"
+  "type": "TextBlock",
+  "text": "${status}",
+  "color": "${if(status == 'Completed', 'good', if(status == 'In Progress', 'attention', 'default'))}"
 }
 ```
 
 ### Currency Formatting
 ```json
 {
-  “类型”：“文本块”，
-  "text": "$${formatNumber(金额, 2)}"
+  "type": "TextBlock",
+  "text": "$${formatNumber(amount, 2)}"
 }
 ```
 
