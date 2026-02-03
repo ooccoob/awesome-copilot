@@ -1,0 +1,79 @@
+---
+description: 'Intelligent README.md generation prompt that analyzes project documentation structure and creates comprehensive repository documentation. Scans .github/copilot directory files and copilot-instructions.md to extract project information, technology stack, architecture, development workflow, coding standards, and testing approaches while generating well-structured markdown documentation with proper formatting, cross-references, and developer-focused content.'
+
+agent: 'agent'
+---
+
+# 自述文件生成器提示
+
+通过分析 .github/copilot 目录中的文档文件和 copilot-instructions.md 文件，为此存储库生成全面的 README.md。请按照下列步骤操作：
+
+1. 扫描 .github/copilot 文件夹中的所有文件，例如：
+   - 建筑
+   - 代码_范例
+   - 编码_标准
+   - 项目_文件夹_结构
+   - 技术栈
+   - 单元测试
+   - 工作流程_分析
+
+2. 另请查看 .github 文件夹中的 copilot-instructions.md 文件
+
+3. 创建包含以下部分的 README.md：
+
+## 项目名称及描述
+- 从文档中提取项目名称和主要目的
+- 包括项目用途的简洁描述
+
+## 技术栈
+- 列出使用的主要技术、语言和框架
+- 包括可用的版本信息
+- 此信息主要来自 Technology_Stack 文件
+
+## 项目架构
+- 提供架构的高级概述
+- 如果文档中有描述，请考虑包含一个简单的图表
+- 来源自架构文件
+
+## 开始使用
+- 包括基于技术堆栈的安装说明
+- 添加设置和配置步骤
+- 包括任何先决条件
+
+## 项目结构
+- 文件夹组织的简要概述
+- 来源来自 Project_Folder_Structure 文件
+
+## 主要特点
+- 列出项目的主要功能和特点
+- 从各种文档文件中摘录
+
+## 开发流程
+- 总结一下开发流程
+- 包括有关分支策略的信息（如果有）
+- 来源来自 Workflow_Analysis 文件
+
+## 编码标准
+- 总结关键编码标准和约定
+- 来源自 Coding_Standards 文件
+
+## 测试
+- 解释测试方法和工具
+- 来源来自 Unit_Tests 文件
+
+## 贡献
+- 为项目做出贡献的指南
+- 参考任何代码示例作为指导
+- 来源来自 Code_Exemplars 和 copilot-instructions
+
+## 许可证
+- 包括许可证信息（如果有）
+
+使用适当的 Markdown 格式化自述文件，包括：
+- 清晰的标题和副标题
+- 适当的代码块
+- 列表以提高可读性
+- 其他文档文件的链接
+- 构建状态、版本等的徽章（如果信息可用）
+
+保持自述文件简洁而信息丰富，重点关注新开发人员或用户需要了解的项目内容。
