@@ -36,26 +36,26 @@ Ready-to-use prompt templates for specific development scenarios and tasks, defi
 - Run the \`Chat: Run Prompt\` command from the Command Palette
 - Hit the run button while you have a prompt file open in VS Code`,
 
-  collectionsSection: `## 📦 Collections
+  pluginsSection: `## 🔌 Plugins
 
-Curated collections of related prompts, instructions, and agents organized around specific themes, workflows, or use cases.`,
+Curated plugins of related prompts, agents, and skills organized around specific themes, workflows, or use cases. Plugins can be installed directly via GitHub Copilot CLI.`,
 
-  collectionsUsage: `### How to Use Collections
+  pluginsUsage: `### How to Use Plugins
 
-**Browse Collections:**
-- ⭐ Featured collections are highlighted and appear at the top of the list
-- Explore themed collections that group related customizations
-- Each collection includes prompts, instructions, and agents for specific workflows
-- Collections make it easy to adopt comprehensive toolkits for particular scenarios
+**Browse Plugins:**
+- ⭐ Featured plugins are highlighted and appear at the top of the list
+- Explore themed plugins that group related customizations
+- Each plugin includes prompts, agents, and skills for specific workflows
+- Plugins make it easy to adopt comprehensive toolkits for particular scenarios
 
-**Install Items:**
-- Click install buttons for individual items within collections
+**Install Plugins:**
+- Use \\\`copilot plugin install <plugin-name>@awesome-copilot\\\` to install a plugin
 - Or browse to the individual files to copy content manually
-- Collections help you discover related customizations you might have missed`,
+- Plugins help you discover related customizations you might have missed`,
 
-  featuredCollectionsSection: `## 🌟 Featured Collections
+  featuredPluginsSection: `## 🌟 Featured Plugins
 
-Discover our curated collections of prompts, instructions, and agents organized around specific themes and workflows.`,
+Discover our curated plugins of prompts, agents, and skills organized around specific themes and workflows.`,
 
   agentsSection: `## 🤖 Custom Agents
 
@@ -127,6 +127,36 @@ Hooks enable automated workflows triggered by specific events during GitHub Copi
 - Track usage analytics
 - Integrate with external tools and services
 - Custom session workflows`,
+
+  workflowsSection: `## ⚡ Agentic Workflows
+
+[Agentic Workflows](https://github.github.com/gh-aw) are AI-powered repository automations that run coding agents in GitHub Actions. Defined in markdown with natural language instructions, they enable event-triggered and scheduled automation with built-in guardrails and security-first design.`,
+
+  workflowsUsage: `### How to Use Agentic Workflows
+
+**What's Included:**
+- Each workflow is a single \`.md\` file with YAML frontmatter and natural language instructions
+- Workflows are compiled to \`.lock.yml\` GitHub Actions files via \`gh aw compile\`
+- Workflows follow the [GitHub Agentic Workflows specification](https://github.github.com/gh-aw)
+
+**To Install:**
+- Install the \`gh aw\` CLI extension: \`gh extension install github/gh-aw\`
+- Copy the workflow \`.md\` file to your repository's \`.github/workflows/\` directory
+- Compile with \`gh aw compile\` to generate the \`.lock.yml\` file
+- Commit both the \`.md\` and \`.lock.yml\` files
+
+**To Activate/Use:**
+- Workflows run automatically based on their configured triggers (schedules, events, slash commands)
+- Use \`gh aw run <workflow>\` to trigger a manual run
+- Monitor runs with \`gh aw status\` and \`gh aw logs\`
+
+**When to Use:**
+- Automate issue triage and labeling
+- Generate daily status reports
+- Maintain documentation automatically
+- Run scheduled code quality checks
+- Respond to slash commands in issues and PRs
+- Orchestrate multi-step repository automation`,
 };
 
 const vscodeInstallImage =
@@ -151,9 +181,10 @@ const PROMPTS_DIR = path.join(ROOT_FOLDER, "prompts");
 const AGENTS_DIR = path.join(ROOT_FOLDER, "agents");
 const SKILLS_DIR = path.join(ROOT_FOLDER, "skills");
 const HOOKS_DIR = path.join(ROOT_FOLDER, "hooks");
-const COLLECTIONS_DIR = path.join(ROOT_FOLDER, "collections");
+const PLUGINS_DIR = path.join(ROOT_FOLDER, "plugins");
+const WORKFLOWS_DIR = path.join(ROOT_FOLDER, "workflows");
 const COOKBOOK_DIR = path.join(ROOT_FOLDER, "cookbook");
-const MAX_COLLECTION_ITEMS = 50;
+const MAX_PLUGIN_ITEMS = 50;
 
 // Agent Skills validation constants
 const SKILL_NAME_MIN_LENGTH = 1;
@@ -166,12 +197,12 @@ const DOCS_DIR = path.join(ROOT_FOLDER, "docs");
 export {
   AGENTS_DIR,
   AKA_INSTALL_URLS,
-  COLLECTIONS_DIR,
+  PLUGINS_DIR,
   COOKBOOK_DIR,
   DOCS_DIR,
   HOOKS_DIR,
   INSTRUCTIONS_DIR,
-  MAX_COLLECTION_ITEMS,
+  MAX_PLUGIN_ITEMS,
   PROMPTS_DIR,
   repoBaseUrl,
   ROOT_FOLDER,
@@ -182,6 +213,7 @@ export {
   SKILLS_DIR,
   TEMPLATES,
   vscodeInsidersInstallImage,
-  vscodeInstallImage
+  vscodeInstallImage,
+  WORKFLOWS_DIR
 };
 

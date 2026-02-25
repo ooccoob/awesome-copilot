@@ -6,5 +6,21 @@
     "name": "Awesome Copilot Community"
   },
   "repository": "https://github.com/github/awesome-copilot",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "testing",
+    "tdd",
+    "automation",
+    "unit-tests",
+    "integration",
+    "playwright",
+    "jest",
+    "nunit"
+  ],
+  "agents": [
+    "./agents"
+  ],
+  "commands": [
+    "./commands"
+  ]
 }

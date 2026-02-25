@@ -12,19 +12,20 @@ This repository provides a comprehensive toolkit for enhancing GitHub Copilot wi
 - **👉 [Awesome Prompts](docs/README.prompts.md)** - Focused, task-specific prompts for generating code, documentation, and solving specific problems
 - **👉 [Awesome Instructions](docs/README.instructions.md)** - Comprehensive coding standards and best practices that apply to specific file patterns or entire projects
 - **👉 [Awesome Hooks](docs/README.hooks.md)** - Automated workflows triggered by specific events during development, testing, and deployment
+- **👉 [Awesome Agentic Workflows](docs/README.workflows.md)** - AI-powered repository automations that run coding agents in GitHub Actions with natural language instructions
 - **👉 [Awesome Skills](docs/README.skills.md)** - Self-contained folders with instructions and bundled resources that enhance AI capabilities for specialized tasks
-- **👉 [Awesome Collections](docs/README.collections.md)** - Curated collections of related prompts, instructions, agents, and skills organized around specific themes and workflows
+- **👉 [Awesome Plugins](docs/README.plugins.md)** - Curated plugins of related prompts, agents, and skills organized around specific themes and workflows
 - **👉 [Awesome Cookbook Recipes](cookbook/README.md)** - Practical, copy-paste-ready code snippets and real-world examples for working with GitHub Copilot tools and features
 
-## 🌟 Featured Collections
+## 🌟 Featured Plugins
 
-Discover our curated collections of prompts, instructions, and agents organized around specific themes and workflows.
+Discover our curated plugins of prompts, agents, and skills organized around specific themes and workflows.
 
 | Name | Description | Items | Tags |
 | ---- | ----------- | ----- | ---- |
-| [Awesome Copilot](collections/awesome-copilot.md) | Meta prompts that help you discover and generate curated GitHub Copilot agents, collections, instructions, prompts, and skills. | 5 items | github-copilot, discovery, meta, prompt-engineering, agents |
-| [Copilot SDK](collections/copilot-sdk.md) | Build applications with the GitHub Copilot SDK across multiple programming languages. Includes comprehensive instructions for C#, Go, Node.js/TypeScript, and Python to help you create AI-powered applications. | 5 items | copilot-sdk, sdk, csharp, go, nodejs, typescript, python, ai, github-copilot |
-| [Partners](collections/partners.md) | Custom agents that have been created by GitHub partners | 20 items | devops, security, database, cloud, infrastructure, observability, feature-flags, cicd, migration, performance |
+| [Awesome Copilot](plugins/awesome-copilot/README.md) | Meta prompts that help you discover and generate curated GitHub Copilot agents, collections, instructions, prompts, and skills. | 5 items | github-copilot, discovery, meta, prompt-engineering, agents |
+| [Copilot SDK](plugins/copilot-sdk/README.md) | Build applications with the GitHub Copilot SDK across multiple programming languages. Includes comprehensive instructions for C#, Go, Node.js/TypeScript, and Python to help you create AI-powered applications. | 5 items | copilot-sdk, sdk, csharp, go, nodejs, typescript, python, ai, github-copilot |
+| [Partners](plugins/partners/README.md) | Custom agents that have been created by GitHub partners | 20 items | devops, security, database, cloud, infrastructure, observability, feature-flags, cicd, migration, performance |
 
 
 ## How to Install Customizations
@@ -63,7 +64,7 @@ An [`llms.txt`](https://github.github.io/awesome-copilot/llms.txt) file followin
 
 ### 🔌 Plugins
 
-Plugins are installable packages generated from collections. Each plugin contains symlinked agents, commands (prompts), and skills from the source collection, making it easy to install a curated set of resources.
+Plugins are installable packages that bundle related agents, commands (prompts), and skills, making it easy to install a curated set of resources.
 
 #### Installing Plugins
 
@@ -73,7 +74,7 @@ First, add the Awesome Copilot marketplace to your Copilot CLI:
 copilot plugin marketplace add github/awesome-copilot
 ```
 
-Then install any plugin from the collection:
+Then install any plugin:
 
 ```bash
 copilot plugin install <plugin-name>@awesome-copilot
@@ -101,6 +102,10 @@ Instructions automatically apply to files based on their patterns and provide co
 
 Hooks enable automated workflows triggered by specific events during GitHub Copilot coding agent sessions (like sessionStart, sessionEnd, userPromptSubmitted). They can automate tasks like logging, auto-committing changes, or integrating with external services.
 
+### ⚡ Agentic Workflows
+
+[Agentic Workflows](https://github.github.com/gh-aw) are AI-powered repository automations that run coding agents in GitHub Actions. Defined in markdown with natural language instructions, they enable event-triggered and scheduled automation — from issue triage to daily reports.
+
 ## 🎯 Why Use Awesome GitHub Copilot?
 
 - **Productivity**: Pre-built agents, prompts and instructions save time and provide consistent results.
@@ -112,7 +117,7 @@ Hooks enable automated workflows triggered by specific events during GitHub Copi
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on how to:
 
-- Add new prompts, instructions, hooks, agents, or skills
+- Add new prompts, instructions, hooks, workflows, agents, or skills
 - Improve existing content
 - Report issues or suggest enhancements
 
@@ -131,8 +136,9 @@ For AI coding agents working with this project, refer to [AGENTS.md](AGENTS.md) 
 ├── prompts/          # Task-specific prompts (.prompt.md)
 ├── instructions/     # Coding standards and best practices (.instructions.md)
 ├── agents/           # AI personas and specialized modes (.agent.md)
-├── collections/      # Curated collections of related items (.collection.yml)
-├── plugins/          # Installable plugins generated from collections
+├── hooks/            # Automated hooks for Copilot coding agent sessions
+├── workflows/        # Agentic Workflows for GitHub Actions automation
+├── plugins/          # Installable plugins bundling related items
 ├── scripts/          # Utility scripts for maintenance
 └── skills/           # AI capabilities for specialized tasks
 ```
@@ -153,7 +159,7 @@ The customizations in this repository are sourced from and created by third-part
 
 ---
 
-**Ready to supercharge your coding experience?** Start exploring our [prompts](docs/README.prompts.md), [instructions](docs/README.instructions.md), [hooks](docs/README.hooks.md), and [custom agents](docs/README.agents.md)!
+**Ready to supercharge your coding experience?** Start exploring our [prompts](docs/README.prompts.md), [instructions](docs/README.instructions.md), [hooks](docs/README.hooks.md), [agentic workflows](docs/README.workflows.md), and [custom agents](docs/README.agents.md)!
 
 ## Contributors ✨
 
@@ -406,6 +412,9 @@ Thanks goes to these wonderful people ([emoji key](./CONTRIBUTING.md#contributor
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Arggon"><img src="https://avatars.githubusercontent.com/u/20962238?v=4?s=100" width="100px;" alt="Gonzalo"/><br /><sub><b>Gonzalo</b></sub></a><br /><a href="#prompts-Arggon" title="Reusable prompts for GitHub Copilot">⌨️</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://hachyderm.io/@0gis0"><img src="https://avatars.githubusercontent.com/u/175379?v=4?s=100" width="100px;" alt="Gisela Torres"/><br /><sub><b>Gisela Torres</b></sub></a><br /><a href="#agents-0GiS0" title="Specialized agents for GitHub Copilot">🎭</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/shibicr93"><img src="https://avatars.githubusercontent.com/u/6803434?v=4?s=100" width="100px;" alt="Shibi Ramachandran"/><br /><sub><b>Shibi Ramachandran</b></sub></a><br /><a href="https://github.com/github/awesome-copilot/commits?author=shibicr93" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/lupritz"><img src="https://avatars.githubusercontent.com/u/145381941?v=4?s=100" width="100px;" alt="lupritz"/><br /><sub><b>lupritz</b></sub></a><br /><a href="#plugin-lupritz" title="Plugin/utility libraries">🔌</a></td>
     </tr>
   </tbody>
   <tfoot>

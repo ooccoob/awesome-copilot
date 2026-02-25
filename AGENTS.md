@@ -9,7 +9,8 @@ The Awesome GitHub Copilot repository is a community-driven collection of custom
 - **Instructions** - Coding standards and best practices applied to specific file patterns
 - **Skills** - Self-contained folders with instructions and bundled resources for specialized tasks
 - **Hooks** - Automated workflows triggered by specific events during development
-- **Collections** - Curated collections organized around specific themes and workflows
+- **Workflows** - [Agentic Workflows](https://github.github.com/gh-aw) for AI-powered repository automation in GitHub Actions
+- **Plugins** - Installable packages that group related agents, commands, and skills around specific themes
 
 ## Repository Structure
 
@@ -20,7 +21,8 @@ The Awesome GitHub Copilot repository is a community-driven collection of custom
 ├── instructions/     # Coding standards and guidelines (.instructions.md files)
 ├── skills/           # Agent Skills folders (each with SKILL.md and optional bundled assets)
 ├── hooks/            # Automated workflow hooks (folders with README.md + hooks.json)
-├── collections/      # Curated collections of resources (.md files)
+├── workflows/        # Agentic Workflows (.md files for GitHub Actions automation)
+├── plugins/          # Installable plugin packages (folders with plugin.json)
 ├── docs/             # Documentation for different resource types
 ├── eng/              # Build and automation scripts
 └── scripts/          # Utility scripts
@@ -32,14 +34,17 @@ The Awesome GitHub Copilot repository is a community-driven collection of custom
 # Install dependencies
 npm ci
 
-# Build the project (generates README.md)
+# Build the project (generates README.md and marketplace.json)
 npm run build
 
-# Validate collection manifests
-npm run collection:validate
+# Validate plugin manifests
+npm run plugin:validate
 
-# Create a new collection
-npm run collection:create -- --id <collection-id> --tags <tags>
+# Generate marketplace.json only
+npm run plugin:generate-marketplace
+
+# Create a new plugin
+npm run plugin:create -- --name <plugin-name>
 
 # Validate agent skills
 npm run skill:validate
@@ -93,9 +98,29 @@ All agent files (`*.agent.md`), prompt files (`*.prompt.md`), and instruction fi
 - Follow the [GitHub Copilot hooks specification](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/coding-agent/use-hooks)
 - Optionally includes `tags` field for categorization
 
+#### Workflow Files (workflows/*.md)
+- Each workflow is a standalone `.md` file in the `workflows/` directory
+- Must have `name` field (human-readable name)
+- Must have `description` field (wrapped in single quotes, not empty)
+- Should have `triggers` field (array of trigger types, e.g., `['schedule', 'issues']`)
+- Contains agentic workflow frontmatter (`on`, `permissions`, `safe-outputs`) and natural language instructions
+- File names should be lower case with words separated by hyphens
+- Only `.md` files are accepted — `.yml`, `.yaml`, and `.lock.yml` files are blocked by CI
+- Optionally includes `tags` field for categorization
+- Follow the [GitHub Agentic Workflows specification](https://github.github.com/gh-aw)
+
+#### Plugin Folders (plugins/*)
+- Each plugin is a folder containing a `.github/plugin/plugin.json` file with metadata
+- plugin.json must have `name` field (matching the folder name)
+- plugin.json must have `description` field (describing the plugin's purpose)
+- plugin.json must have `version` field (semantic version, e.g., "1.0.0")
+- Plugin content is defined declaratively in plugin.json using Claude Code spec fields (`agents`, `commands`, `skills`). Source files live in top-level directories and are materialized into plugins by CI.
+- The `marketplace.json` file is automatically generated from all plugins during build
+- Plugins are discoverable and installable via GitHub Copilot CLI
+
 ### Adding New Resources
 
-When adding a new agent, prompt, instruction, skill, or hook:
+When adding a new agent, prompt, instruction, skill, hook, workflow, or plugin:
 
 **For Agents, Prompts, and Instructions:**
 1. Create the file with proper front matter
@@ -113,6 +138,14 @@ When adding a new agent, prompt, instruction, skill, or hook:
 7. Verify the hook appears in the generated README
 
 
+**For Workflows:**
+1. Create a new `.md` file in `workflows/` with a descriptive name (e.g., `daily-issues-report.md`)
+2. Include frontmatter with `name`, `description`, `triggers`, plus agentic workflow fields (`on`, `permissions`, `safe-outputs`)
+3. Compile with `gh aw compile --validate` to verify it's valid
+4. Update the README.md by running: `npm run build`
+5. Verify the workflow appears in the generated README
+
+
 **For Skills:**
 1. Run `npm run skill:create` to scaffold a new skill folder
 2. Edit the generated SKILL.md file with your instructions
@@ -121,11 +154,19 @@ When adding a new agent, prompt, instruction, skill, or hook:
 5. Update the README.md by running: `npm run build`
 6. Verify the skill appears in the generated README
 
+**For Plugins:**
+1. Run `npm run plugin:create -- --name <plugin-name>` to scaffold a new plugin
+2. Define agents, commands, and skills in `plugin.json` using Claude Code spec fields
+3. Edit the generated `plugin.json` with your metadata
+4. Run `npm run plugin:validate` to validate the plugin structure
+5. Run `npm run build` to update README.md and marketplace.json
+6. Verify the plugin appears in `.github/plugin/marketplace.json`
+
 ### Testing Instructions
 
 ```bash
 # Run all validation checks
-npm run collection:validate
+npm run plugin:validate
 npm run skill:validate
 
 # Build and verify README generation
@@ -159,13 +200,15 @@ Before committing:
 
 When creating a pull request:
 
+> **Important:** All pull requests should target the **`staged`** branch, not `main`.
+
 1. **README updates**: New files should automatically be added to the README when you run `npm run build`
 2. **Front matter validation**: Ensure all markdown files have the required front matter fields
 3. **File naming**: Verify all new files follow the lower-case-with-hyphens naming convention
 4. **Build check**: Run `npm run build` before committing to verify README generation
 5. **Line endings**: **Always run `bash scripts/fix-line-endings.sh`** to normalize line endings to LF (Unix-style)
 6. **Description**: Provide a clear description of what your agent/prompt/instruction does
-7. **Testing**: If adding a collection, run `npm run collection:validate` to ensure validity
+7. **Testing**: If adding a plugin, run `npm run plugin:validate` to ensure validity
 
 ### Pre-commit Checklist
 
@@ -218,6 +261,30 @@ For hook folders (hooks/*/):
 - [ ] Any bundled scripts are executable and referenced in README.md
 - [ ] Follows [GitHub Copilot hooks specification](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/coding-agent/use-hooks)
 - [ ] Optionally includes `tags` array field for categorization
+
+For workflow files (workflows/*.md):
+- [ ] File has markdown front matter
+- [ ] Has `name` field with human-readable name
+- [ ] Has non-empty `description` field wrapped in single quotes
+- [ ] Has `triggers` array field listing workflow trigger types
+- [ ] File name is lower case with hyphens
+- [ ] Contains `on` and `permissions` in frontmatter
+- [ ] Workflow uses least-privilege permissions and safe outputs
+- [ ] No `.yml`, `.yaml`, or `.lock.yml` files included
+- [ ] Follows [GitHub Agentic Workflows specification](https://github.github.com/gh-aw)
+- [ ] Optionally includes `tags` array field for categorization
+
+For plugins (plugins/*/):
+- [ ] Directory contains a `.github/plugin/plugin.json` file
+- [ ] Directory contains a `README.md` file
+- [ ] `plugin.json` has `name` field matching the directory name (lowercase with hyphens)
+- [ ] `plugin.json` has non-empty `description` field
+- [ ] `plugin.json` has `version` field (semantic version, e.g., "1.0.0")
+- [ ] Directory name is lower case with hyphens
+- [ ] If `keywords` is present, it is an array of lowercase hyphenated strings
+- [ ] If `agents`, `commands`, or `skills` arrays are present, each entry is a valid relative path
+- [ ] The plugin does not reference non-existent files
+- [ ] Run `npm run build` to verify marketplace.json is updated correctly
 
 ## Contributing
 
