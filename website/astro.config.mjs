@@ -17,13 +17,7 @@ export default defineConfig({
     starlight({
       title: "Awesome GitHub Copilot",
       description: siteDescription,
-      social: [
-        {
-          icon: "github",
-          label: "GitHub",
-          href: "https://github.com/github/awesome-copilot",
-        },
-      ],
+      social: [],
       head: [
         {
           tag: "meta",
