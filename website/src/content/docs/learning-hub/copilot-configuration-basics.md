@@ -3,7 +3,7 @@ title: 'Copilot Configuration Basics'
 description: 'Learn how to configure GitHub Copilot at user, workspace, and repository levels to optimize your AI-assisted development experience.'
 authors:
   - GitHub Copilot Learning Hub Team
-lastUpdated: 2026-03-27
+lastUpdated: 2026-03-28
 estimatedReadingTime: '10 minutes'
 tags:
   - configuration
@@ -416,6 +416,14 @@ GitHub Copilot CLI has two commands for managing session state, with distinct be
 
 Both commands accept an optional prompt argument to seed the new session with an opening message, for example `/new Add error handling to the login flow`.
 
+The `/rewind` command opens a timeline picker that lets you roll back the conversation to any earlier point in history, reverting both the conversation and any file changes made after that point. You can also trigger it by pressing **double-Esc**:
+
+```
+/rewind
+```
+
+Use `/rewind` when you want to branch off from a different point in the conversation, rather than just undoing the most recent turn.
+
 The `/undo` command reverts the last turn—including any file changes the agent made—letting you course-correct without manually undoing edits:
 
 ```
@@ -432,15 +440,15 @@ The `/cd` command changes the working directory for the current session. Each se
 
 This is useful when you have multiple backgrounded sessions each focused on a different project directory.
 
-The `/allow-all` command (also accessible as `/yolo`) enables a mode where the agent can execute tools without per-action confirmation. It now supports explicit subcommands:
+The `/allow-all` command (also accessible as `/yolo`) enables autopilot mode, where the agent runs all tools without asking for confirmation. It now supports `on`, `off`, and `show` subcommands:
 
 ```
-/allow-all on      # Enable allow-all mode
-/allow-all off     # Disable allow-all mode
-/allow-all show    # Check whether allow-all mode is currently active
+/allow-all on     # enable allow-all mode
+/allow-all off    # disable allow-all mode
+/allow-all show   # check current allow-all status
 ```
 
-Path permissions granted via `/allow-all` persist across `/clear`, so if you've granted access to a directory in one session, that access carries into the new session.
+> **Note**: `/allow-all on` permissions persist after `/clear` starts a new session, so you don't need to re-enable it each time.
 
 The `--effort` flag (shorthand for `--reasoning-effort`) controls how much computational reasoning the model applies to a request:
 
