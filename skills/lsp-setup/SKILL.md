@@ -1,6 +1,6 @@
 ---
 name: lsp-setup
-description: 'Install and configure LSP servers for any programming language to work with GitHub Copilot CLI. Detects the OS, installs the right LSP server, and writes the lsp-config.json configuration. Say "setup LSP" to start.'
+description: 'Install and configure LSP servers for any programming language to work with GitHub Copilot CLI. Detects the OS, installs the right LSP server, and generates the LSP configuration (user-level or repo-level). Say "setup LSP" to start.'
 ---
 
 # LSP Setup for GitHub Copilot CLI
@@ -16,7 +16,7 @@ DO NOT USE FOR: general coding tasks, IDE/editor LSP configuration, non-Copilot-
 3. **Look up the LSP server** — read `references/lsp-servers.md` for known servers, install commands, and config snippets
 4. **Ask scope** — use `ask_user` to ask whether the config should be user-level (`~/.copilot/lsp-config.json`) or repo-level (`.github/lsp.json`)
 5. **Install the server** — run the appropriate install command for the detected OS
-6. **Write the config** — merge the new server entry into the chosen config file (create it if missing, preserve existing entries)
+6. **Write the config** — merge the new server entry into the chosen config file (`~/.copilot/lsp-config.json` for user-level, `.github/lsp.json` for repo-level); create it if missing, preserve existing entries
 7. **Verify** — confirm the LSP binary is on `$PATH` and the config file is valid JSON
 
 ## Configuration Format
