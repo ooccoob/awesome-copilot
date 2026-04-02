@@ -12,9 +12,9 @@ Reference data for the `lsp-setup` skill. Each section contains install commands
 
 ### Install
 
-| OS      | Command                                    |
-|---------|--------------------------------------------|
-| Any     | `npm install -g typescript-language-server` |
+| OS      | Command                                               |
+|---------|-------------------------------------------------------|
+| Any     | `npm install -g typescript typescript-language-server` |
 
 ### Config snippet
 
