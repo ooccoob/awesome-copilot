@@ -11,18 +11,17 @@ public class ErrorHandling {
         try (var client = new CopilotClient()) {
             client.start().get();
 
-            var session = client.createSession(
+            try (var session = client.createSession(
                 new SessionConfig()
                     .setOnPermissionRequest(PermissionHandler.APPROVE_ALL)
-                    .setModel("gpt-5")).get();
+                    .setModel("gpt-5")).get()) {
 
-            session.on(AssistantMessageEvent.class,
-                msg -> System.out.println(msg.getData().content()));
+                session.on(AssistantMessageEvent.class,
+                    msg -> System.out.println(msg.getData().content()));
 
-            session.sendAndWait(
-                new MessageOptions().setPrompt("Hello!")).get();
-
-            session.close();
+                session.sendAndWait(
+                    new MessageOptions().setPrompt("Hello!")).get();
+            }
         } catch (ExecutionException ex) {
             Throwable cause = ex.getCause();
             Throwable error = cause != null ? cause : ex;
