@@ -98,7 +98,8 @@ public class AccessibilityReport {
 
             // Prompt user for test generation
             System.out.print("Would you like to generate Playwright accessibility tests? (y/n): ");
-            String generateTests = reader.readLine().trim();
+            String generateTestsLine = reader.readLine();
+            String generateTests = generateTestsLine == null ? "" : generateTestsLine.trim();
 
             if (generateTests.equalsIgnoreCase("y") || generateTests.equalsIgnoreCase("yes")) {
                 var testLatch = new CountDownLatch(1);
