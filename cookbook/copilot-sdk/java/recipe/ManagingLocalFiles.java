@@ -9,7 +9,6 @@ import com.github.copilot.sdk.events.ToolExecutionStartEvent;
 import com.github.copilot.sdk.json.MessageOptions;
 import com.github.copilot.sdk.json.PermissionHandler;
 import com.github.copilot.sdk.json.SessionConfig;
-import java.nio.file.Paths;
 import java.util.concurrent.CountDownLatch;
 
 public class ManagingLocalFiles {
