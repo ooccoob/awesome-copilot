@@ -25,10 +25,10 @@ public class PersistingSessions {
                 .setPrompt("Let's discuss TypeScript generics")).get();
 
             System.out.println("\nSession ID: " + session.getSessionId());
-            System.out.println("Session closed — data persisted to disk.");
 
             // Close session but keep data on disk for later resumption
             session.close();
+            System.out.println("Session closed — data persisted to disk.");
         }
     }
 }
