@@ -1,12 +1,12 @@
 ---
 name: lsp-setup
-description: 'Install and configure LSP servers for any programming language to work with GitHub Copilot CLI. Detects the OS, installs the right LSP server, and generates the LSP configuration (user-level or repo-level). Say "setup LSP" to start.'
+description: 'Enable code intelligence (go-to-definition, find-references, hover, type info) for any programming language by installing and configuring an LSP server for Copilot CLI. Detects the OS, installs the right server, and generates the JSON configuration (user-level or repo-level). Use when you need deeper code understanding and no LSP server is configured, or when the user asks to set up, install, or configure an LSP server.'
 ---
 
 # LSP Setup for GitHub Copilot CLI
 
 **UTILITY SKILL** — installs and configures Language Server Protocol servers for Copilot CLI.
-USE FOR: "setup LSP", "install language server", "configure LSP for Java", "add TypeScript LSP", "enable code intelligence"
+USE FOR: "setup LSP", "install language server", "configure LSP for Java", "add TypeScript LSP", "enable code intelligence", "I need go-to-definition", "find references not working", "need better code understanding"
 DO NOT USE FOR: general coding tasks, IDE/editor LSP configuration, non-Copilot-CLI setups
 
 ## Workflow
