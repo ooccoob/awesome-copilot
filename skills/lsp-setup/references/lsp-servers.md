@@ -209,21 +209,21 @@ On macOS with Homebrew, the binary is installed as `jdtls` on `$PATH`.
 
 ## C# (.NET)
 
-**Server**: [OmniSharp](https://github.com/OmniSharp/omnisharp-roslyn) or [csharp-ls](https://github.com/razzmatazz/csharp-language-server)
+**Server**: [Roslyn Language Server](https://github.com/dotnet/roslyn) (via `dotnet dnx`)
 
-### Install (csharp-ls)
+### Install
 
-| OS      | Command                                        |
-|---------|-------------------------------------------------|
-| Any     | `dotnet tool install --global csharp-ls`        |
+| OS      | Command                                                        |
+|---------|----------------------------------------------------------------|
+| Any     | Requires the [.NET SDK](https://dot.net/download) installed    |
 
 ### Config snippet
 
 ```json
 {
   "csharp": {
-    "command": "csharp-ls",
-    "args": [],
+    "command": "dotnet",
+    "args": ["dnx", "roslyn-language-server", "--yes", "--prerelease", "--", "--stdio", "--autoLoadProjects"],
     "fileExtensions": {
       ".cs": "csharp"
     }
