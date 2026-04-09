@@ -71,37 +71,16 @@ On macOS with Homebrew, the binary is installed as `jdtls` on `$PATH`.
 
 ## Python
 
-**Server**: [pylsp (python-lsp-server)](https://github.com/python-lsp/python-lsp-server)
+**Server**: [pyright](https://github.com/microsoft/pyright)
 
 ### Install
 
-| OS      | Command                                |
-|---------|----------------------------------------|
-| Any     | `pip install python-lsp-server`        |
-| macOS   | `brew install python-lsp-server`       |
+| OS      | Command                    |
+|---------|----------------------------|
+| Any     | `npm install -g pyright`   |
+| Any     | `pip install pyright`      |
 
 ### Config snippet
-
-```json
-{
-  "python": {
-    "command": "pylsp",
-    "args": [],
-    "fileExtensions": {
-      ".py": "python"
-    }
-  }
-}
-```
-
-### Alternative: Pyright
-
-**Server**: [pyright](https://github.com/microsoft/pyright) (via [basedpyright](https://github.com/DetachHead/basedpyright) or [pyright](https://www.npmjs.com/package/pyright))
-
-| OS      | Command                                            |
-|---------|----------------------------------------------------|
-| Any     | `npm install -g pyright`                           |
-| Any     | `pip install basedpyright` (for basedpyright fork) |
 
 ```json
 {
