@@ -64,6 +64,7 @@ The JSON structure:
 
 After setup, tell the user:
 
-1. Launch `copilot` in a project with files of the configured language
-2. Run `/lsp` to check the server status
-3. Try code intelligence features like go-to-definition or hover
+1. Type `/exit` to quit Copilot CLI — this is **required** so the new LSP configuration is loaded on next launch
+2. Re-launch `copilot` in a project with files of the configured language
+3. Run `/lsp` to check the server status
+4. Try code intelligence features like go-to-definition or hover
